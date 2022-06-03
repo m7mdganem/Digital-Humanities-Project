@@ -31,6 +31,8 @@ visualization that describes the data from the dataset (maybe we will provide an
 that will let the user interact with it with some UI and get the data we gathered along the project).
 
 ## Resources 
+
 •Knesset committees website: https://main.knesset.gov.il/Activity/committees/Pages/AllCommitteeProtocols.aspx?ItemID=2019055
+
 •Knesset members dataset: https://opendata.hasadna.org.il/dataset/Knesset-members/resource/738b6353-a5c8-44fa-bf9e-cc5ef6a4f9a9
 
