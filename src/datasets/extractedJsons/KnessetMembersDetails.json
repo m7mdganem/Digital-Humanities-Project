@@ -1,0 +1,5169 @@
+{
+  "KnessetMembersDetails": [
+    {
+      "English_name": "Edelstein Yuli-Yoel",
+      "hebrew_name": "יולי יואל אדלשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Edery Raphael",
+      "hebrew_name": "רפאל אדרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Olmert Ehud",
+      "hebrew_name": "אהוד אולמרט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Orr Ori",
+      "hebrew_name": "אורי אור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Oron Chaim",
+      "hebrew_name": "חיים אורון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Oshaya Efi",
+      "hebrew_name": "אפי אושעיה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Azoulay David",
+      "hebrew_name": "דוד אזולאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Itzik Dalia",
+      "hebrew_name": "דליה איציק",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Eitan Michael",
+      "hebrew_name": "מיכאל איתן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eitan Rafael",
+      "hebrew_name": "רפאל איתן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elul Rafi",
+      "hebrew_name": "רפאל אלול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elon Benyamin",
+      "hebrew_name": "בנימין אלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "El-Sana Talab",
+      "hebrew_name": "טלב אלסאנע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Begin Ze`ev Binyamin",
+      "hebrew_name": "זאב בנימין בגין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Badash Pini",
+      "hebrew_name": "פיני בדש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Boim Ze`ev",
+      "hebrew_name": "זאב בוים",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bibi Yigal",
+      "hebrew_name": "יגאל ביבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Beilin Yossi",
+      "hebrew_name": "יוסי ביילין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Blumenthal Naomi",
+      "hebrew_name": "נעמי בלומנטל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ben-Eliezer Binyamin (Fouad)",
+      "hebrew_name": "בנימין בן-אליעזר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben Elissar Eliahu",
+      "hebrew_name": "אליהו בן-אלישר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Menachem Eli",
+      "hebrew_name": "אלי בן-מנחם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Ami Shlomo",
+      "hebrew_name": "שלמה בן-עמי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Zur Shmaryahu",
+      "hebrew_name": "שמריהו בן-צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Benizri Shlomo",
+      "hebrew_name": "שלמה בניזרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bronfman Roman",
+      "hebrew_name": "רומן ברונפמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Baram Uzi",
+      "hebrew_name": "עוזי ברעם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Barak Ehud",
+      "hebrew_name": "אהוד ברק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bishara Azmi",
+      "hebrew_name": "עזמי בשארה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gabbay Eliahu",
+      "hebrew_name": "אליהו גבאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gozansky Tamar",
+      "hebrew_name": "תמר גוזנסקי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Goldman Micha",
+      "hebrew_name": "מיכה גולדמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldschmidt Elie",
+      "hebrew_name": "אלי גולדשמידט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gamliel Arieh",
+      "hebrew_name": "אריה גמליאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gafni Moshe",
+      "hebrew_name": "משה גפני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dehamshe Abdulmalik",
+      "hebrew_name": "עבד-אלמאלכ דהאמשה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dahan Nissim",
+      "hebrew_name": "נסים דהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Haim",
+      "hebrew_name": "חיים דיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Yael",
+      "hebrew_name": "יעל דיין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Darawshe Abdulwahab",
+      "hebrew_name": "עבד-אלוהב דראושה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Deri Aryeh Machluf",
+      "hebrew_name": "אריה מכלוף דרעי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hirchson Abraham",
+      "hebrew_name": "אברהם הירשזון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Halpert Shmuel",
+      "hebrew_name": "שמואל הלפרט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hammer Zevulon",
+      "hebrew_name": "זבולון המר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hanegbi Tzachi",
+      "hebrew_name": "צחי הנגבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hendel Zvi",
+      "hebrew_name": "צבי הנדל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Harel Yehudah",
+      "hebrew_name": "יהודה הראל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Weinberg Zvi",
+      "hebrew_name": "צבי ויינברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Weiss Shevach",
+      "hebrew_name": "שבח וייס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Vaknin Yitzhak",
+      "hebrew_name": "יצחק וקנין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ze`evi Rechavam",
+      "hebrew_name": "רחבעם זאבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zvili Nissim",
+      "hebrew_name": "נסים זוילי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zisman Emanuel",
+      "hebrew_name": "עמנואל זיסמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sandberg Eliezer",
+      "hebrew_name": "אליעזר זנדברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Haj Yahia Rafik",
+      "hebrew_name": "רפיק חג יחיא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Chazan Naomi",
+      "hebrew_name": "נעמי חזן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Khatib Tawfik",
+      "hebrew_name": "תאופיק חטיב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tal David",
+      "hebrew_name": "דוד טל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tarif Saleh",
+      "hebrew_name": "סאלח טריף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yahav Yona",
+      "hebrew_name": "יונה יהב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yahalom Shaul",
+      "hebrew_name": "שאול יהלום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yechezkel Avraham",
+      "hebrew_name": "אברהם יחזקאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yishai Eliyahu",
+      "hebrew_name": "אליהו ישי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cabel Eitan",
+      "hebrew_name": "איתן כבל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Yitzhak",
+      "hebrew_name": "יצחק כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Ran",
+      "hebrew_name": "רן כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Ra`anan",
+      "hebrew_name": "רענן כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Yossi",
+      "hebrew_name": "יוסי כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Israel",
+      "hebrew_name": "ישראל כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Livnat Limor",
+      "hebrew_name": "לימור לבנת",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Lubotzky Alexander",
+      "hebrew_name": "אלכסנדר לובוצקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy David",
+      "hebrew_name": "דוד לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy Yitzhak",
+      "hebrew_name": "יצחק לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy Maxim",
+      "hebrew_name": "מקסים לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Libai David",
+      "hebrew_name": "דוד ליבאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Leizerson Avraham",
+      "hebrew_name": "אברהם יוסף לייזרזון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Landau Uzi",
+      "hebrew_name": "עוזי לנדאו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Landver Sofa",
+      "hebrew_name": "סופה לנדבר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Lancry Yehuda",
+      "hebrew_name": "יהודה לנקרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Maor Anat",
+      "hebrew_name": "ענת מאור",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Messele Addisu",
+      "hebrew_name": "אדיסו מאסלה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Magen (Monsonego) David",
+      "hebrew_name": "דוד מגן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mahameed Hashem",
+      "hebrew_name": "האשם מחאמיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meirom Hagai",
+      "hebrew_name": "חגי מירום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mazalha Nawaf",
+      "hebrew_name": "נואף מסאלחה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Matza Joshua",
+      "hebrew_name": "יהושע מצא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mordechay Itzchak",
+      "hebrew_name": "יצחק מרדכי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meridor Dan",
+      "hebrew_name": "דן מרידור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nudelman Michael",
+      "hebrew_name": "מיכאל נודלמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Netanyahu Benjamin",
+      "hebrew_name": "בנימין נתניהו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Solodkin Marina",
+      "hebrew_name": "מרינה סולודקין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Slomiansky Nissan",
+      "hebrew_name": "ניסן סלומינסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Saleem Saleh",
+      "hebrew_name": "סאלח סלים",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sneh Ephraim",
+      "hebrew_name": "אפרים סנה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sa`d Ahmad",
+      "hebrew_name": "אחמד סעד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ezra Gideon",
+      "hebrew_name": "גדעון עזרא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amor Shaul",
+      "hebrew_name": "שאול עמור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Poraz Avraham",
+      "hebrew_name": "אברהם פורז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Porat Hanan",
+      "hebrew_name": "חנן פורת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pines-Paz Ophir",
+      "hebrew_name": "אופיר פינס-פז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peled Moshe",
+      "hebrew_name": "משה פלד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pinchasi Raphael",
+      "hebrew_name": "רפאל פנחסי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Porush Meir",
+      "hebrew_name": "מאיר פרוש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peres Shimon",
+      "hebrew_name": "שמעון פרס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peretz Amir",
+      "hebrew_name": "עמיר פרץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sadik Walid",
+      "hebrew_name": "וליד צאדק חאג-יחיא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zucker David",
+      "hebrew_name": "דוד צוקר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kahalani Avigdor",
+      "hebrew_name": "אביגדור קהלני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kleiner Michael",
+      "hebrew_name": "מיכאל קליינר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katsav Moshe",
+      "hebrew_name": "משה קצב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Re`em David",
+      "hebrew_name": "דוד ראם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ravitz Avraham",
+      "hebrew_name": "אברהם רביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rubinstein Amnon",
+      "hebrew_name": "אמנון רובינשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rivlin Reuven",
+      "hebrew_name": "ראובן ריבלין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ramon Haim",
+      "hebrew_name": "חיים רמון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shaki Avner-Hai",
+      "hebrew_name": "אבנר-חי שאקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shochat Avraham",
+      "hebrew_name": "אברהם-בייגה שוחט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shahal Moshe",
+      "hebrew_name": "משה שחל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sheetrit Meir",
+      "hebrew_name": "מאיר שטרית",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stern Avraham",
+      "hebrew_name": "אברהם שטרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shtern Yuri",
+      "hebrew_name": "יורי שטרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shalom Silvan",
+      "hebrew_name": "סילבן שלום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Simhon Shalom",
+      "hebrew_name": "שלום שמחון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shmueli Doron",
+      "hebrew_name": "דורון שמואלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sharon Ariel",
+      "hebrew_name": "אריאל שרון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sarid Yossi",
+      "hebrew_name": "יוסי שריד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sharansky Natan",
+      "hebrew_name": "נתן שרנסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tichon Dan",
+      "hebrew_name": "דן תיכון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "A-Dahar Ahmed",
+      "hebrew_name": "אחמד א-דאהר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avital Samuel",
+      "hebrew_name": "שמואל אביטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ahimeir Yosef",
+      "hebrew_name": "יוסף אחימאיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Aloni Shulamit",
+      "hebrew_name": "שולמית אלוני",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Asaad Asaad",
+      "hebrew_name": "אסעד אסעד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Arad Nava",
+      "hebrew_name": "נאוה ארד",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Bagad Joseph",
+      "hebrew_name": "יוסף בא-גד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bohbot Shlomo",
+      "hebrew_name": "שלמה בוחבוט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Burg Avraham",
+      "hebrew_name": "אברהם בורג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gutman Shaul",
+      "hebrew_name": "שאול גוטמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldfarb Alex",
+      "hebrew_name": "אלכס גולדפרב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gur Mordechai",
+      "hebrew_name": "מרדכי גור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gur Efraim",
+      "hebrew_name": "אפרים גור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gal Gedalya",
+      "hebrew_name": "גדליה גל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Eli",
+      "hebrew_name": "אלי דיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Weinstein Ariel",
+      "hebrew_name": "אריאל ויינשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Vanunu Yosef",
+      "hebrew_name": "יוסף ונונו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Verdiger Avraham",
+      "hebrew_name": "אברהם ורדיגר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zayyad Tawfik",
+      "hebrew_name": "תופיק זיאד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hadad Haneh",
+      "hebrew_name": "חנא חדאד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Harish Michael",
+      "hebrew_name": "מיכאל חריש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Temkin Benjamin",
+      "hebrew_name": "בנימין טמקין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lubelsky Masha",
+      "hebrew_name": "מאשה לובלסקי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Lass Yoram",
+      "hebrew_name": "יורם לס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Maya Moshe",
+      "hebrew_name": "משה מאיה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Milo Roni",
+      "hebrew_name": "רוני מילוא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mena David",
+      "hebrew_name": "דוד מנע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nachman Ron",
+      "hebrew_name": "רון נחמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Namir Ora",
+      "hebrew_name": "אורה נמיר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Nissim Moshe",
+      "hebrew_name": "משה נסים",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Salmovitz Esther",
+      "hebrew_name": "אסתר סלמוביץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Eli Ovadia",
+      "hebrew_name": "עובדיה עלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Azran Joseph",
+      "hebrew_name": "יוסף עזרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peretz Yitzhak Haim",
+      "hebrew_name": "יצחק-חיים פרץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Patt Gideon",
+      "hebrew_name": "גדעון פת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsaban Yair",
+      "hebrew_name": "יאיר צבן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kaufman Haim",
+      "hebrew_name": "חיים קופמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kessar Israel",
+      "hebrew_name": "ישראל קיסר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rabin Yitzhak",
+      "hebrew_name": "יצחק רבין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ratzon Michael",
+      "hebrew_name": "מיכאל רצון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Segev Gonen",
+      "hebrew_name": "גונן שגב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sagee Gideon",
+      "hebrew_name": "גדעון שגיא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shetreet Shimon",
+      "hebrew_name": "שמעון שטרית",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shilansky Dov",
+      "hebrew_name": "דב שילנסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shamay Yaakov",
+      "hebrew_name": "יעקב שמאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shamir Yitzhak",
+      "hebrew_name": "יצחק שמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shefi Jacob",
+      "hebrew_name": "יעקב שפי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Schapira Avraham Yosef",
+      "hebrew_name": "אברהם שפירא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abuhatssira Aharon",
+      "hebrew_name": "אהרן אבוחצירא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "A-Nashaf Mahmud",
+      "hebrew_name": "מחמוד אנאשף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abu-Rabiah Hamad",
+      "hebrew_name": "חמאד אבו-רביעה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yadlin Aharon",
+      "hebrew_name": "אהרן ידלין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yaguri Assaf",
+      "hebrew_name": "אסף יגורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yedid Menahem",
+      "hebrew_name": "מנחם ידיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yadin Yigael",
+      "hebrew_name": "יגאל ידין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yehuda Haim",
+      "hebrew_name": "חיים יהודה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yehuda Zvi",
+      "hebrew_name": "צבי יהודה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Unichman Shimshon",
+      "hebrew_name": "שמשון יוניצמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yosef Dov (Bernard)",
+      "hebrew_name": "דב יוסף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yosef Yaakov",
+      "hebrew_name": "יעקב יוסף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yoseftal Giora",
+      "hebrew_name": "גיורא יוספטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yoseftal Senetta",
+      "hebrew_name": "סנטה יוספטל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Yellin-Mor Natan",
+      "hebrew_name": "נתן ילין-מור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yaacobi Gad",
+      "hebrew_name": "גד יעקבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Orlev Zevulun",
+      "hebrew_name": "זבולון אורלב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Brailovsky Victor",
+      "hebrew_name": "ויקטור בריילובסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Barakeh Mohammad",
+      "hebrew_name": "מוחמד ברכה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gagula Itzhak",
+      "hebrew_name": "יצחק גאגולה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Jabara Hussniya",
+      "hebrew_name": "חוסניה גבארה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Gilon Ilan",
+      "hebrew_name": "אילן גילאון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Galon Zehava",
+      "hebrew_name": "זהבה גלאון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Druckman Haim Meir",
+      "hebrew_name": "חיים דרוקמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Vilan Avshalom",
+      "hebrew_name": "אבשלום וילן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Vilnai Matan",
+      "hebrew_name": "מתן וילנאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shiry Wizman",
+      "hebrew_name": "ויצמן שירי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zeev Nissim",
+      "hebrew_name": "נסים זאב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hugi Ofer",
+      "hebrew_name": "עופר חוגי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tibi Ahmad",
+      "hebrew_name": "אחמד טיבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Eliezer",
+      "hebrew_name": "אליעזר כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Amnon",
+      "hebrew_name": "אמנון כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kanan Muhamad",
+      "hebrew_name": "מוחמד כנעאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Haim",
+      "hebrew_name": "חיים כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Livni Tzipi",
+      "hebrew_name": "ציפי לבני",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Liberman Avigdor",
+      "hebrew_name": "אביגדור ליברמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lipkin-Shahak Amnon",
+      "hebrew_name": "אמנון ליפקין-שחק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Litzman Yakov",
+      "hebrew_name": "יעקב ליצמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lapid Tommy",
+      "hebrew_name": "יוסף (טומי) לפיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Makhoul Issam",
+      "hebrew_name": "עסאם מחול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Melloul Rahamim",
+      "hebrew_name": "רחמים מלול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Melchior Michael",
+      "hebrew_name": "מיכאל מלכיאור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naot Yehudith",
+      "hebrew_name": "יהודית נאות",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Nahari Meshulam",
+      "hebrew_name": "משולם נהרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naveh Dan",
+      "hebrew_name": "דני נוה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Savir Uri",
+      "hebrew_name": "אורי סביר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shaban Yitzhak",
+      "hebrew_name": "יצחק סבן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Suissa Eliyahu",
+      "hebrew_name": "אליהו סויסה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Paritzky Joseph",
+      "hebrew_name": "יוסף יצחק פריצקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peretz Yair",
+      "hebrew_name": "יאיר פרץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsinker Alexander",
+      "hebrew_name": "אלכסנדר צינקר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kara Ayoob",
+      "hebrew_name": "איוב קרא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rabin-Pelossof Dalia",
+      "hebrew_name": "דליה רבין-פילוסוף",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Riger Gennady",
+      "hebrew_name": "גנדי ריגר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abu-Rochan Laviv-Hussein",
+      "hebrew_name": "לביב אבו-רוכן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avtabi Eliezer",
+      "hebrew_name": "אליעזר אבטבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avizohar Meir",
+      "hebrew_name": "מאיר אביזוהר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eban Abba",
+      "hebrew_name": "אבא אבן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avniel Binyamin",
+      "hebrew_name": "בנימין אבניאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avnery Uri",
+      "hebrew_name": "אורי אבנרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avriel Ehud",
+      "hebrew_name": "אהוד אבריאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abramov Zalman",
+      "hebrew_name": "שניאור זלמן אברמוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abramovicz Yehuda Meir",
+      "hebrew_name": "יהודה-מאיר אברמוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Uzan Aharon",
+      "hebrew_name": "אהרן אוזן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Olmert Mordechai",
+      "hebrew_name": "מרדכי אולמרט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Unna Moshe",
+      "hebrew_name": "משה אונא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Uri Yaakov",
+      "hebrew_name": "יעקב אורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Osnia Baruch",
+      "hebrew_name": "ברוך אזניה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Idelson Beba",
+      "hebrew_name": "בבה אידלסון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ichilov Ezra",
+      "hebrew_name": "עזרא איכילוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ilanit Fayge",
+      "hebrew_name": "אילנית פייגה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "E-Zoubi Seif E-Din",
+      "hebrew_name": "סיף-אלדין אלזועבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elgrably Mordechai",
+      "hebrew_name": "מרדכי אלגרבלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Alderoti Zvi",
+      "hebrew_name": "צבי אלדרוטי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Altman Arie",
+      "hebrew_name": "אריה אלטמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eliav Arie Lova",
+      "hebrew_name": "אריה לובה אליאב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eliahu Shlomo",
+      "hebrew_name": "שלמה אליהו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eliad Nissim",
+      "hebrew_name": "נסים אליעד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eliashar Eliahu",
+      "hebrew_name": "אליהו אלישר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Almogi Joseph Aharon",
+      "hebrew_name": "יוסף-אהרון אלמוגי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elmalich Avraham",
+      "hebrew_name": "אברהם אלמליח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amorai Adiel",
+      "hebrew_name": "עדיאל אמוראי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amir Jacques",
+      "hebrew_name": "יעקב-זאק אמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ankorion Ari",
+      "hebrew_name": "ארי אנקוריון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Assa Yerachmiel",
+      "hebrew_name": "ירחמיאל אסא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Asaad Shafik",
+      "hebrew_name": "שפיק אסעד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Assaf Ami",
+      "hebrew_name": "עמי אסף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Efrat Aharon",
+      "hebrew_name": "אהרון אפרת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Efrati Yosef",
+      "hebrew_name": "יוסף אפרתי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Arbeli-Almozlino Shoshana",
+      "hebrew_name": "שושנה ארבלי-אלמוזלינו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Argov Meir",
+      "hebrew_name": "מאיר ארגוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Arditi Binyamin",
+      "hebrew_name": "בנימין ארדיטי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Arazi Reuven",
+      "hebrew_name": "ראובן ארזי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ariav Chaim",
+      "hebrew_name": "חיים אריאב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Aridor Yoram",
+      "hebrew_name": "יורם ארידור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Erlich Simha",
+      "hebrew_name": "שמחה ארליך",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Aram Moshe",
+      "hebrew_name": "משה ארם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Aran Zalman",
+      "hebrew_name": "זלמן ארן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Arens Moshe",
+      "hebrew_name": "משה ארנס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Artzi Yitzhak",
+      "hebrew_name": "יצחק ארצי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eshel Tamar",
+      "hebrew_name": "תמר אשל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Be`eri Yedidia",
+      "hebrew_name": "ידידיה בארי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Babah Simcha",
+      "hebrew_name": "שמחה בבה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Badian Elyakim (Gustav)",
+      "hebrew_name": "אליקים-גוסטב בדיאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bader Yohanan",
+      "hebrew_name": "יוחנן בדר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bader Menachem",
+      "hebrew_name": "מנחם בדר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bahir Aryeh",
+      "hebrew_name": "אריה בהיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Boger Chaim",
+      "hebrew_name": "חיים בוגר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Burg Yosef",
+      "hebrew_name": "יוסף בורג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bejarno Shimon",
+      "hebrew_name": "שמעון בזרנו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bibi Mordechai",
+      "hebrew_name": "מרדכי ביבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bitton Avraham",
+      "hebrew_name": "אברהם ביטון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bitton Charlie",
+      "hebrew_name": "צרלי ביטון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Blumenthal Naftali",
+      "hebrew_name": "נפתלי בלומנטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Aharon Yitzhak",
+      "hebrew_name": "יצחק בן-אהרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Eliezer Aryeh",
+      "hebrew_name": "אריה בן-אליעזר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Asher Chaim",
+      "hebrew_name": "חיים בן-אשר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Yaakov Zalman",
+      "hebrew_name": "זלמן בן-יעקב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Israel Gideon",
+      "hebrew_name": "גדעון בן-ישראל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Meir Dov",
+      "hebrew_name": "דב בן-מאיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Meir Yehuda",
+      "hebrew_name": "יהודה בן-מאיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Meir Shlomo-Israel",
+      "hebrew_name": "שלמה-ישראל בן-מאיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Ami Moshe",
+      "hebrew_name": "משה בן-עמי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Porat Mordechai",
+      "hebrew_name": "מרדכי בן-פורת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Shlomo Shimon",
+      "hebrew_name": "שמעון בן-שלמה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bentov Mordechai",
+      "hebrew_name": "מרדכי בנטוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bastuni Rostam",
+      "hebrew_name": "רוסתם בסטוני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Becker Aharon",
+      "hebrew_name": "אהרן בקר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-On Mordechai",
+      "hebrew_name": "מרדכי בר-און",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-Zohar Michael",
+      "hebrew_name": "מיכאל בר-זהר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-Yehuda Israel",
+      "hebrew_name": "ישראל בר-יהודה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-Lev Haim",
+      "hebrew_name": "חיים בר-לב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-Nir Dov",
+      "hebrew_name": "דב בר-ניר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-Rav-Hai David",
+      "hebrew_name": "דוד בר-רב-האי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Berger Herzl",
+      "hebrew_name": "הרצל ברגר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Barzilai Israel",
+      "hebrew_name": "ישראל ברזילי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Berman Avraham",
+      "hebrew_name": "אברהם ברמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Berman Yitzhak",
+      "hebrew_name": "יצחק ברמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bernstein Peretz",
+      "hebrew_name": "פרץ ברנשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Baram Moshe",
+      "hebrew_name": "משה ברעם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Baratz Yosef",
+      "hebrew_name": "יוסף ברץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Barkat Reuven",
+      "hebrew_name": "ראובן ברקת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bash Refael",
+      "hebrew_name": "רפאל בש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Jabara Halil-Salim",
+      "hebrew_name": "חליל-סלים גבארה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gvati Haim",
+      "hebrew_name": "חיים גבתי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gadot Gideon",
+      "hebrew_name": "גדעון גדות",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Govrin Akiva",
+      "hebrew_name": "עקיבא גוברין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldberg Yosef",
+      "hebrew_name": "יוסף גולדברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldrat Avraham-Yehuda",
+      "hebrew_name": "אברהם גולדרט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldstein Aharon",
+      "hebrew_name": "אהרן גולדשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldstein Pinhas",
+      "hebrew_name": "פנחס גולדשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goldschmidt Yosef",
+      "hebrew_name": "יוסף גולדשמידט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Golomb David",
+      "hebrew_name": "דוד גולומב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Golan Itzhak",
+      "hebrew_name": "יצחק גולן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Guri Israel",
+      "hebrew_name": "ישראל גורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Goren Shraga",
+      "hebrew_name": "שרגא גורן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Guez Mathilda",
+      "hebrew_name": "מטילדה גז",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Givelber Avraham",
+      "hebrew_name": "אברהם גיבלבר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gil Yaakov",
+      "hebrew_name": "יעקב גיל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gil (Lifschitz) Yaacov",
+      "hebrew_name": "יעקב גיל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Glosca Zecharia",
+      "hebrew_name": "זכריה גלוסקא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Glazer-Taasa Miriam",
+      "hebrew_name": "מרים גלזר-תעסה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Galili Israel",
+      "hebrew_name": "ישראל גלילי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Glass David",
+      "hebrew_name": "דוד גלס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ganchovsky Eliyahu-Moshe",
+      "hebrew_name": "אליהו-משה גנחובסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Jarjora Amin-Salim",
+      "hebrew_name": "אמין גרגורה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gross Shlomo-Jacob",
+      "hebrew_name": "שלמה-יעקב גרוס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Grossman-Orkin Haika",
+      "hebrew_name": "חייקה גרוסמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Grupper Pesach",
+      "hebrew_name": "פסח גרופר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Garidi Shimon",
+      "hebrew_name": "שמעון גרידי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Greenberg Aharon-Yaakov",
+      "hebrew_name": "אהרן-יעקב גרינברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Greenberg Uri-Zvi",
+      "hebrew_name": "אורי-צבי גרינברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Granot Avraham",
+      "hebrew_name": "אברהם גרנות",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Granot Elazar",
+      "hebrew_name": "אלעזר גרנות",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Guershoni Zvi",
+      "hebrew_name": "צבי גרשוני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Degani Amos",
+      "hebrew_name": "עמוס דגני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Duvdevani Yechiel",
+      "hebrew_name": "יחיאל דובדבני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Deutsch Avraham",
+      "hebrew_name": "אברהם דויטש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Don-Yichye Shabtai",
+      "hebrew_name": "שבתאי דון-יחיא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Doron Sarah",
+      "hebrew_name": "שרה דורון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Diab Yussef",
+      "hebrew_name": "יוסף דיאב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Shlomo",
+      "hebrew_name": "שלמה דיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Shmuel",
+      "hebrew_name": "שמואל דיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dinor Ben-Zion",
+      "hebrew_name": "בן-ציון דינור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dinitz Simcha",
+      "hebrew_name": "שמחה דיניץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dinstein Zvi",
+      "hebrew_name": "צבי דינשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dycian Leon",
+      "hebrew_name": "ליאון דיציאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Danino David",
+      "hebrew_name": "דוד דנינו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dekel Michael",
+      "hebrew_name": "מיכאל דקל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Drobles Mates",
+      "hebrew_name": "מתתיהו דרובלס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Drori Avraham",
+      "hebrew_name": "אברהם דרורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Drori Hasya",
+      "hebrew_name": "חסיה דרורי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Dranitzki Yehuda",
+      "hebrew_name": "יהודה (יודין) דרניצקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hausner Gideon",
+      "hebrew_name": "גדעון האוזנר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hadar Amos",
+      "hebrew_name": "עמוס הדר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hurvitz Igael",
+      "hebrew_name": "יגאל הורביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hacohen David",
+      "hebrew_name": "דוד הכהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hacohen Menachem",
+      "hebrew_name": "מנחם הכהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hacarmeli Eliyahu",
+      "hebrew_name": "אליהו הכרמלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Halevi Benjamin",
+      "hebrew_name": "בנימין הלוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hillel Shlomo",
+      "hebrew_name": "שלמה הלל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hen Yechezkel",
+      "hebrew_name": "יחזקאל הן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Haetzni Elyakim",
+      "hebrew_name": "אליקים העצני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Haktin Ruth",
+      "hebrew_name": "רות הקטין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Harel Aharon",
+      "hebrew_name": "אהרן הראל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Harel Isser",
+      "hebrew_name": "איסר הראל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Harel Ben-Zion",
+      "hebrew_name": "בן-ציון הראל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Herring Zeev",
+      "hebrew_name": "זאב הרינג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Herlitz Esther",
+      "hebrew_name": "אסתר הרליץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Herman Zina",
+      "hebrew_name": "זינה הרמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Harpaz Netta",
+      "hebrew_name": "נטע הרפז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Herzog Chaim",
+      "hebrew_name": "חיים הרצוג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Herzfeld Avraham",
+      "hebrew_name": "אברהם הרצפלד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Harari Yizhar",
+      "hebrew_name": "יזהר הררי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Vilenska Esther",
+      "hebrew_name": "אסתר וילנסקה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Vilner Meir",
+      "hebrew_name": "מאיר וילנר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Virshubski Mordechai",
+      "hebrew_name": "מרדכי וירשובסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Waldman Eliezer",
+      "hebrew_name": "אליעזר ולדמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Warhaftig Zerach",
+      "hebrew_name": "זרח ורהפטיג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Wertheimer Stef",
+      "hebrew_name": "זאב ורטהיימר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Wertman Moshe",
+      "hebrew_name": "משה ורטמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Wattad Muhammed",
+      "hebrew_name": "מחמד ותד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Jabotinsky Ari",
+      "hebrew_name": "ערי זבוטינסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zo-Aretz Fridja",
+      "hebrew_name": "פריגה זוארץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "E-Zoubi Abd-El-Aziz",
+      "hebrew_name": "עבדול-עזיז זועבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zorea Meir",
+      "hebrew_name": "מאיר זורע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Seyger Isaac",
+      "hebrew_name": "יצחק זיגר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zeigerman Dror",
+      "hebrew_name": "דרור זייגרמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Seidel Hillel",
+      "hebrew_name": "הלל זיידל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zilberberg Avraham",
+      "hebrew_name": "אברהם זילברברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zysman Shalom",
+      "hebrew_name": "שלום זיסמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zackay Yehezkel",
+      "hebrew_name": "יחזקאל זכאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zakin Dov",
+      "hebrew_name": "דב זכין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zar Mordechai",
+      "hebrew_name": "מרדכי זר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Habibi Emil",
+      "hebrew_name": "אמיל חביבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hushi Abba",
+      "hebrew_name": "אבא חושי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Chazan Yaakov",
+      "hebrew_name": "יעקב חזן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Chasani Michael",
+      "hebrew_name": "מיכאל חזני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Khalaily Hamad",
+      "hebrew_name": "חמד חלאילה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Halfon Ben-Sion",
+      "hebrew_name": "בן-ציון חלפון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hamdan Faras",
+      "hebrew_name": "פארס חמדאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hamis Yussuf",
+      "hebrew_name": "יוסף חמיס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hanifes Salah-Hassan",
+      "hebrew_name": "סאלח חניפס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hassin Asher",
+      "hebrew_name": "אשר חסין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Harif Moshe",
+      "hebrew_name": "משה חריף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hashai Yehuda",
+      "hebrew_name": "יהודה חשאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Het Nahum",
+      "hebrew_name": "נחום חת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Taviv Avraham",
+      "hebrew_name": "אברהם טביב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tabankin Yitzhak",
+      "hebrew_name": "יצחק טבנקין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tversky Jenia",
+      "hebrew_name": "זניה טברסקי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Toubi Tawfik",
+      "hebrew_name": "תופיק טובי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Toledano Shmuel",
+      "hebrew_name": "שמואל טולידאנו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tiar Avraham",
+      "hebrew_name": "אברהם טיאר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yaari Meir",
+      "hebrew_name": "מאיר יערי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yafeh Aviad",
+      "hebrew_name": "אביעד יפה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yoffe Abraham",
+      "hebrew_name": "אברהם יפה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yifrach Yehonatan",
+      "hebrew_name": "יהונתן יפרח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Itzhaky Itzhak",
+      "hebrew_name": "יצחק יצחקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Itzhaky (Lishovsky) Itzhak",
+      "hebrew_name": "יצחק יצחקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yatziv Gadi",
+      "hebrew_name": "גדי יציב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yariv Aharon",
+      "hebrew_name": "אהרן יריב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yeshayahu Yisrael",
+      "hebrew_name": "ישראל ישעיהו-שרעבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Idov",
+      "hebrew_name": "אידוב כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Benno",
+      "hebrew_name": "בנו כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Geula",
+      "hebrew_name": "גאולה כהן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Cohen Gavriel",
+      "hebrew_name": "גבריאל כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Yigal",
+      "hebrew_name": "יגאל כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Yohanan",
+      "hebrew_name": "יוחנן כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Menahem",
+      "hebrew_name": "מנחם כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Shalom",
+      "hebrew_name": "שלום כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen-Avidov Meir",
+      "hebrew_name": "מאיר כהן-אבידב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen-Orgad Yigal",
+      "hebrew_name": "יגאל כהן-אורגד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen-Kagan Rachel",
+      "hebrew_name": "רחל כהן-כגן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Cohen-Meguri Haim",
+      "hebrew_name": "חיים כהן-מגורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen-Tsiddon Shlomo",
+      "hebrew_name": "שלמה כהן-צידון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kahane Meir",
+      "hebrew_name": "מאיר כהנא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kahana Kalman",
+      "hebrew_name": "קלמן כהנא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kalfon Avraham",
+      "hebrew_name": "אברהם כלפון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kanovitch Shimon",
+      "hebrew_name": "שמעון כנוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kesse  Yona",
+      "hebrew_name": "יונה כסה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kafrit Sarah",
+      "hebrew_name": "שרה כפרית",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Katz Avraham",
+      "hebrew_name": "אברהם כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Zeev",
+      "hebrew_name": "זאב כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Yaakov",
+      "hebrew_name": "יעקב כ\"ץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Shmuel",
+      "hebrew_name": "שמואל כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz-Oz Avraham",
+      "hebrew_name": "אברהם כץ-עוז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katznelson Batsheva",
+      "hebrew_name": "בת-שבע כצנלסון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Carmel Moshe",
+      "hebrew_name": "משה כרמל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lavon Pinhas",
+      "hebrew_name": "פנחס לבון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lavi Shlomo",
+      "hebrew_name": "שלמה לביא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levenbraun Avraham",
+      "hebrew_name": "אברהם לבנבראון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Livni Eitan",
+      "hebrew_name": "איתן לבני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levenstein Meir-David",
+      "hebrew_name": "מאיר-דוד לוונשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Luz Kadish",
+      "hebrew_name": "קדיש לוז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy Daniel-Yitzhak",
+      "hebrew_name": "דניאל יצחק לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy Yair",
+      "hebrew_name": "יאיר לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy Stella",
+      "hebrew_name": "סטלה לוי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Levin Yitzhak-Meir",
+      "hebrew_name": "יצחק-מאיר לוין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levin Nahum",
+      "hebrew_name": "נחום לוין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levin Shalom",
+      "hebrew_name": "שלום לוין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Locker Beryl",
+      "hebrew_name": "ברל לוקר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lorincz Shlomo",
+      "hebrew_name": "שלמה לורינץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Livna Eliezer",
+      "hebrew_name": "אליעזר ליבנה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Livschitz David",
+      "hebrew_name": "דוד ליבשיץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lynn Uriel",
+      "hebrew_name": "אוריאל לין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Linn Amnon",
+      "hebrew_name": "אמנון לין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Linker Zita",
+      "hebrew_name": "ציטה לינקר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Lamm Yosef-Michael",
+      "hebrew_name": "יוסף לם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lamdan Hannah",
+      "hebrew_name": "חנה למדן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Landau Haim",
+      "hebrew_name": "חיים לנדאו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lankin Eliyahu",
+      "hebrew_name": "אליהו לנקין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Laskov Tzipora",
+      "hebrew_name": "ציפורה לסקוב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Leket Yehiel",
+      "hebrew_name": "יחיאל לקט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moday Yitzhak",
+      "hebrew_name": "יצחק מודעי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moav Boaz",
+      "hebrew_name": "בועז מואב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mwais Hanna",
+      "hebrew_name": "חנא מוויס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moyal Eliahu",
+      "hebrew_name": "אליהו מויאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moade Jabr",
+      "hebrew_name": "גבר מועדי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mor David",
+      "hebrew_name": "דוד מור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mizrachi Eliezer",
+      "hebrew_name": "אליעזר מזרחי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mazur Eliyahu",
+      "hebrew_name": "אליהו מזור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mizrachi Yaakov",
+      "hebrew_name": "יעקב מזרחי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Milman Dov",
+      "hebrew_name": "דב מילמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Maimon Yehuda Leib",
+      "hebrew_name": "יהודה לייב מימון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Maimon Ada",
+      "hebrew_name": "עדה מימון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Mintz Benjamin",
+      "hebrew_name": "בנימין מינץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Miari Mohammed",
+      "hebrew_name": "מוחמד מיעארי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mikunis Shmuel",
+      "hebrew_name": "שמואל מיקוניס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Melamed Abraham",
+      "hebrew_name": "אברהם מלמד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meron Moshe",
+      "hebrew_name": "משה מרון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meridor Eliyahu",
+      "hebrew_name": "אליהו מרידור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meridor Yaacov",
+      "hebrew_name": "יעקב מרידור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Merlin Shmuel",
+      "hebrew_name": "שמואל מרלין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Marciano Saadia",
+      "hebrew_name": "סעדיה מרציאנו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meshel Jerucham",
+      "hebrew_name": "ירוחם משל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Neeman Yuval",
+      "hebrew_name": "יובל נאמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nof Akiva",
+      "hebrew_name": "עקיבא נוף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nurock Mordechai",
+      "hebrew_name": "מרדכי נורוק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nechushtan Yaakov",
+      "hebrew_name": "יעקב נחושתן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nahale Elias",
+      "hebrew_name": "אליאס נחלה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nahmias Aharon",
+      "hebrew_name": "אהרן נחמיאס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nehemkin Arye",
+      "hebrew_name": "אריה נחמקין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nitzani Yaakov",
+      "hebrew_name": "יעקב ניצני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nir Nahum",
+      "hebrew_name": "נחום ניר-רפאלקס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Namir Mordechai",
+      "hebrew_name": "מרדכי נמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nasereldeen Amal",
+      "hebrew_name": "אמל נסראלדין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naim Raanan",
+      "hebrew_name": "רענן נעים",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naffa Mohamed",
+      "hebrew_name": "מוחמד נפאע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naftali Peretz",
+      "hebrew_name": "פרץ נפתלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Netzer Devorah",
+      "hebrew_name": "דבורה נצר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Neriah Moshe-Zvi",
+      "hebrew_name": "צבי-משה נריה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sebag Uri",
+      "hebrew_name": "אורי סבג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Savidor Menachem",
+      "hebrew_name": "מנחם סבידור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sadan Dov",
+      "hebrew_name": "דב סדן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Susayeff Zalman",
+      "hebrew_name": "זלמן סוזאייב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Suissa Raphael",
+      "hebrew_name": "רפאל סויסה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Solodar Edna",
+      "hebrew_name": "עדנה סולודר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Surkis Mordechai",
+      "hebrew_name": "מרדכי סורקיס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stupp Abraham",
+      "hebrew_name": "אברהם סטופ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Saliman Tzalach",
+      "hebrew_name": "צלאח סלימאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Smilansky Yizhar",
+      "hebrew_name": "יזהר סמילנסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sneh Moshe",
+      "hebrew_name": "משה סנה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sanhadray Tova",
+      "hebrew_name": "טובה סנהדראי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Sapir Yosef",
+      "hebrew_name": "יוסף ספיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sapir Pinhas",
+      "hebrew_name": "פנחס ספיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sardines Moshe",
+      "hebrew_name": "משה סרדינס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sartani Amira",
+      "hebrew_name": "אמירה סרטני",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Serlin Yosef",
+      "hebrew_name": "יוסף סרלין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abaas Avraham",
+      "hebrew_name": "אברהם עבאס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ovid Diyab",
+      "hebrew_name": "דיאב עוביד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Uziel Baruch",
+      "hebrew_name": "ברוך עוזיאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ofer Avraham",
+      "hebrew_name": "אברהם עופר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Offer Mordechai",
+      "hebrew_name": "מרדכי עופר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Atashi Zeidan",
+      "hebrew_name": "זיידאן עטשי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amar Moshe",
+      "hebrew_name": "משה עמאר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amit Meir",
+      "hebrew_name": "מאיר עמית",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amar Shlomo",
+      "hebrew_name": "שלמה חיים עמר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Faris Hussein",
+      "hebrew_name": "חסיין חוסיין פארס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Feder Naftali",
+      "hebrew_name": "נפתלי פדר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Foerder Yeshayahu",
+      "hebrew_name": "ישעיהו פורדר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Feinberg-Sireni Ada",
+      "hebrew_name": "עדה פיינברג-סירני",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Feinerman Uzi",
+      "hebrew_name": "עוזי פיינרמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Fischer Yosef",
+      "hebrew_name": "יוסף פישר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Flatto-Sharon Shmuel",
+      "hebrew_name": "שמואל פלאטו-שרון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peled Mattityahu",
+      "hebrew_name": "מתתיהו פלד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peled Natan",
+      "hebrew_name": "נתן פלד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Feldman Moseh  Zeev",
+      "hebrew_name": "משה-זאב פלדמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Feldman Reuven",
+      "hebrew_name": "ראובן פלדמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Flomin Yehezkel",
+      "hebrew_name": "יחזקאל פלומין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Flash George",
+      "hebrew_name": "גורג פלש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pinkas David-Zvi",
+      "hebrew_name": "דוד-צבי פנקס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pa`il Meir",
+      "hebrew_name": "מאיר פעיל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Frumkin Heshel",
+      "hebrew_name": "השל פרומקין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Perach Yehuda",
+      "hebrew_name": "יהודה פרח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peri Eliezer",
+      "hebrew_name": "אליעזר פרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Freedman Marcia",
+      "hebrew_name": "מרשה פרידמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Freedman Simcha",
+      "hebrew_name": "שמחה פרידמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Perlstein Shlomo",
+      "hebrew_name": "שלמה פרלשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Preminger Eliezer",
+      "hebrew_name": "אליעזר פרמינגר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Frank Yaakov",
+      "hebrew_name": "יעקב פרנק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Parsitz Shoshana",
+      "hebrew_name": "שושנה פרסיץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Peretz Yitzhak",
+      "hebrew_name": "יצחק פרץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Petel David",
+      "hebrew_name": "דוד פתל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsabari Rachel",
+      "hebrew_name": "רחל צברי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Zadok Haim Joseph",
+      "hebrew_name": "חיים יוסף צדוק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsur Zeev",
+      "hebrew_name": "זאב צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsur Yaacov",
+      "hebrew_name": "יעקב צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsur Zvi",
+      "hebrew_name": "צבי צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tsiddon (Chatto) Yoash",
+      "hebrew_name": "יואש צידון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zisling Aharon",
+      "hebrew_name": "אהרן ציזלינג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zimmerman Zvi",
+      "hebrew_name": "צבי צימרמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zipori Mordechai",
+      "hebrew_name": "מרדכי צפורי-הנדין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kol Moshe",
+      "hebrew_name": "משה קול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kulas Eliezer",
+      "hebrew_name": "אליעזר קולס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kook Hillel",
+      "hebrew_name": "הלל קוק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Coren David",
+      "hebrew_name": "דוד קורן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Coren Yitzhak",
+      "hebrew_name": "יצחק קורן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Corfo Haim",
+      "hebrew_name": "חיים קורפו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kushnir Yosef",
+      "hebrew_name": "יוסף קושניר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Klivnov Yaakov",
+      "hebrew_name": "יעקב קליבנוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Klinghoffer Yitzhak",
+      "hebrew_name": "יצחק-הנס קלינגהופר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kelmer Moshe",
+      "hebrew_name": "משה קלמר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kamin Baruch",
+      "hebrew_name": "ברוך קמין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kanev Itzhak",
+      "hebrew_name": "יצחק קנב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kassis Masaad",
+      "hebrew_name": "מסעד קסיס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kaplan Eliezer",
+      "hebrew_name": "אליעזר קפלן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katzsab Nuzhat",
+      "hebrew_name": "נוזהת קצב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kargman Israel",
+      "hebrew_name": "ישראל קרגמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kremerman Joseph",
+      "hebrew_name": "יוסף קרמרמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Keshet Ben-Zion",
+      "hebrew_name": "בן-ציון קשת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rabinowitz Yehoshua",
+      "hebrew_name": "יהושע רבינוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rubin Ben-Zion",
+      "hebrew_name": "בן-ציון רובין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rubin Hanan",
+      "hebrew_name": "חנן רובין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rosolio Daniel",
+      "hebrew_name": "דניאל רוזוליו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rosen Pinhas",
+      "hebrew_name": "פנחס רוזן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rosen Shlomo",
+      "hebrew_name": "שלמה רוזן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rom Josef",
+      "hebrew_name": "יוסף רום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ron Emry",
+      "hebrew_name": "אמרי רון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ronnen Eliezer",
+      "hebrew_name": "אליעזר רונן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rokach Israel",
+      "hebrew_name": "ישראל רוקח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Raz Nachman",
+      "hebrew_name": "נחמן רז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Raziel-Naor Esther",
+      "hebrew_name": "אסתר רזיאל-נאור",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Reisser Michael",
+      "hebrew_name": "מיכאל רייסר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rimalt Elimelech",
+      "hebrew_name": "אלימלך-שמעון רימלט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Riftin Yaakov",
+      "hebrew_name": "יעקב ריפתין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rechtman Shmuel",
+      "hebrew_name": "שמואל רכטמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Remez Aharon",
+      "hebrew_name": "אהרן רמז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Remez David",
+      "hebrew_name": "דוד רמז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rener Zvi",
+      "hebrew_name": "צבי רנר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Raphael Yitzhak",
+      "hebrew_name": "יצחק רפאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Repetur Berl  ",
+      "hebrew_name": "ברל רפטור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ratzon Menachem",
+      "hebrew_name": "מנחם רצון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rakanti Avraham",
+      "hebrew_name": "אברהם רקנטי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shag Avraham-Haim",
+      "hebrew_name": "אברהם חיים שאג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shaki Shalom-Avraham",
+      "hebrew_name": "שלום אברהם שאקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sagi Yeushua",
+      "hebrew_name": "יהושע שגיא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shoval Zalman",
+      "hebrew_name": "זלמן שובל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shostak Eliezer",
+      "hebrew_name": "אליעזר שוסטק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shofman Yosef",
+      "hebrew_name": "יוסף שופמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Schocken Gershom",
+      "hebrew_name": "גרשום שוקן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shoresh Shmuel",
+      "hebrew_name": "שמואל שורש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shachor Binyamin",
+      "hebrew_name": "בנימין שחור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sheetrit Bechor-Shalom",
+      "hebrew_name": "בכור-שלום שיטרית",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stern David",
+      "hebrew_name": "דוד שטרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stern Mordechai-Chaim",
+      "hebrew_name": "מרדכי-חיים שטרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stern-Katan Sara",
+      "hebrew_name": "שרה שטרן-קטן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Shichman Shabtai",
+      "hebrew_name": "שבתאי שיכמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shiloah Zvi",
+      "hebrew_name": "צבי שילוח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Scheinman Pinchas",
+      "hebrew_name": "פנחס שינמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shiffman David",
+      "hebrew_name": "דוד שיפמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shechterman Abraham",
+      "hebrew_name": "אברהם שכטרמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shalom Ephraim",
+      "hebrew_name": "אפרים שלום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shalita Benny",
+      "hebrew_name": "בני שליטא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shem-Tov Victor",
+      "hebrew_name": "ויקטור שם-טוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Simhoni Yehudit",
+      "hebrew_name": "יהודית שמחונית",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Shamir Moshe",
+      "hebrew_name": "משה שמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shimoni Haviv",
+      "hebrew_name": "חביב שמעוני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shaari Yehuda",
+      "hebrew_name": "יהודה שערי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shafat Gershon",
+      "hebrew_name": "גרשון שפט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sheftel Aryeh",
+      "hebrew_name": "אריה שפטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Speiser Eliahu",
+      "hebrew_name": "אליהו שפייזר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shapira Haim-Moshe",
+      "hebrew_name": "חיים משה שפירא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shapira Yaakov-Shimshon",
+      "hebrew_name": "יעקב-שמשון שפירא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shefer Zeev",
+      "hebrew_name": "זאב שפר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shprinzak Yair",
+      "hebrew_name": "יאיר שפרינצק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shprinzak Joseph",
+      "hebrew_name": "יוסף שפרינצק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sheri Reuven",
+      "hebrew_name": "ראובן שרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sharir Avraham",
+      "hebrew_name": "אברהם שריר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sherf Zeev",
+      "hebrew_name": "זאב שרף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sharett Moshe",
+      "hebrew_name": "משה שרת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sasson Eliyahu",
+      "hebrew_name": "אליהו ששון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sassoon Charles Benjamin (Silach)",
+      "hebrew_name": "בנימין ששון-סילס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Taburi Ephraim",
+      "hebrew_name": "אפרים תבורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Talmi Emma",
+      "hebrew_name": "אמה תלמי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Talmi Meir",
+      "hebrew_name": "מאיר תלמי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tamir Josef",
+      "hebrew_name": "יוסף תמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tamir (Katznelson) Shmuel ",
+      "hebrew_name": "שמואל תמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Zvi Yitzhak",
+      "hebrew_name": "יצחק בן-צבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shazar Shneor Zalman",
+      "hebrew_name": "זלמן שזר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Allon Yigal",
+      "hebrew_name": "יגאל אלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eshkol Levi",
+      "hebrew_name": "לוי אשכול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Gurion David",
+      "hebrew_name": "דוד בן-גוריון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Meir Golda",
+      "hebrew_name": "גולדה מאיר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Porush Menahem",
+      "hebrew_name": "מנחם פרוש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Navon Yitzhak",
+      "hebrew_name": "יצחק נבון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Moshe",
+      "hebrew_name": "משה דיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Weizman Ezer",
+      "hebrew_name": "עזר ויצמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Begin Menachem",
+      "hebrew_name": "מנחם בגין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shomer Pini",
+      "hebrew_name": "פנחס שומר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nir Zvi",
+      "hebrew_name": "צביקה ניר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Steinitz Yuval",
+      "hebrew_name": "יובל שטייניץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Langental Nahum",
+      "hebrew_name": "נחום לנגנטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tamir Yuli",
+      "hebrew_name": "יולי תמיר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Geri Yaacov (Meyer)",
+      "hebrew_name": "יעקב מאיר גרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Haim",
+      "hebrew_name": "חיים כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Toledano Yaakov Moshe",
+      "hebrew_name": "יעקב משה טולידאנו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dolchin Aryeh",
+      "hebrew_name": "אריה דולצין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Israel",
+      "hebrew_name": "ישראל כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shapira Yosef",
+      "hebrew_name": "יוסף שפירא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avital Colette",
+      "hebrew_name": "קולט אביטל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Amital Yehuda",
+      "hebrew_name": "יהודה עמיטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Neeman Yaakov",
+      "hebrew_name": "יעקב נאמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Greenboim Yitzhak",
+      "hebrew_name": "יצחק גרינבוים",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Raz Mossi",
+      "hebrew_name": "מוסי רז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mishani Mordechai",
+      "hebrew_name": "מרדכי משעני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ohana Asher",
+      "hebrew_name": "אשר אוחנה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ronen Nehama",
+      "hebrew_name": "נחמה רונן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Lasry Yechiel",
+      "hebrew_name": "יחיאל לסרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ariel Uri Yehuda",
+      "hebrew_name": "אורי אריאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Eli",
+      "hebrew_name": "אלי כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eitam Effie",
+      "hebrew_name": "אפי איתם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gilad Yehuda",
+      "hebrew_name": "יהודה גלעד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Noked Orit",
+      "hebrew_name": "אורית נוקד",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Reshef Tzaly",
+      "hebrew_name": "צלי רשף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Even Uzi",
+      "hebrew_name": "עוזי אבן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mofaz Shaul",
+      "hebrew_name": "שאול מופז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zabre Pinhas",
+      "hebrew_name": "פנחס צברי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gamliel Gila",
+      "hebrew_name": "גילה גמליאל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Avraham Balila Ruhama",
+      "hebrew_name": "רוחמה אברהם-בלילא",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Sa`ar Gideon",
+      "hebrew_name": "גדעון סער",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Benlolo Daniel",
+      "hebrew_name": "דניאל בנלולו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Whbee Majallie",
+      "hebrew_name": "מגלי והבה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Edery Jacob",
+      "hebrew_name": "יעקב אדרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yatom Ehud",
+      "hebrew_name": "אהוד יתום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Aflalo Eli",
+      "hebrew_name": "אלי אפללו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kahlon Moshe ",
+      "hebrew_name": "משה כחלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sharon Omri",
+      "hebrew_name": "עמרי שרון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gorlovsky Michael",
+      "hebrew_name": "מיכאל גורלובסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Erdan Gilad",
+      "hebrew_name": "גלעד ארדן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-On Ronnie",
+      "hebrew_name": "רוני בר-און",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gavriely Inbal",
+      "hebrew_name": "ענבל גבריאלי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Hazan Yehiel",
+      "hebrew_name": "יחיאל חזן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nass Lea",
+      "hebrew_name": "לאה נס",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Mitzna Amram",
+      "hebrew_name": "עמרם מצנע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Herzog Isaac",
+      "hebrew_name": "יצחק הרצוג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yatom Dani",
+      "hebrew_name": "דני יתום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shalgi Ilan",
+      "hebrew_name": "אילן שלגי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Polishook-Bloch Meli",
+      "hebrew_name": "מלי פולישוק-בלוך",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Chayne Reshef",
+      "hebrew_name": "רשף חן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Brison Ronny A.",
+      "hebrew_name": "רוני בריזון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rassabi Ehud",
+      "hebrew_name": "אהוד רצאבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Livni Eti",
+      "hebrew_name": "אתי לבני",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Leibovitch Ilan",
+      "hebrew_name": "אילן ליבוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Doron Chemi",
+      "hebrew_name": "חמי דורון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yasinov Igal",
+      "hebrew_name": "יגאל יאסינוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Margi Yakov",
+      "hebrew_name": "יעקב מרגי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eldad Arieh",
+      "hebrew_name": "אריה אלדד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Finkelstein Gila",
+      "hebrew_name": "גילה פינקלשטיין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Eichler Israel",
+      "hebrew_name": "ישראל אייכלר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Ilana",
+      "hebrew_name": "אילנה כהן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Zahalka Jamal",
+      "hebrew_name": "גמאל זחאלקה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Taha Wasil",
+      "hebrew_name": "ואסל טאהא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Majadele Raleb",
+      "hebrew_name": "גאלב מגאדלה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Golan Erela",
+      "hebrew_name": "אראלה גולן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Rosenblum Penina",
+      "hebrew_name": "פנינה רוזנבלום",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ilan Tova",
+      "hebrew_name": "טובה אילן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Tzur Ronen",
+      "hebrew_name": "רונן צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Koren Dani",
+      "hebrew_name": "דני קורן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tartman Esterina",
+      "hebrew_name": "אסתרינה טרטמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Angel Orna",
+      "hebrew_name": "אורנה אנגל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Dobrin Neta",
+      "hebrew_name": "נטע דוברין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ben-Sasson Menahem",
+      "hebrew_name": "מנחם בן-ששון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elkin Zeev",
+      "hebrew_name": "זאב אלקין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Breznitz Shlomo",
+      "hebrew_name": "שלמה ברזניץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dotan Amira",
+      "hebrew_name": "עמירה דותן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Dicter Avi",
+      "hebrew_name": "אבי דיכטר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hasson Yoel",
+      "hebrew_name": "יואל חסון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Itzchaky Avigdor",
+      "hebrew_name": "אביגדור יצחקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tirosh Ronit",
+      "hebrew_name": "רונית תירוש",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Reichman Uriel",
+      "hebrew_name": "אוריאל רייכמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Schneller Otniel",
+      "hebrew_name": "עתניאל שנלר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ziv Izhak",
+      "hebrew_name": "יצחק זיו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zkoor Abas",
+      "hebrew_name": "עבאס זכור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hilou Nadia",
+      "hebrew_name": "נאדיה חילו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Khenin Dov",
+      "hebrew_name": "דב חנין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hasson Israel",
+      "hebrew_name": "ישראל חסון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yachimovich Shelly",
+      "hebrew_name": "שלי יחימוביץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Cohen Yakov",
+      "hebrew_name": "יעקב כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Michaeli Avraham",
+      "hebrew_name": "אברהם מיכאלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Miller Alex",
+      "hebrew_name": "אלכס מילר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Misezhnikov Stas",
+      "hebrew_name": "סטס מיסזניקוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Marom Shalev Sara",
+      "hebrew_name": "שרה מרום שלו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Marciano Yoram",
+      "hebrew_name": "יורם מרציאנו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Swaid Hanna",
+      "hebrew_name": "חנא סוייד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Aharonovitch Yitzhak",
+      "hebrew_name": "יצחק אהרונוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Atias Ariel",
+      "hebrew_name": "אריאל אטיאס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ayalon Ami",
+      "hebrew_name": "עמיחי אילון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ilatov Robert",
+      "hebrew_name": "רוברט אילטוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Eitan Rafi",
+      "hebrew_name": "רפי איתן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amsellem Chaim",
+      "hebrew_name": "חיים אמסלם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben Yizri Yacov",
+      "hebrew_name": "יעקב בן-יזרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Braverman Avishay",
+      "hebrew_name": "אבישי ברוורמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Glazer Elhanan",
+      "hebrew_name": "אלחנן גלזר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Galantee Itshac",
+      "hebrew_name": "יצחק גלנטי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sarsour Ibrahim",
+      "hebrew_name": "אברהים צרצור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shagal Yosef",
+      "hebrew_name": "יוסף שגל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shemtov Lia",
+      "hebrew_name": "ליה שמטוב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Sharoni Moshe",
+      "hebrew_name": "משה שרוני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hermesh Shai",
+      "hebrew_name": "שי חרמש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rotem David",
+      "hebrew_name": "דוד רותם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Friedmann Daniel",
+      "hebrew_name": "דניאל פרידמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naffaa Said",
+      "hebrew_name": "סעיד נפאע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Israel Isaac",
+      "hebrew_name": "יצחק בן ישראל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Plesner Yohanan",
+      "hebrew_name": "יוחנן פלסנר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Molla Shlomo (Neguse)",
+      "hebrew_name": "שלמה מולה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bahyna Mazor",
+      "hebrew_name": "מזור בהיינה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shnaan Shachiv",
+      "hebrew_name": "שכיב מוראד שנאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Litinetsky Leon",
+      "hebrew_name": "לאון ליטינצקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Maklev Uri",
+      "hebrew_name": "אורי מקלב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Greenfield Tzvia",
+      "hebrew_name": "צביה גרינפילד",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Pollack Yehoshua Menachem",
+      "hebrew_name": "יהושע מנחם פולק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bielski Zeev",
+      "hebrew_name": "זאב בילסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shai Nachman",
+      "hebrew_name": "נחמן שי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tiviaev Robert",
+      "hebrew_name": "רוברט טיבייב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Adatto Rachel",
+      "hebrew_name": "רחל אדטו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Bibi Arie",
+      "hebrew_name": "אריה ביבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zuaretz Orit",
+      "hebrew_name": "אורית זוארץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ya`alon Moshe",
+      "hebrew_name": "משה יעלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Peled Yossi",
+      "hebrew_name": "יוסי פלד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hotovely Tzipi",
+      "hebrew_name": "ציפי חוטובלי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Levin Yariv",
+      "hebrew_name": "יריב לוין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pinyan Zion",
+      "hebrew_name": "ציון פיניאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Danon Danny",
+      "hebrew_name": "דני דנון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shama Hacohen Carmel",
+      "hebrew_name": "כרמל שאמה-הכהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Akunis Ofir",
+      "hebrew_name": "אופיר אקוניס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Regev Miri",
+      "hebrew_name": "מירי מרים רגב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Levi-Abekasis Orly",
+      "hebrew_name": "אורלי לוי אבקסיס",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ayalon Daniel",
+      "hebrew_name": "דניאל אילון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Michaeli Anastassia",
+      "hebrew_name": "אנסטסיה מיכאלי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kirshenbaum Fania",
+      "hebrew_name": "פניה קירשנבאום",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ben Simon Daniel",
+      "hebrew_name": "דניאל בן-סימון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amar Hamad",
+      "hebrew_name": "חמד עמאר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Matalon Moshe Mutz",
+      "hebrew_name": "משה (מוץ) מטלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moses Menachem Eliezer",
+      "hebrew_name": "מנחם אליעזר מוזס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Yaakov (Katzeleh)",
+      "hebrew_name": "יעקב כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben Ari Michael",
+      "hebrew_name": "מיכאל בן-ארי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Agbaria Afou",
+      "hebrew_name": "עפו אגבאריה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Horowitz Nitzan",
+      "hebrew_name": "ניצן הורוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ganaim Masud",
+      "hebrew_name": "מסעוד גנאים",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Orbach Uri",
+      "hebrew_name": "אורי אורבך",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zoabi Hanin",
+      "hebrew_name": "חנין זועבי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Hershkowitz Daniel",
+      "hebrew_name": "דניאל הרשקוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shamalov Berkovich Yulia",
+      "hebrew_name": "יוליה שמאלוב-ברקוביץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Wilf Einat",
+      "hebrew_name": "עינת וילף",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Abesadze Nino",
+      "hebrew_name": "נינו אבסדזה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Avital Doron",
+      "hebrew_name": "דורון אביטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Duan Avraham",
+      "hebrew_name": "אברהם דואן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zellner Yuval",
+      "hebrew_name": "יובל צלנר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hasoon Akram ",
+      "hebrew_name": "אכרם חסון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dabbah Ahmed",
+      "hebrew_name": "אחמד דבאח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Adamso Alali",
+      "hebrew_name": "אללי אדמסו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abu Arar Talab",
+      "hebrew_name": "טלב אבו עראר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ohayon Shimon",
+      "hebrew_name": "שמעון אוחיון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elharrar Karin",
+      "hebrew_name": "קארין אלהרר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Asher Yakov",
+      "hebrew_name": "יעקב אשר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Biran Michal",
+      "hebrew_name": "מיכל בירן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ben Dahan Eli",
+      "hebrew_name": "אלי בן-דהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bennett Naftali",
+      "hebrew_name": "נפתלי בנט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar Yehiel Hilik",
+      "hebrew_name": "יחיאל חיליק בר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Barlev Omer",
+      "hebrew_name": "עמר בר לב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ghattas Basel",
+      "hebrew_name": "באסל גטאס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "German Yael",
+      "hebrew_name": "יעל גרמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Hoffman Ronen",
+      "hebrew_name": "רונן הופמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Wortzman Avi",
+      "hebrew_name": "אברהם וורצמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zandberg Tamar",
+      "hebrew_name": "תמר זנדברג",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Toporovsky Boaz",
+      "hebrew_name": "בועז טופורובסקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yogev Mordhay",
+      "hebrew_name": "מרדכי יוגב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Meir",
+      "hebrew_name": "מאיר כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lavie Aliza",
+      "hebrew_name": "עליזה לביא",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Levy Mickey",
+      "hebrew_name": "מיקי לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lipman Dov",
+      "hebrew_name": "דב ליפמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lapid Yair",
+      "hebrew_name": "יאיר לפיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moalem-Refaeli Shuli",
+      "hebrew_name": "שולי מועלם-רפאלי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Mizrahi Moshe",
+      "hebrew_name": "משה מזרחי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Michaeli Merav",
+      "hebrew_name": "מרב מיכאלי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Margalit Erel",
+      "hebrew_name": "אראל מרגלית",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Solomon Shimon",
+      "hebrew_name": "שמעון סולומון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Strock Orit",
+      "hebrew_name": "אורית סטרוק",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Feiglin Moshe Zalman",
+      "hebrew_name": "משה זלמן פייגלין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Piron Shai",
+      "hebrew_name": "שי פירון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Perry Yaakov",
+      "hebrew_name": "יעקב פרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Frej Esawi  ",
+      "hebrew_name": "עיסאווי פריג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Frenkel Rina",
+      "hebrew_name": "רינה פרנקל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Tsur David",
+      "hebrew_name": "דוד צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Koll Adi",
+      "hebrew_name": "עדי קול",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Calderon Ruth",
+      "hebrew_name": "רות קלדרון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kalfa Zvulun",
+      "hebrew_name": "זבולון כלפה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kariv Yifat",
+      "hebrew_name": "יפעת קריב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Rozin Michal",
+      "hebrew_name": "מיכל רוזין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Rosenthal Micky",
+      "hebrew_name": "מיקי רוזנטל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Razvozov Yoel",
+      "hebrew_name": "יואל רזבוזוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Chetboun Yoni",
+      "hebrew_name": "יוני שטבון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stern Elazar",
+      "hebrew_name": "אלעזר שטרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shelah Ofer",
+      "hebrew_name": "עפר שלח",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shmuli Itzik",
+      "hebrew_name": "איציק שמולי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shamir Yair",
+      "hebrew_name": "יאיר שמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shaffir Stav",
+      "hebrew_name": "סתיו שפיר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Shaked Ayelet",
+      "hebrew_name": "אילת שקד",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Tamanu Penina",
+      "hebrew_name": "פנינה תמנו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ben Tzur Yoav",
+      "hebrew_name": "יואב בן צור",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Edri Lior",
+      "hebrew_name": "ליאור אדרי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Horowitz Hillel Ilan",
+      "hebrew_name": "הלל אילן הורוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abu Maaruf Abdullah",
+      "hebrew_name": "עבדאללה אבו מערוף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Oren Michael",
+      "hebrew_name": "מיכאל אורן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elalouf Elie",
+      "hebrew_name": "אלי אלאלוף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Amsalem David",
+      "hebrew_name": "דוד אמסלם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bahloul Zouheir",
+      "hebrew_name": "זוהיר בהלול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bitan David",
+      "hebrew_name": "דוד ביטן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben Ari Merav",
+      "hebrew_name": "מירב בן ארי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ben Reuven Eyal",
+      "hebrew_name": "איל בן ראובן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Broshi Eytan",
+      "hebrew_name": "איתן ברושי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Berko Anat",
+      "hebrew_name": "ענת ברקו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Jabareen Yousef",
+      "hebrew_name": "יוסף גבארין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gal Sharon",
+      "hebrew_name": "שרון גל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gallant Yoav",
+      "hebrew_name": "יואב גלנט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zohar Miki",
+      "hebrew_name": "מכלוף מיקי זוהר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Haj Yahya Abd Al Hakeem",
+      "hebrew_name": "עבד אל חכים חאג יחיא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hazan Oren Asaf",
+      "hebrew_name": "אורן אסף חזן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Trajtenberg Manuel",
+      "hebrew_name": "מנואל טרכטנברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yonah Yoseph",
+      "hebrew_name": "יוסי יונה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Jelin Haim",
+      "hebrew_name": "חיים ילין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Eli",
+      "hebrew_name": "אלי כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levy Jackie",
+      "hebrew_name": "זקי לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Magal Yinon",
+      "hebrew_name": "ינון מגל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mazuz Yaron",
+      "hebrew_name": "ירון מזוז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Neguise Avraham",
+      "hebrew_name": "אברהם נגוסה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nahmias-Verbin Ayelet",
+      "hebrew_name": "איילת נחמיאס ורבין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Svetlova Ksenia",
+      "hebrew_name": "קסניה סבטלובה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Swid Revital",
+      "hebrew_name": "רויטל סויד",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Smotrich Bezalel",
+      "hebrew_name": "בצלאל סמוטריץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Saadi Osama",
+      "hebrew_name": "אוסאמה סעדי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Odeh Ayman",
+      "hebrew_name": "איימן עודה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Azaria Rachel",
+      "hebrew_name": "רחל עזריה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Atar Daniel",
+      "hebrew_name": "דניאל עטר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Folkman Roy",
+      "hebrew_name": "רועי פולקמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ploskov Tali",
+      "hebrew_name": "טלי פלוסקוב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Boker Nava",
+      "hebrew_name": "נאוה בוקר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Koren Nurit",
+      "hebrew_name": "נורית קורן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kisch Yoav",
+      "hebrew_name": "יואב קיש",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shasha-Biton Yifat",
+      "hebrew_name": "יפעת שאשא ביטון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Touma-Sliman Aida",
+      "hebrew_name": "עאידה תומא סלימאן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Gabbay Avi",
+      "hebrew_name": "אבי גבאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Haskel Sharren ",
+      "hebrew_name": "שרן מרים השכל",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Forer Oded",
+      "hebrew_name": "עודד פורר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Paran Yael",
+      "hebrew_name": "יעל כהן-פארן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ohana Amir",
+      "hebrew_name": "אמיר אוחנה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Guetta Yigal ",
+      "hebrew_name": "יגאל גואטה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Glick Yehuda Joshua",
+      "hebrew_name": "יהודה גליק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Malinovsky Yulia",
+      "hebrew_name": "יוליה מלינובסקי קונין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Malchieli Michael ",
+      "hebrew_name": "מיכאל מלכיאלי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Azbarga Joumah",
+      "hebrew_name": "גמעה אזברגה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Alkharumi Saeed",
+      "hebrew_name": "סעיד אלחרומי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Saida Dan",
+      "hebrew_name": "דן סיידה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hijazi Ibrahim ",
+      "hebrew_name": "אבראהים חגאזי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Saad Saleh",
+      "hebrew_name": "סאלח סעד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Fadida Leah",
+      "hebrew_name": "לאה פדידה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Atauna Youssef ",
+      "hebrew_name": "יוסף עטאונה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Younis Wael",
+      "hebrew_name": "ואאל יונס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Azoulay Yinon ",
+      "hebrew_name": "ינון אזולאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abu Rahmoun Neven",
+      "hebrew_name": "ניבין אבו רחמון",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Mark Osnat Hila",
+      "hebrew_name": "אוסנת הילה מארק",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Seyoum Fentahun",
+      "hebrew_name": "פנתהון סיום",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Barkat Nir",
+      "hebrew_name": "ניר ברקת",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Nissenkorn Avi",
+      "hebrew_name": "אבי ניסנקורן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Ofir",
+      "hebrew_name": "אופיר כץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sofer Ofir",
+      "hebrew_name": "אופיר סופר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Farkash-Hacohen Orit",
+      "hebrew_name": "אורית פרקש הכהן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Froman Orly",
+      "hebrew_name": "אורלי פרומן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Barbivay  Orna",
+      "hebrew_name": "אורנה ברביבאי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ginzburg Eitan",
+      "hebrew_name": "איתן גינזבורג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Schuster Alon",
+      "hebrew_name": "אלון שוסטר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Avidar Eli",
+      "hebrew_name": "אלי אבידר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shihadeh Mtanes",
+      "hebrew_name": "אנטאנס שחאדה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zamir Asaf",
+      "hebrew_name": "אסף זמיר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kallner Ariel",
+      "hebrew_name": "אריאל קלנר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Gantz Benjamin",
+      "hebrew_name": "בנימין גנץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ashkenazi Gavriel",
+      "hebrew_name": "גבי אשכנזי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yevarken Desta",
+      "hebrew_name": "דסטה גדי יברקן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yazbak Heba",
+      "hebrew_name": "היבה יזבק",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Atia  Hava-Etty",
+      "hebrew_name": "חוה אתי עטייה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Rousso Tal",
+      "hebrew_name": "טל רוסו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sova Evgeny",
+      "hebrew_name": "יבגני סובה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Segalovitz Yoav",
+      "hebrew_name": "יואב סגלוביץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tesler Yaakov",
+      "hebrew_name": "יעקב טסלר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hendel Yoaz",
+      "hebrew_name": "יועז הנדל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lahav Hertzanu Yoray ",
+      "hebrew_name": "יוראי להב הרצנו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shay Izhar ",
+      "hebrew_name": "יזהר שי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tropper Yehiel",
+      "hebrew_name": "חילי טרופר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pindrus Yitzhak Ze'ev",
+      "hebrew_name": "יצחק פינדרוס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Golan May",
+      "hebrew_name": "מאי גולן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Biton  Michael",
+      "hebrew_name": "מיכאל מרדכי ביטון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shir Segman Michal",
+      "hebrew_name": "מיכל שיר סגמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Haimovich Miki",
+      "hebrew_name": "מיקי חיימוביץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Cohen Meirav",
+      "hebrew_name": "מירב כהן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Abbas Mansour",
+      "hebrew_name": "מנסור עבאס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Arbel  Moshe",
+      "hebrew_name": "משה ארבל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Roll Idan",
+      "hebrew_name": "עידן רול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dayan Uzi",
+      "hebrew_name": "עוזי דיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Karhi Shlomo",
+      "hebrew_name": "שלמה קרעי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yankelevitch Omer",
+      "hebrew_name": "עומר ינקלביץ",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Cassif Ofer",
+      "hebrew_name": "עופר כסיף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Silman Idit",
+      "hebrew_name": "עידית סילמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Mulla Fateen",
+      "hebrew_name": "פטין מולא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Hauser Zvi",
+      "hebrew_name": "צבי האוזר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shitrit Kathrin",
+      "hebrew_name": "קטי קטרין שטרית",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Barak Keren",
+      "hebrew_name": "קרן ברק",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kamal-Mreeh Gadeer",
+      "hebrew_name": "עדיר כמאל מריח",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Peretz Rafael",
+      "hebrew_name": "רפי פרץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben Barak Ram",
+      "hebrew_name": "רם בן ברק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shefa Ram",
+      "hebrew_name": "רם שפע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kushnir Alex",
+      "hebrew_name": "אלכס קושניר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Asakla Jaber",
+      "hebrew_name": "גאבר עסאקלה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Taha Waleed",
+      "hebrew_name": "ווליד טאהא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Golan Yair",
+      "hebrew_name": "יאיר גולן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ifraimov  Mark",
+      "hebrew_name": "מרק איפראימוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abutbul Moshe",
+      "hebrew_name": "משה אבוטבול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Kahane Matan",
+      "hebrew_name": "מתן כהנא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Abu Shahadeh Samy",
+      "hebrew_name": "סמי אבו שחאדה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Khatib-Yasin Iman",
+      "hebrew_name": "אימאן חטיב יאסין",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kozhinov Andrey",
+      "hebrew_name": "אנדרי קוזינוב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Saleh  Sondos",
+      "hebrew_name": "סונדוס סאלח",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Avitan Yaakov",
+      "hebrew_name": "יעקב אביטן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Wunsh Michal",
+      "hebrew_name": "מיכל וונש",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kabla Einav",
+      "hebrew_name": "עינב קאבלה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Friedman Tehila",
+      "hebrew_name": "תהלה פרידמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Busso Uriel",
+      "hebrew_name": "אוריאל בוסו",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shay Vazan Hila ",
+      "hebrew_name": "הילה שי וזאן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Hasid Eliyahu",
+      "hebrew_name": "אליהו חסיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Baruchi Eliyahu",
+      "hebrew_name": "אליהו ברוכי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Taieb Yosef",
+      "hebrew_name": "יוסף טייב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Halevi Amit",
+      "hebrew_name": "עמית הלוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Vaturi Nissim",
+      "hebrew_name": "ניסים ואטורי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Stern Shevach",
+      "hebrew_name": "שבח שטרן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yogev Matti",
+      "hebrew_name": "מטי יוגב",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Ron Ben-Moshe  Yael ",
+      "hebrew_name": "יעל רון בן משה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Beliak Vladimir ",
+      "hebrew_name": "ולדימיר בליאק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tur-Paz Moshe ",
+      "hebrew_name": "משה טור פז",
+      "Gender": "Male"
+    }
+  ]
+}
