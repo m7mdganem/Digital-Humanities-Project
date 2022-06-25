@@ -1,5 +1,7 @@
 from src.shared.objects.KennesetMember import KennesetMember
 from src.shared.objects.KnessetMemberProtocolDetails import KnessetMemberProtocolDetails
+from src.shared.services.KnessetMembersDetailsExtractor import Gender
+from src.shared.objects.Protocol import Protocol
 from src.shared.objects.Date import Date
 from src.shared.utils.filesUtils import *
 from src.shared.utils.jsonUtils import *
@@ -136,6 +138,20 @@ class ProtocolAnalyzer:
         knesset_number = self.GetKnessetNumber(file_path)
         participants_names = self.GetParticipantesNames(file_path)
         knesset_member_protocol_details = self.GetKnessetMemberProtocolDetails(participants_names, knesset_members_dict)
-        knesset_member_protocol_details_updated = self.CountSpokenWords(file_path, participants_names, knesset_member_protocol_details)
+        knesset_member_protocol_details_updated: dict = self.CountSpokenWords(file_path, participants_names, knesset_member_protocol_details)
         output = {"ComitteeNumber": comittee_number, "ComitteeDate": comittee_date, "KnessetNumber": knesset_number, "participantsDetails": knesset_member_protocol_details_updated}
-        return self.ConvertDictToJson(file_path, output)
+        output_file_name = self.ConvertDictToJson(file_path, output)
+        number_of_male_participants = 0
+        number_of_female_participants = 0
+        number_of_words_spoken_by_males = 0
+        number_of_words_spoken_by_females = 0
+        for member_details in knesset_member_protocol_details_updated.values():
+            member_details: KnessetMemberProtocolDetails
+            if member_details.Gender == Gender.Male.name:
+                number_of_male_participants += 1
+                number_of_words_spoken_by_males += member_details.SpokenWord
+            else:
+                number_of_female_participants += 1
+                number_of_words_spoken_by_females += member_details.SpokenWord
+        return Protocol(comittee_number, comittee_date, knesset_number, number_of_male_participants, number_of_female_participants,
+        number_of_words_spoken_by_males, number_of_words_spoken_by_females, output_file_name)
