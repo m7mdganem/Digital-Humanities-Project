@@ -9,7 +9,10 @@ class Gender(Enum):
 
 class KnessetMembersDetailsExtractor:
 
-    def ExctractDetails(self, csv_file_path):
+    def __init__(self) -> None:
+        pass
+
+    def ExctractDetails(self, csv_file_path, output_file_path):
         """we extract all the KnessetMembers gender and their names in both english and hebrew and 
         make json file, and dict that contain all these information."""
         output = {}
@@ -35,7 +38,7 @@ class KnessetMembersDetailsExtractor:
                     data = {"English_name": english_name, "hebrew_name": hebrew_name, "Gender": gender}
                     json_list.append(data)
                     output.update({hebrew_name: new_member})
-        write_json({"KnessetMembersDetails": json_list})
+        write_json({"KnessetMembersDetails": json_list}, output_file_path)
         return output
 
     def ExctractDetailsForSome(self, csv_file_path, names_list):

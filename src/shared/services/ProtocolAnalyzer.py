@@ -7,9 +7,12 @@ from src.shared.utils.filesUtils import *
 from src.shared.utils.jsonUtils import *
 
 hebrew_months = ['not a month', 'ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמפר', 'אוקטובר', 'נובמבר', 'דצמבר']
-output_jsons_root_route = "../../../outputFiles/committeessJsons"
 
 class ProtocolAnalyzer:
+
+    def __init__(self) -> None:
+        pass
+
     def GetComitteeNumber(self, file_path):
         with open(file_path, mode='r', encoding="UTF-8") as f:
             lines = f.readlines()
@@ -125,22 +128,37 @@ class ProtocolAnalyzer:
                         member_details.IncrementSpokenWordsBy(number_of_spoken_words)
         return knesset_members_dict
 
-    def ConvertDictToJson(self, file_path, dict):
-        file_name = GetFileName(file_path)
+    def ConvertDictToJson(self, input_file_path, output_directory_path, dict):
+        file_name = GetFileName(input_file_path)
         file_name = RemoveFileTypeExtention(file_name) + ".json"
-        output_file_path = output_jsons_root_route + "/" + file_name
+        output_file_path = output_directory_path + "/" + file_name
         write_json(dict, output_file_path)
         return file_name
 
-    def Analyze(self, file_path, knesset_members_dict):
-        comittee_number = self.GetComitteeNumber(file_path)
-        comittee_date = self.GetComitteeDate(file_path)
-        knesset_number = self.GetKnessetNumber(file_path)
-        participants_names = self.GetParticipantesNames(file_path)
+    def Analyze(self, input_file_path, output_directory_path, knesset_members_dict):
+        # Get Metadata about the comittee
+        comittee_number = self.GetComitteeNumber(input_file_path)
+        comittee_date: Date = self.GetComitteeDate(input_file_path)
+        comittee_date_string = comittee_date.day + "/" + comittee_date.month + "/" + comittee_date.year
+        knesset_number = self.GetKnessetNumber(input_file_path)
+        participants_names = self.GetParticipantesNames(input_file_path)
         knesset_member_protocol_details = self.GetKnessetMemberProtocolDetails(participants_names, knesset_members_dict)
-        knesset_member_protocol_details_updated: dict = self.CountSpokenWords(file_path, participants_names, knesset_member_protocol_details)
-        output = {"ComitteeNumber": comittee_number, "ComitteeDate": comittee_date, "KnessetNumber": knesset_number, "participantsDetails": knesset_member_protocol_details_updated}
-        output_file_name = self.ConvertDictToJson(file_path, output)
+
+        # Count spoken words for each participant
+        knesset_member_protocol_details_updated: dict = self.CountSpokenWords(input_file_path, participants_names, knesset_member_protocol_details)
+
+        # Convert KnessetMemberProtocolDetails objects to dicts so we can serialize them to json
+        json_dict = {}
+        for key in knesset_member_protocol_details_updated.keys():
+            member_details: KnessetMemberProtocolDetails = knesset_member_protocol_details_updated.get(key)
+            det = {"HebrewName": member_details.Hebrw_name, "EnglishName": member_details.English_name, "Gender": member_details.Gender, "SpokenWords": member_details.SpokenWord}
+            json_dict.update({key: det})
+        
+        # Output the json file that describes the comittee
+        output = {"ComitteeNumber": comittee_number, "ComitteeDate": comittee_date_string, "KnessetNumber": knesset_number, "participantsDetails": json_dict}
+        output_file_name = self.ConvertDictToJson(input_file_path, output_directory_path, output)
+
+        # Create the Protocol Object
         number_of_male_participants = 0
         number_of_female_participants = 0
         number_of_words_spoken_by_males = 0
@@ -154,4 +172,4 @@ class ProtocolAnalyzer:
                 number_of_female_participants += 1
                 number_of_words_spoken_by_females += member_details.SpokenWord
         return Protocol(comittee_number, comittee_date, knesset_number, number_of_male_participants, number_of_female_participants,
-        number_of_words_spoken_by_males, number_of_words_spoken_by_females, output_file_name)
+                        number_of_words_spoken_by_males, number_of_words_spoken_by_females, output_file_name)
