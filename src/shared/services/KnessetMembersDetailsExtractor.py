@@ -20,9 +20,9 @@ class KnessetMembersDetailsExtractor:
                 hebrew_name = ""
                 gender = row['GenderDesc']
                 if gender == "זכר":
-                    gender = "Male"
+                    gender = Gender.Male.name
                 else:
-                    gender = "Female"
+                    gender = Gender.Female.name
                 hebrew_names = row['altnames'][1:-1].split(',')
                 english_name = str(row['mk_individual_name_eng']).strip() + " " + str(row['mk_individual_first_name_eng']).strip()
                 for name in hebrew_names:
