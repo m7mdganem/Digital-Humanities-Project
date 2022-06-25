@@ -1,13 +1,13 @@
 {
-  "ComitteeNumber": "354",
-  "ComitteeDate": "04/11/2002",
+  "CommitteeNumber": "354",
+  "CommitteeDate": "04/11/2002",
   "KnessetNumber": "15",
   "participantsDetails": {
     "יוסי כץ": {
       "HebrewName": "יוסי כץ",
       "EnglishName": "Katz Yossi",
       "Gender": "Male",
-      "SpokenWords": 198
+      "SpokenWords": 133
     },
     "אורי אריאל": {
       "HebrewName": "אורי אריאל",
@@ -19,19 +19,19 @@
       "HebrewName": "זאב בוים",
       "EnglishName": "Boim Ze`ev",
       "Gender": "Male",
-      "SpokenWords": 6
+      "SpokenWords": 3
     },
     "מוחמד ברכה": {
       "HebrewName": "מוחמד ברכה",
       "EnglishName": "Barakeh Mohammad",
       "Gender": "Male",
-      "SpokenWords": 197
+      "SpokenWords": 188
     },
     "משה גפני": {
       "HebrewName": "משה גפני",
       "EnglishName": "Gafni Moshe",
       "Gender": "Male",
-      "SpokenWords": 87
+      "SpokenWords": 78
     },
     "אברהם הירשזון": {
       "HebrewName": "אברהם הירשזון",
@@ -43,7 +43,7 @@
       "HebrewName": "אבשלום וילן",
       "EnglishName": "Vilan Avshalom",
       "Gender": "Male",
-      "SpokenWords": 48
+      "SpokenWords": 41
     },
     "אליעזר זנדברג": {
       "HebrewName": "אליעזר זנדברג",
@@ -73,7 +73,7 @@
       "HebrewName": "מרדכי משעני",
       "EnglishName": "Mishani Mordechai",
       "Gender": "Male",
-      "SpokenWords": 10
+      "SpokenWords": 7
     },
     "יצחק סבן": {
       "HebrewName": "יצחק סבן",
@@ -103,7 +103,7 @@
       "HebrewName": "נחמה רונן",
       "EnglishName": "Ronen Nehama",
       "Gender": "Female",
-      "SpokenWords": 11
+      "SpokenWords": 6
     },
     "צלי רשף": {
       "HebrewName": "צלי רשף",
@@ -133,7 +133,7 @@
       "HebrewName": "דוד טל",
       "EnglishName": "Tal David",
       "Gender": "Male",
-      "SpokenWords": 177
+      "SpokenWords": 168
     },
     "רחמים מלול": {
       "HebrewName": "רחמים מלול",
@@ -145,7 +145,7 @@
       "HebrewName": "אברהם פורז",
       "EnglishName": "Poraz Avraham",
       "Gender": "Male",
-      "SpokenWords": 99
+      "SpokenWords": 85
     },
     "איוב קרא": {
       "HebrewName": "איוב קרא",

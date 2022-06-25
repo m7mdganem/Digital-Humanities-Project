@@ -1,5 +1,4 @@
 import os
-# from ..shared.objects.Protocol import Protocol
 from src.shared.objects.Protocol import Protocol
 from src.shared.services.KnessetMembersDetailsExtractor import KnessetMembersDetailsExtractor
 from src.shared.services.ProtocolAnalyzer import ProtocolAnalyzer

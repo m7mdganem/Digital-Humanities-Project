@@ -1,13 +1,13 @@
 {
-  "ComitteeNumber": "142",
-  "ComitteeDate": "05/01/2015",
+  "CommitteeNumber": "142",
+  "CommitteeDate": "05/01/2015",
   "KnessetNumber": "19",
   "participantsDetails": {
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 92
+      "SpokenWords": 68
     },
     "אילן גילאון": {
       "HebrewName": "אילן גילאון",

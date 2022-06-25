@@ -5,13 +5,18 @@ from src.shared.objects.Protocol import Protocol
 from src.shared.objects.Date import Date
 from src.shared.utils.filesUtils import *
 from src.shared.utils.jsonUtils import *
-
-hebrew_months = ['not a month', 'ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמפר', 'אוקטובר', 'נובמבר', 'דצמבר']
+from src.shared.utils.stringUtils import *
 
 class ProtocolAnalyzer:
 
     def __init__(self) -> None:
         pass
+
+    def _participantStartedTalking(self, line, participant_name):
+        return line.__contains__(participant_name) and line.__contains__(":")
+    
+    def _somebodyElseStartedTalking(self, line:str, current_speaker):
+        return (not line.__contains__(current_speaker)) and line.__contains__(":")
 
     def GetComitteeNumber(self, file_path):
         with open(file_path, mode='r', encoding="UTF-8") as f:
@@ -30,16 +35,8 @@ class ProtocolAnalyzer:
             for line in lines:
                 if line.__contains__("יום") and line.__contains__("שעה") and line.__contains__("(") and line.__contains__(")"):
                     protocol_date_in_words = line[line.find('(')+1 : line.rfind(')')]
-                    date_list = protocol_date_in_words.split(' ')
-                    year = date_list[2]
-                    month = str(hebrew_months.index(date_list[1][1:])) # cut the first letter 'ב' and find the representing number
-                    day = date_list[0]
-                    if len(month) < 2:
-                        month = '0' + month
-                    if len(day) < 2:
-                        day = '0' + day
-                    protocol_date = Date(year, month, day)
-        return protocol_date
+                    return GetDateFromSentence(protocol_date_in_words)
+        return None
 
     def GetKnessetNumber(self, file_path):
         file_name = file_path.split('/')[-1]
@@ -107,23 +104,33 @@ class ProtocolAnalyzer:
         return output
 
     def CountSpokenWords(self, file_path, participants_names, knesset_members_dict: dict):
+        with open(file_path, mode='r', encoding="UTF-8") as f:
+            lines = f.readlines()
+
+        # Iterate over the participants, and for each one count the words he spoke
         for participant_name in participants_names:
-            with open(file_path, mode='r', encoding="UTF-8") as f:
-                lines = f.readlines()
             enable_counting = False
             for line in lines:
                 if enable_counting == False:
-                    if line.__contains__(participant_name) and line.__contains__(":"):
+                    if self._participantStartedTalking(line, participant_name):
                         enable_counting = True
                         continue
-                    else:
-                        continue
                 else:
-                    if (not line.__contains__(participant_name)) and line.__contains__(":"):
+                    if self._somebodyElseStartedTalking(line, participant_name) or IsHeadline(line):
+                        # If somebody else started talking, or we go over a headline, stop counting until he talks again
                         enable_counting = False
                         continue
+
+                    elif line.__contains__(participant_name) and line.__contains__(":"):
+                        # If the same participant continued to talk, do not add this line to the number of spoken words
+                        continue
+
+                    elif line.__contains__("הישיבה ננעלה"):
+                        # When the committee is closed, stop iterating
+                        break
+
                     else:
-                        number_of_spoken_words = len(line.split(" "))
+                        number_of_spoken_words = CountWordsInSentence(line)                         
                         member_details: KnessetMemberProtocolDetails = knesset_members_dict.get(participant_name)
                         member_details.IncrementSpokenWordsBy(number_of_spoken_words)
         return knesset_members_dict
@@ -137,9 +144,9 @@ class ProtocolAnalyzer:
 
     def Analyze(self, input_file_path, output_directory_path, knesset_members_dict):
         # Get Metadata about the comittee
-        comittee_number = self.GetComitteeNumber(input_file_path)
-        comittee_date: Date = self.GetComitteeDate(input_file_path)
-        comittee_date_string = comittee_date.day + "/" + comittee_date.month + "/" + comittee_date.year
+        committee_number = self.GetComitteeNumber(input_file_path)
+        committee_date: Date = self.GetComitteeDate(input_file_path)
+        committee_date_string = committee_date.day + "/" + committee_date.month + "/" + committee_date.year
         knesset_number = self.GetKnessetNumber(input_file_path)
         participants_names = self.GetParticipantesNames(input_file_path)
         knesset_member_protocol_details = self.GetKnessetMemberProtocolDetails(participants_names, knesset_members_dict)
@@ -155,7 +162,7 @@ class ProtocolAnalyzer:
             json_dict.update({key: det})
         
         # Output the json file that describes the comittee
-        output = {"ComitteeNumber": comittee_number, "ComitteeDate": comittee_date_string, "KnessetNumber": knesset_number, "participantsDetails": json_dict}
+        output = {"CommitteeNumber": committee_number, "CommitteeDate": committee_date_string, "KnessetNumber": knesset_number, "participantsDetails": json_dict}
         output_file_name = self.ConvertDictToJson(input_file_path, output_directory_path, output)
 
         # Create the Protocol Object
@@ -171,5 +178,5 @@ class ProtocolAnalyzer:
             else:
                 number_of_female_participants += 1
                 number_of_words_spoken_by_females += member_details.SpokenWord
-        return Protocol(comittee_number, comittee_date, knesset_number, number_of_male_participants, number_of_female_participants,
+        return Protocol(committee_number, committee_date, knesset_number, number_of_male_participants, number_of_female_participants,
                         number_of_words_spoken_by_males, number_of_words_spoken_by_females, output_file_name)
