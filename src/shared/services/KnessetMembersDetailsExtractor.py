@@ -30,10 +30,10 @@ class KnessetMembersDetailsExtractor:
                 english_name = str(row['mk_individual_name_eng']).strip() + " " + str(row['mk_individual_first_name_eng']).strip()
                 for name in hebrew_names:
                     hebrew_name_sub = name.strip()[1:-1].strip()
-                    hebrew_name = ""
-                    for i in range(len(hebrew_name_sub)):
-                        if hebrew_name_sub[i] != chr(39):
-                            hebrew_name = hebrew_name + hebrew_name_sub[i]
+                    hebrew_name = hebrew_name_sub
+                    # for i in range(len(hebrew_name_sub)):
+                    #     if hebrew_name_sub[i] != chr(39):
+                    #         hebrew_name = hebrew_name + hebrew_name_sub[i]
                     new_member = KennesetMember(hebrew_name, english_name, gender)
                     data = {"English_name": english_name, "hebrew_name": hebrew_name, "Gender": gender}
                     json_list.append(data)

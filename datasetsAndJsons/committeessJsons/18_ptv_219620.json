@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "316",
+  "CommitteeDate": "12/17/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 176
+    },
+    "שכיב שנאן": {
+      "HebrewName": "שכיב שנאן",
+      "EnglishName": "Shnaan Shachiv",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "287",
+  "CommitteeDate": "02/08/2006",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 3
+    }
+  }
+}

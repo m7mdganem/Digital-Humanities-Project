@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "263",
+  "CommitteeDate": "09/14/2008",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 7
+    }
+  }
+}

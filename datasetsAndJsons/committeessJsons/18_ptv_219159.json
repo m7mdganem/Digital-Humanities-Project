@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "38",
+  "CommitteeDate": "10/15/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 56
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "293",
+  "CommitteeDate": "07/10/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 69
+    }
+  }
+}

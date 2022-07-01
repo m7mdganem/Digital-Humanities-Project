@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "12",
+  "CommitteeDate": "12/17/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 721
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "274",
+  "CommitteeDate": "11/29/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר-און": {
+      "HebrewName": "רוני בר-און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 50
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

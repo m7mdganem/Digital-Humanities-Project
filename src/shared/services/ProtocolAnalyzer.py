@@ -6,17 +6,20 @@ from src.shared.objects.Date import Date
 from src.shared.utils.filesUtils import *
 from src.shared.utils.jsonUtils import *
 from src.shared.utils.stringUtils import *
+from src.shared.utils.dateUtils import *
 
 class ProtocolAnalyzer:
 
     def __init__(self) -> None:
-        pass
+        self.counter = 0
 
     def _participantStartedTalking(self, line, participant_name):
         return line.__contains__(participant_name) and line.__contains__(":")
     
     def _somebodyElseStartedTalking(self, line:str, current_speaker):
-        return (not line.__contains__(current_speaker)) and line.__contains__(":")
+        if (self.counter < 30):
+            self.counter += 1
+        return (not line.__contains__(current_speaker)) and line.__contains__(":")  and len(line.split(':')) == 2 and len(line.split(':')[0] ) > 0 and line.split(':')[1] == '\n' #and len(line.split(':')[1] ) == 0
 
     def GetComitteeNumber(self, file_path):
         with open(file_path, mode='r', encoding="UTF-8") as f:
@@ -33,9 +36,12 @@ class ProtocolAnalyzer:
         with open(file_path, mode='r', encoding="UTF-8") as f:
             lines = f.readlines()
             for line in lines:
-                if line.__contains__("יום") and line.__contains__("שעה") and line.__contains__("(") and line.__contains__(")"):
-                    protocol_date_in_words = line[line.find('(')+1 : line.rfind(')')]
-                    return GetDateFromSentence(protocol_date_in_words)
+                if line.__contains__("יום"):
+                    hour_format_regex = re.compile(r'\d?\d:\d\d')
+                    hour_regex = hour_format_regex.search(line)
+                    if hour_regex is not None:
+                        return GetDateFromLine(line)
+        print("ERROR: Unable to parse date for file: " + file_path)
         return None
 
     def GetKnessetNumber(self, file_path):
@@ -76,9 +82,17 @@ class ProtocolAnalyzer:
                 if line == "":
                     continue
                 elif line.__contains__("יו\"ר") and line.__contains__("–"):
-                    list_of_Knesset_Members.append(line.split("–")[0].strip())
+                    line_splitted = line.split("יו\"ר")
+                    if line_splitted[1].strip() == '':
+                        list_of_Knesset_Members.append(line_splitted[0].strip())
+                    else:
+                        list_of_Knesset_Members.append(line_splitted[1].strip())
                 elif line.__contains__("יו\"ר") and line.__contains__("-"):
-                    list_of_Knesset_Members.append(line.split("-")[0].strip())
+                    line_splitted = line.split("יו\"ר")
+                    if line_splitted[1].strip() == '':
+                        list_of_Knesset_Members.append(line_splitted[0].strip())
+                    else:
+                        list_of_Knesset_Members.append(line_splitted[1].strip())
                 elif line.__contains__("היו\"ר"):
                     splitted = line.split("היו\"ר")
                     if splitted[0].strip() == "":
@@ -132,6 +146,11 @@ class ProtocolAnalyzer:
                     else:
                         number_of_spoken_words = CountWordsInSentence(line)                         
                         member_details: KnessetMemberProtocolDetails = knesset_members_dict.get(participant_name)
+                        if member_details is None:
+                            with open("members_not_found.txt", 'a', encoding='utf-8') as f:
+                                f.write("participant name: " + participant_name + '\n')
+                                f.write(line + '\n')
+                            continue
                         member_details.IncrementSpokenWordsBy(number_of_spoken_words)
         return knesset_members_dict
 
@@ -146,7 +165,9 @@ class ProtocolAnalyzer:
         # Get Metadata about the comittee
         committee_number = self.GetComitteeNumber(input_file_path)
         committee_date: Date = self.GetComitteeDate(input_file_path)
-        committee_date_string = committee_date.day + "/" + committee_date.month + "/" + committee_date.year
+        if committee_date is None:
+            return None
+        committee_date_string = committee_date.month + "/" + committee_date.day + "/" + committee_date.year # save month as mm/dd/yyyy
         knesset_number = self.GetKnessetNumber(input_file_path)
         participants_names = self.GetParticipantesNames(input_file_path)
         knesset_member_protocol_details = self.GetKnessetMemberProtocolDetails(participants_names, knesset_members_dict)
@@ -163,20 +184,25 @@ class ProtocolAnalyzer:
         
         # Output the json file that describes the comittee
         output = {"CommitteeNumber": committee_number, "CommitteeDate": committee_date_string, "KnessetNumber": knesset_number, "participantsDetails": json_dict}
-        output_file_name = self.ConvertDictToJson(input_file_path, output_directory_path, output)
+        output_name = self.ConvertDictToJson(input_file_path, output_directory_path, output)
 
         # Create the Protocol Object
         number_of_male_participants = 0
         number_of_female_participants = 0
         number_of_words_spoken_by_males = 0
         number_of_words_spoken_by_females = 0
+        participants = []
+        committee_info = {}
         for member_details in knesset_member_protocol_details_updated.values():
             member_details: KnessetMemberProtocolDetails
+            participants.append(member_details.English_name)
+            committee_info.update({member_details.English_name: member_details.SpokenWord})
             if member_details.Gender == Gender.Male.name:
                 number_of_male_participants += 1
                 number_of_words_spoken_by_males += member_details.SpokenWord
             else:
                 number_of_female_participants += 1
                 number_of_words_spoken_by_females += member_details.SpokenWord
+        committee_details = {"participants": participants, "info": committee_info}
         return Protocol(committee_number, committee_date, knesset_number, number_of_male_participants, number_of_female_participants,
-                        number_of_words_spoken_by_males, number_of_words_spoken_by_females, output_file_name)
+                        number_of_words_spoken_by_males, number_of_words_spoken_by_females, committee_details, knesset_member_protocol_details_updated, output_name)

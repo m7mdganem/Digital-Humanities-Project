@@ -1,14 +1,8 @@
 {
   "CommitteeNumber": "142",
-  "CommitteeDate": "05/01/2015",
+  "CommitteeDate": "01/05/2015",
   "KnessetNumber": "19",
   "participantsDetails": {
-    "רוברט אילטוב": {
-      "HebrewName": "רוברט אילטוב",
-      "EnglishName": "Ilatov Robert",
-      "Gender": "Male",
-      "SpokenWords": 68
-    },
     "אילן גילאון": {
       "HebrewName": "אילן גילאון",
       "EnglishName": "Gilon Ilan",

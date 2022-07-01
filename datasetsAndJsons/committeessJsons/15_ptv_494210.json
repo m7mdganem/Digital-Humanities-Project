@@ -1,25 +1,25 @@
 {
   "CommitteeNumber": "365",
-  "CommitteeDate": "16/12/2002",
+  "CommitteeDate": "12/16/2002",
   "KnessetNumber": "15",
   "participantsDetails": {
     "יוסי כץ": {
       "HebrewName": "יוסי כץ",
       "EnglishName": "Katz Yossi",
       "Gender": "Male",
-      "SpokenWords": 239
+      "SpokenWords": 759
     },
     "אפי אושעיה": {
       "HebrewName": "אפי אושעיה",
       "EnglishName": "Oshaya Efi",
       "Gender": "Male",
-      "SpokenWords": 61
+      "SpokenWords": 126
     },
     "זאב בוים": {
       "HebrewName": "זאב בוים",
       "EnglishName": "Boim Ze`ev",
       "Gender": "Male",
-      "SpokenWords": 32
+      "SpokenWords": 98
     },
     "ישראל כץ": {
       "HebrewName": "ישראל כץ",
@@ -31,19 +31,19 @@
       "HebrewName": "מיכאל איתן",
       "EnglishName": "Eitan Michael",
       "Gender": "Male",
-      "SpokenWords": 0
+      "SpokenWords": 31
     },
     "יצחק גאגולה": {
       "HebrewName": "יצחק גאגולה",
       "EnglishName": "Gagula Itzhak",
       "Gender": "Male",
-      "SpokenWords": 0
+      "SpokenWords": 7
     },
     "נעמי חזן": {
       "HebrewName": "נעמי חזן",
       "EnglishName": "Chazan Naomi",
       "Gender": "Female",
-      "SpokenWords": 0
+      "SpokenWords": 138
     },
     "מרינה סולודקין": {
       "HebrewName": "מרינה סולודקין",

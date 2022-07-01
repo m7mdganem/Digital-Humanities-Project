@@ -11,18 +11,23 @@ MembersDetailsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datase
 MembersDetailsJsonFilePath = os.path.join(my_path, "../../datasetsAndJsons/membersJsons/KnessetMembersDetails.json")
 ProtocolsJsonsDirectoryPath = os.path.join(my_path, "../../datasetsAndJsons/committeessJsons")
 MembersDetailsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/members.csv")
-protocolsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/protocols.csv")
+protocolsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/protocolsMetaData.csv")
+protocolsVisualsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/protocolsVisuals.csv")
 
 # Download doc files 
 
 # Convert doc files to txt files
-ConvertWordFilesToTxtFiles(PrtocolsWordFilesPath, PrtocolTextFilesPath)
+# print("Info: Startetd converting files")
+# ConvertDocFilesToDocx(PrtocolsWordFilesPath)
+# ConvertWordFilesToTxtFiles(PrtocolsWordFilesPath, PrtocolTextFilesPath)
 
 # Extract Knesset members details
+print("Info: Extracting Knesset members details")
 members_details_extractor = KnessetMembersDetailsExtractor()
 members_details_dict = members_details_extractor.ExctractDetails(MembersDetailsCsvFilePath, MembersDetailsJsonFilePath)
 
 # Analyze all the committees
+print("Info: Analyzing committees")
 protocol_analyzer = ProtocolAnalyzer()
 protocols_list = []
 input_directory = os.fsencode(PrtocolTextFilesPath)
@@ -32,11 +37,17 @@ for file in os.listdir(input_directory):
         protocol: Protocol = protocol_analyzer.Analyze(PrtocolTextFilesPath + "/" + filename, ProtocolsJsonsDirectoryPath, members_details_dict)
         if protocol != None:
             protocols_list.append(protocol)
+        else:
+            print("ERROR: Unable to analyze file: " + filename)
     else: 
         continue
 
 # create the csv final file
+print("Info: Producing CSV files")
 with open(protocolsCsvFilePath, mode='w', encoding="UTF-8") as f:
-    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Json File Name\n"])
+    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Participants,Json,Json File Name\n"])
+with open(protocolsVisualsCsvFilePath, mode='w', encoding="UTF-8") as f:
+    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Participants,Json,Participant English Name,Participant Gender,Participant Spoken Words, Json File Name\n"])
 for protocol in protocols_list:
     protocol.PrintToCsvFile(protocolsCsvFilePath)
+    protocol.PrintToVisualsCsvFile(protocolsVisualsCsvFilePath)

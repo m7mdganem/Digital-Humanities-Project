@@ -1,5 +1,3 @@
-import json
-
 class KnessetMemberProtocolDetails:
     def __init__(self, Hebrw_name, English_name, Gender):
         self.Hebrw_name = Hebrw_name
