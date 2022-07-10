@@ -1,0 +1,121 @@
+{
+  "CommitteeNumber": "228",
+  "CommitteeDate": "01/02/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1511
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 58
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 368
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ציפי חוטובלי": {
+      "HebrewName": "ציפי חוטובלי",
+      "EnglishName": "Hotovely Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 255
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 343
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 20
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יוחנן פלסנר": {
+      "HebrewName": "יוחנן פלסנר",
+      "EnglishName": "Plesner Yohanan",
+      "Gender": "Male",
+      "SpokenWords": 448
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 15
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 37
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 250
+    },
+    "כרמל שאמה-הכהן": {
+      "HebrewName": "כרמל שאמה-הכהן",
+      "EnglishName": "Shama Hacohen Carmel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עתניאל שנלר": {
+      "HebrewName": "עתניאל שנלר",
+      "EnglishName": "Schneller Otniel",
+      "Gender": "Male",
+      "SpokenWords": 12
+    }
+  }
+}

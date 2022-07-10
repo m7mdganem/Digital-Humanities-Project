@@ -1,0 +1,91 @@
+{
+  "CommitteeNumber": "15",
+  "CommitteeDate": "06/20/2006",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 404
+    },
+    "קולט אביטל": {
+      "HebrewName": "קולט אביטל",
+      "EnglishName": "Avital Colette",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "דוד אזולאי": {
+      "HebrewName": "דוד אזולאי",
+      "EnglishName": "Azoulay David",
+      "Gender": "Male",
+      "SpokenWords": 193
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 41
+    },
+    "אליהו גבאי": {
+      "HebrewName": "אליהו גבאי",
+      "EnglishName": "Gabbay Eliahu",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק גלנטי": {
+      "HebrewName": "יצחק גלנטי",
+      "EnglishName": "Galantee Itshac",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אסתרינה טרטמן": {
+      "HebrewName": "אסתרינה טרטמן",
+      "EnglishName": "Tartman Esterina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אביגדור יצחקי": {
+      "HebrewName": "אביגדור יצחקי",
+      "EnglishName": "Itzchaky Avigdor",
+      "Gender": "Male",
+      "SpokenWords": 400
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 60
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 184
+    },
+    "מנחם בן-ששון": {
+      "HebrewName": "מנחם בן-ששון",
+      "EnglishName": "Ben-Sasson Menahem",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק זיו": {
+      "HebrewName": "יצחק זיו",
+      "EnglishName": "Ziv Izhak",
+      "Gender": "Male",
+      "SpokenWords": 109
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 358
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

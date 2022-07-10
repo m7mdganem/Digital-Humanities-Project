@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "76",
+  "CommitteeDate": "12/02/2015",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 1375
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 285
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 64
+    }
+  }
+}

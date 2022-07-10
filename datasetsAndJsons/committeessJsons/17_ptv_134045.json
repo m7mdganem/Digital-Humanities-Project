@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "124",
+  "CommitteeDate": "06/20/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "רוחמה אברהם בלילא": {
+      "HebrewName": "רוחמה אברהם בלילא",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 682
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק גלנטי": {
+      "HebrewName": "יצחק גלנטי",
+      "EnglishName": "Galantee Itshac",
+      "Gender": "Male",
+      "SpokenWords": 109
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 17
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 46
+    }
+  }
+}

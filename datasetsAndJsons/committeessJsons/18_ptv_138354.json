@@ -1,0 +1,85 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "05/05/2009",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 2794
+    },
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני דנון": {
+      "HebrewName": "דני דנון",
+      "EnglishName": "Danon Danny",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "זבולון אורלב": {
+      "HebrewName": "זבולון אורלב",
+      "EnglishName": "Orlev Zevulun",
+      "Gender": "Male",
+      "SpokenWords": 58
+    },
+    "דליה איציק": {
+      "HebrewName": "דליה איציק",
+      "EnglishName": "Itzik Dalia",
+      "Gender": "Female",
+      "SpokenWords": 566
+    },
+    "רוחמה אברהם בלילא": {
+      "HebrewName": "רוחמה אברהם בלילא",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 246
+    },
+    "רוני בר-און": {
+      "HebrewName": "רוני בר-און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "דניאל בן סימון": {
+      "HebrewName": "דניאל בן סימון",
+      "EnglishName": "Ben Simon Daniel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 134
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 293
+    }
+  }
+}

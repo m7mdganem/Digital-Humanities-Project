@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "07/22/2009",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 199
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 49
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 18
+    }
+  }
+}

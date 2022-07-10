@@ -1,0 +1,85 @@
+{
+  "CommitteeNumber": "273",
+  "CommitteeDate": "01/28/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 2611
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 229
+    },
+    "שירי ויצמן": {
+      "HebrewName": "שירי ויצמן",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עמיר פרץ": {
+      "HebrewName": "עמיר פרץ",
+      "EnglishName": "Peretz Amir",
+      "Gender": "Male",
+      "SpokenWords": 712
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 134
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 395
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "נחמה רונן": {
+      "HebrewName": "נחמה רונן",
+      "EnglishName": "Ronen Nehama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 39
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 343
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 20
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 6
+    }
+  }
+}

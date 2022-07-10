@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "258",
+  "CommitteeDate": "07/23/2008",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 290
+    },
+    "אופיר פינס פז": {
+      "HebrewName": "אופיר פינס פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 95
+    },
+    "משה שרוני": {
+      "HebrewName": "משה שרוני",
+      "EnglishName": "Sharoni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

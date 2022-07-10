@@ -1,0 +1,91 @@
+{
+  "CommitteeNumber": "151",
+  "CommitteeDate": "12/20/2000",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 418
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "בנימין אלון": {
+      "HebrewName": "בנימין אלון",
+      "EnglishName": "Elon Benyamin",
+      "Gender": "Male",
+      "SpokenWords": 145
+    },
+    "אלי בן-מנחם": {
+      "HebrewName": "אלי בן-מנחם",
+      "EnglishName": "Ben-Menachem Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 32
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 16
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 150
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 3
+    }
+  }
+}

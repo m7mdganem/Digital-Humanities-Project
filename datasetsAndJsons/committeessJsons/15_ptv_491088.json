@@ -1,0 +1,85 @@
+{
+  "CommitteeNumber": "272",
+  "CommitteeDate": "1/28/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 1086
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 261
+    },
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 16
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 219
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "ישראל כץ": {
+      "HebrewName": "ישראל כץ",
+      "EnglishName": "Katz Israel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מקסים לוי": {
+      "HebrewName": "מקסים לוי",
+      "EnglishName": "Levy Maxim",
+      "Gender": "Male",
+      "SpokenWords": 45
+    },
+    "יצחק סבן": {
+      "HebrewName": "יצחק סבן",
+      "EnglishName": "Shaban Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

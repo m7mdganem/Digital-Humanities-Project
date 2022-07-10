@@ -1,0 +1,67 @@
+{
+  "CommitteeNumber": "22",
+  "CommitteeDate": "07/24/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 2698
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 84
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 123
+    },
+    "יצחק סבן": {
+      "HebrewName": "יצחק סבן",
+      "EnglishName": "Shaban Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 24
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 469
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "תמר גוז'נסקי": {
+      "HebrewName": "תמר גוז'נסקי",
+      "EnglishName": "Gozansky Tamar",
+      "Gender": "Female",
+      "SpokenWords": 39
+    }
+  }
+}

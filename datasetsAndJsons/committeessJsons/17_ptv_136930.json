@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "261",
+  "CommitteeDate": "07/29/2008",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 623
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "טלב אלסאנע": {
+      "HebrewName": "טלב אלסאנע",
+      "EnglishName": "El-Sana Talab",
+      "Gender": "Male",
+      "SpokenWords": 25
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 33
+    },
+    "יצחק זיו": {
+      "HebrewName": "יצחק זיו",
+      "EnglishName": "Ziv Izhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נאדיה חילו": {
+      "HebrewName": "נאדיה חילו",
+      "EnglishName": "Hilou Nadia",
+      "Gender": "Female",
+      "SpokenWords": 55
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 158
+    },
+    "שי חרמש": {
+      "HebrewName": "שי חרמש",
+      "EnglishName": "Hermesh Shai",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 141
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 68
+    },
+    "יוחנן פלסנר": {
+      "HebrewName": "יוחנן פלסנר",
+      "EnglishName": "Plesner Yohanan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהים צרצור": {
+      "HebrewName": "אברהים צרצור",
+      "EnglishName": "Sarsour Ibrahim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שכיב שנאן": {
+      "HebrewName": "שכיב שנאן",
+      "EnglishName": "Shnaan Shachiv",
+      "Gender": "Male",
+      "SpokenWords": 341
+    },
+    "משה שרוני": {
+      "HebrewName": "משה שרוני",
+      "EnglishName": "Sharoni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "CommitteeNumber": "34",
+  "CommitteeDate": "05/08/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 2576
+    },
+    "זבולון אורלב": {
+      "HebrewName": "זבולון אורלב",
+      "EnglishName": "Orlev Zevulun",
+      "Gender": "Male",
+      "SpokenWords": 406
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 188
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 775
+    },
+    "אורי יהודה אריאל": {
+      "HebrewName": "אורי יהודה אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 74
+    },
+    "ויקטור בריילובסקי": {
+      "HebrewName": "ויקטור בריילובסקי",
+      "EnglishName": "Brailovsky Victor",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 648
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 25
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 301
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אבשלום (אבו) וילן": {
+      "HebrewName": "אבשלום (אבו) וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שירי ויצמן": {
+      "HebrewName": "שירי ויצמן",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 337
+    },
+    "אליעזר (מודי) זנדברג": {
+      "HebrewName": "אליעזר (מודי) זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר (צ'יטה) כהן": {
+      "HebrewName": "אליעזר (צ'יטה) כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ישראל כץ": {
+      "HebrewName": "ישראל כץ",
+      "EnglishName": "Katz Israel",
+      "Gender": "Male",
+      "SpokenWords": 854
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 185
+    },
+    "יצחק סבן": {
+      "HebrewName": "יצחק סבן",
+      "EnglishName": "Shaban Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 237
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נחמה רונן": {
+      "HebrewName": "נחמה רונן",
+      "EnglishName": "Ronen Nehama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "גנדי ריגר": {
+      "HebrewName": "גנדי ריגר",
+      "EnglishName": "Riger Gennady",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

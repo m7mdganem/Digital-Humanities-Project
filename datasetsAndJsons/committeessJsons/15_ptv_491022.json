@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "24",
+  "CommitteeDate": "06/19/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 122
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "תמר גוז'נסקי": {
+      "HebrewName": "תמר גוז'נסקי",
+      "EnglishName": "Gozansky Tamar",
+      "Gender": "Female",
+      "SpokenWords": 99
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

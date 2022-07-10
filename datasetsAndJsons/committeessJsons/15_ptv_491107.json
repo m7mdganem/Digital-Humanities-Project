@@ -1,0 +1,163 @@
+{
+  "CommitteeNumber": "291",
+  "CommitteeDate": "03/11/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 2650
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 884
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 1908
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 307
+    },
+    "יגאל ביבי": {
+      "HebrewName": "יגאל ביבי",
+      "EnglishName": "Bibi Yigal",
+      "Gender": "Male",
+      "SpokenWords": 62
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 328
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 55
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 471
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם הירשזון": {
+      "HebrewName": "אברהם הירשזון",
+      "EnglishName": "Hirchson Abraham",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "צבי הנדל": {
+      "HebrewName": "צבי הנדל",
+      "EnglishName": "Hendel Zvi",
+      "Gender": "Male",
+      "SpokenWords": 12
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 103
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 121
+    },
+    "אלי כהן": {
+      "HebrewName": "אלי כהן",
+      "EnglishName": "Cohen Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 150
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מרדכי משעני": {
+      "HebrewName": "מרדכי משעני",
+      "EnglishName": "Mishani Mordechai",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "מיכאל נודלמן": {
+      "HebrewName": "מיכאל נודלמן",
+      "EnglishName": "Nudelman Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק סבן": {
+      "HebrewName": "יצחק סבן",
+      "EnglishName": "Shaban Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 37
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 38
+    },
+    "עמיר פרץ": {
+      "HebrewName": "עמיר פרץ",
+      "EnglishName": "Peretz Amir",
+      "Gender": "Male",
+      "SpokenWords": 393
+    },
+    "איוב קרא": {
+      "HebrewName": "איוב קרא",
+      "EnglishName": "Kara Ayoob",
+      "Gender": "Male",
+      "SpokenWords": 273
+    },
+    "אברהם רביץ": {
+      "HebrewName": "אברהם רביץ",
+      "EnglishName": "Ravitz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ויצמן שירי": {
+      "HebrewName": "ויצמן שירי",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 3
+    }
+  }
+}

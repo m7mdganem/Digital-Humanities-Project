@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "285",
+  "CommitteeDate": "02/19/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 176
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "מרדכי משעני": {
+      "HebrewName": "מרדכי משעני",
+      "EnglishName": "Mishani Mordechai",
+      "Gender": "Male",
+      "SpokenWords": 83
+    },
+    "יורי שטרן": {
+      "HebrewName": "יורי שטרן",
+      "EnglishName": "Shtern Yuri",
+      "Gender": "Male",
+      "SpokenWords": 15
+    }
+  }
+}

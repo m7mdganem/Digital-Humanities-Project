@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "242",
+  "CommitteeDate": "11/12/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 77
+    }
+  }
+}

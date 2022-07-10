@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "195",
+  "CommitteeDate": "06/04/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 1263
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 179
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 580
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 11
+    },
+    "ויצמן שירי": {
+      "HebrewName": "ויצמן שירי",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "281",
+  "CommitteeDate": "02/11/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 1527
+    },
+    "מיקי איתן": {
+      "HebrewName": "מיקי איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 12
+    },
+    "משה ארנס": {
+      "HebrewName": "משה ארנס",
+      "EnglishName": "Arens Moshe",
+      "Gender": "Male",
+      "SpokenWords": 660
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 609
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 422
+    }
+  }
+}

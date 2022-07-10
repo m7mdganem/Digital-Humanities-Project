@@ -1,0 +1,157 @@
+{
+  "CommitteeNumber": "253",
+  "CommitteeDate": "12/05/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 2012
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 638
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 63
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם הירשזון": {
+      "HebrewName": "אברהם הירשזון",
+      "EnglishName": "Hirchson Abraham",
+      "Gender": "Male",
+      "SpokenWords": 113
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 383
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 328
+    },
+    "עמיר פרץ": {
+      "HebrewName": "עמיר פרץ",
+      "EnglishName": "Peretz Amir",
+      "Gender": "Male",
+      "SpokenWords": 23
+    },
+    "נחמה רונן": {
+      "HebrewName": "נחמה רונן",
+      "EnglishName": "Ronen Nehama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 258
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 33
+    },
+    "חיים כץ": {
+      "HebrewName": "חיים כץ",
+      "EnglishName": "Katz Haim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יהושע מצא": {
+      "HebrewName": "יהושע מצא",
+      "EnglishName": "Matza Joshua",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "מרדכי משעני": {
+      "HebrewName": "מרדכי משעני",
+      "EnglishName": "Mishani Mordechai",
+      "Gender": "Male",
+      "SpokenWords": 31
+    },
+    "אברהם פורז": {
+      "HebrewName": "אברהם פורז",
+      "EnglishName": "Poraz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם שוחט": {
+      "HebrewName": "אברהם שוחט",
+      "EnglishName": "Shochat Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

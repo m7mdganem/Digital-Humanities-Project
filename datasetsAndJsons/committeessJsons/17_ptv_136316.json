@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "234",
+  "CommitteeDate": "06/02/2008",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 1526
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 213
+    },
+    "יולי יואל אדלשטיין": {
+      "HebrewName": "יולי יואל אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 260
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 144
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 926
+    },
+    "יצחק גלנטי": {
+      "HebrewName": "יצחק גלנטי",
+      "EnglishName": "Galantee Itshac",
+      "Gender": "Male",
+      "SpokenWords": 233
+    },
+    "נאדיה חילו": {
+      "HebrewName": "נאדיה חילו",
+      "EnglishName": "Hilou Nadia",
+      "Gender": "Female",
+      "SpokenWords": 171
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 298
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 223
+    },
+    "יורם מרציאנו": {
+      "HebrewName": "יורם מרציאנו",
+      "EnglishName": "Marciano Yoram",
+      "Gender": "Male",
+      "SpokenWords": 235
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 166
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 30
+    },
+    "רונית תירוש": {
+      "HebrewName": "רונית תירוש",
+      "EnglishName": "Tirosh Ronit",
+      "Gender": "Female",
+      "SpokenWords": 375
+    }
+  }
+}

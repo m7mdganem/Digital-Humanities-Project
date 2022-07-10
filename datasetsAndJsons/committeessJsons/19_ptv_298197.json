@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "17",
+  "CommitteeDate": "07/14/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 707
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 24
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 353
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "בועז טופורובסקי": {
+      "HebrewName": "בועז טופורובסקי",
+      "EnglishName": "Toporovsky Boaz",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב ליפמן": {
+      "HebrewName": "דב ליפמן",
+      "EnglishName": "Lipman Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "חיים כץ": {
+      "HebrewName": "חיים כץ",
+      "EnglishName": "Katz Haim",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "אורית סטרוק": {
+      "HebrewName": "אורית סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

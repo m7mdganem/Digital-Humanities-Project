@@ -1,0 +1,67 @@
+{
+  "CommitteeNumber": "173",
+  "CommitteeDate": "03/14/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 552
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "בני אלון": {
+      "HebrewName": "בני אלון",
+      "EnglishName": "Elon Benyamin",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 41
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 38
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמנון רובינשטיין": {
+      "HebrewName": "אמנון רובינשטיין",
+      "EnglishName": "Rubinstein Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

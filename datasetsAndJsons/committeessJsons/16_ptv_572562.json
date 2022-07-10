@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "23",
+  "CommitteeDate": "03/30/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 209
+    },
+    "יצחק כהן": {
+      "HebrewName": "יצחק כהן",
+      "EnglishName": "Cohen Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

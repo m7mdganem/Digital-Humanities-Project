@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "167",
+  "CommitteeDate": "03/06/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 39
+    }
+  }
+}

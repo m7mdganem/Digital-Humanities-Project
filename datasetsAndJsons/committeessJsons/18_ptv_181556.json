@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "29",
+  "CommitteeDate": "11/15/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 596
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 2
+    },
+    "דליה איציק": {
+      "HebrewName": "דליה איציק",
+      "EnglishName": "Itzik Dalia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

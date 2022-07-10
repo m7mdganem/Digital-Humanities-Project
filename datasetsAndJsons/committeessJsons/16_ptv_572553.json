@@ -1,0 +1,121 @@
+{
+  "CommitteeNumber": "22",
+  "CommitteeDate": "03/14/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 2290
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 53
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 299
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 275
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "יצחק כהן": {
+      "HebrewName": "יצחק כהן",
+      "EnglishName": "Cohen Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 276
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 584
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 53
+    },
+    "קולט אביטל": {
+      "HebrewName": "קולט אביטל",
+      "EnglishName": "Avital Colette",
+      "Gender": "Female",
+      "SpokenWords": 139
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 134
+    },
+    "יגאל יאסינוב": {
+      "HebrewName": "יגאל יאסינוב",
+      "EnglishName": "Yasinov Igal",
+      "Gender": "Male",
+      "SpokenWords": 111
+    },
+    "משה כחלון": {
+      "HebrewName": "משה כחלון",
+      "EnglishName": "Kahlon Moshe",
+      "Gender": "Male",
+      "SpokenWords": 319
+    },
+    "עמרם מצנע": {
+      "HebrewName": "עמרם מצנע",
+      "EnglishName": "Mitzna Amram",
+      "Gender": "Male",
+      "SpokenWords": 75
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אברהם פורז": {
+      "HebrewName": "אברהם פורז",
+      "EnglishName": "Poraz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 110
+    },
+    "אברהם שוחט": {
+      "HebrewName": "אברהם שוחט",
+      "EnglishName": "Shochat Avraham",
+      "Gender": "Male",
+      "SpokenWords": 680
+    }
+  }
+}

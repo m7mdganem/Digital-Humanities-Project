@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "73",
+  "CommitteeDate": "01/01/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "רוחמה אברהם": {
+      "HebrewName": "רוחמה אברהם",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 1193
+    },
+    "קולט אביטל": {
+      "HebrewName": "קולט אביטל",
+      "EnglishName": "Avital Colette",
+      "Gender": "Female",
+      "SpokenWords": 5
+    },
+    "גלעד ארדן": {
+      "HebrewName": "גלעד ארדן",
+      "EnglishName": "Erdan Gilad",
+      "Gender": "Male",
+      "SpokenWords": 198
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 86
+    },
+    "אליהו גבאי": {
+      "HebrewName": "אליהו גבאי",
+      "EnglishName": "Gabbay Eliahu",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 365
+    },
+    "יצחק גלנטי": {
+      "HebrewName": "יצחק גלנטי",
+      "EnglishName": "Galantee Itshac",
+      "Gender": "Male",
+      "SpokenWords": 124
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 86
+    },
+    "שי חרמש": {
+      "HebrewName": "שי חרמש",
+      "EnglishName": "Hermesh Shai",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אביגדור יצחקי": {
+      "HebrewName": "אביגדור יצחקי",
+      "EnglishName": "Itzchaky Avigdor",
+      "Gender": "Male",
+      "SpokenWords": 905
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 2
+    },
+    "יורם מרציאנו": {
+      "HebrewName": "יורם מרציאנו",
+      "EnglishName": "Marciano Yoram",
+      "Gender": "Male",
+      "SpokenWords": 270
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 203
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 122
+    },
+    "משה שרוני": {
+      "HebrewName": "משה שרוני",
+      "EnglishName": "Sharoni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 178
+    }
+  }
+}

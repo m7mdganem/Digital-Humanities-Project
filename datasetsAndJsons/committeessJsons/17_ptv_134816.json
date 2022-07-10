@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "164",
+  "CommitteeDate": "11/13/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 1912
+    },
+    "רונית תירוש": {
+      "HebrewName": "רונית תירוש",
+      "EnglishName": "Tirosh Ronit",
+      "Gender": "Female",
+      "SpokenWords": 286
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 2098
+    }
+  }
+}

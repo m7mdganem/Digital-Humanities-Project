@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "69",
+  "CommitteeDate": "02/01/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 220
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 108
+    }
+  }
+}

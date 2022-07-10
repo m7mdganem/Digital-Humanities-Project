@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "26",
+  "CommitteeDate": "02/01/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 3910
+    },
+    "אראלה גולן": {
+      "HebrewName": "אראלה גולן",
+      "EnglishName": "Golan Erela",
+      "Gender": "Female",
+      "SpokenWords": 140
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 565
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 578
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 254
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 312
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 140
+    }
+  }
+}

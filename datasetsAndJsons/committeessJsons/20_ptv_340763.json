@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "117",
+  "CommitteeDate": "03/21/2016",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 286
+    },
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

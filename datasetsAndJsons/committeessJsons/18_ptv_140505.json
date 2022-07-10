@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "85",
+  "CommitteeDate": "05/12/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 818
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 24
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 9
+    }
+  }
+}

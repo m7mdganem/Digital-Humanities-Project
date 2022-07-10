@@ -1,0 +1,73 @@
+{
+  "CommitteeNumber": "3",
+  "CommitteeDate": "11/16/1999",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 2107
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עבד אלמלכ דהאמשה": {
+      "HebrewName": "עבד אלמלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עופר חוגי": {
+      "HebrewName": "עופר חוגי",
+      "EnglishName": "Hugi Ofer",
+      "Gender": "Male",
+      "SpokenWords": 27
+    },
+    "ישראל כץ": {
+      "HebrewName": "ישראל כץ",
+      "EnglishName": "Katz Israel",
+      "Gender": "Male",
+      "SpokenWords": 113
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 10
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 44
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 1658
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 490
+    },
+    "יורי שטרן": {
+      "HebrewName": "יורי שטרן",
+      "EnglishName": "Shtern Yuri",
+      "Gender": "Male",
+      "SpokenWords": 61
+    },
+    "שלום שמחון": {
+      "HebrewName": "שלום שמחון",
+      "EnglishName": "Simhon Shalom",
+      "Gender": "Male",
+      "SpokenWords": 91
+    }
+  }
+}

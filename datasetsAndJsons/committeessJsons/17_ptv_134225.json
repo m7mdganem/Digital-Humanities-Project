@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "137",
+  "CommitteeDate": "07/11/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק גלנטי": {
+      "HebrewName": "יצחק גלנטי",
+      "EnglishName": "Galantee Itshac",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ניסים זאב": {
+      "HebrewName": "ניסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ליה שמטוב": {
+      "HebrewName": "ליה שמטוב",
+      "EnglishName": "Shemtov Lia",
+      "Gender": "Female",
+      "SpokenWords": 6
+    }
+  }
+}

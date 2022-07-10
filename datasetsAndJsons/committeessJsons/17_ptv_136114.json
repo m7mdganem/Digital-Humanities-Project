@@ -1,0 +1,67 @@
+{
+  "CommitteeNumber": "229",
+  "CommitteeDate": "04/14/2008",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 621
+    },
+    "יצחק זיו": {
+      "HebrewName": "יצחק זיו",
+      "EnglishName": "Ziv Izhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלכס מילר": {
+      "HebrewName": "אלכס מילר",
+      "EnglishName": "Miller Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יורם מרציאנו": {
+      "HebrewName": "יורם מרציאנו",
+      "EnglishName": "Marciano Yoram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יוחנן פלסנר": {
+      "HebrewName": "יוחנן פלסנר",
+      "EnglishName": "Plesner Yohanan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

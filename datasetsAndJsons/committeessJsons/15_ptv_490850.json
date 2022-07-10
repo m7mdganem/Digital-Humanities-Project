@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "23",
+  "CommitteeDate": "11/1/1999",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 1321
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 80
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 214
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 11
+    }
+  }
+}

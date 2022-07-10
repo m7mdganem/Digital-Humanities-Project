@@ -1,0 +1,85 @@
+{
+  "CommitteeNumber": "112",
+  "CommitteeDate": "07/11/2000",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 1483
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלי בן-מנחם": {
+      "HebrewName": "אלי בן-מנחם",
+      "EnglishName": "Ben-Menachem Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 1138
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 632
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 674
+    },
+    "זבולון אורלב": {
+      "HebrewName": "זבולון אורלב",
+      "EnglishName": "Orlev Zevulun",
+      "Gender": "Male",
+      "SpokenWords": 110
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גדעון עזרא": {
+      "HebrewName": "גדעון עזרא",
+      "EnglishName": "Ezra Gideon",
+      "Gender": "Male",
+      "SpokenWords": 114
+    },
+    "עזמי בשארה": {
+      "HebrewName": "עזמי בשארה",
+      "EnglishName": "Bishara Azmi",
+      "Gender": "Male",
+      "SpokenWords": 74
+    }
+  }
+}

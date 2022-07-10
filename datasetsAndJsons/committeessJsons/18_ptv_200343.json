@@ -1,0 +1,163 @@
+{
+  "CommitteeNumber": "269",
+  "CommitteeDate": "05/07/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 814
+    },
+    "נינו אבסדזה": {
+      "HebrewName": "נינו אבסדזה",
+      "EnglishName": "Abesadze Nino",
+      "Gender": "Female",
+      "SpokenWords": 16
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 324
+    },
+    "ישראל אייכלר": {
+      "HebrewName": "ישראל אייכלר",
+      "EnglishName": "Eichler Israel",
+      "Gender": "Male",
+      "SpokenWords": 219
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 317
+    },
+    "אופיר אקוניס": {
+      "HebrewName": "אופיר אקוניס",
+      "EnglishName": "Akunis Ofir",
+      "Gender": "Male",
+      "SpokenWords": 263
+    },
+    "אריה ביבי": {
+      "HebrewName": "אריה ביבי",
+      "EnglishName": "Bibi Arie",
+      "Gender": "Male",
+      "SpokenWords": 215
+    },
+    "זאב בילסקי": {
+      "HebrewName": "זאב בילסקי",
+      "EnglishName": "Bielski Zeev",
+      "Gender": "Male",
+      "SpokenWords": 262
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 135
+    },
+    "ניצן הורוביץ": {
+      "HebrewName": "ניצן הורוביץ",
+      "EnglishName": "Horowitz Nitzan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 101
+    },
+    "עינת וילף": {
+      "HebrewName": "עינת וילף",
+      "EnglishName": "Wilf Einat",
+      "Gender": "Female",
+      "SpokenWords": 104
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 383
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 367
+    },
+    "ישראל חסון": {
+      "HebrewName": "ישראל חסון",
+      "EnglishName": "Hasson Israel",
+      "Gender": "Male",
+      "SpokenWords": 176
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 207
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 270
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 9
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 12
+    },
+    "רונית תירוש": {
+      "HebrewName": "רונית תירוש",
+      "EnglishName": "Tirosh Ronit",
+      "Gender": "Female",
+      "SpokenWords": 348
+    }
+  }
+}

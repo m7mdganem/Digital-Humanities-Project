@@ -1,0 +1,157 @@
+{
+  "CommitteeNumber": "77",
+  "CommitteeDate": "03/15/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 3608
+    },
+    "רוחמה אברהם-בלילא": {
+      "HebrewName": "רוחמה אברהם-בלילא",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עפו אגבאריה": {
+      "HebrewName": "עפו אגבאריה",
+      "EnglishName": "Agbaria Afou",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעקב אדרי": {
+      "HebrewName": "יעקב אדרי",
+      "EnglishName": "Edery Jacob",
+      "Gender": "Male",
+      "SpokenWords": 272
+    },
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 288
+    },
+    "אריה אלדד": {
+      "HebrewName": "אריה אלדד",
+      "EnglishName": "Eldad Arieh",
+      "Gender": "Male",
+      "SpokenWords": 129
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דניאל בן סימון": {
+      "HebrewName": "דניאל בן סימון",
+      "EnglishName": "Ben Simon Daniel",
+      "Gender": "Male",
+      "SpokenWords": 134
+    },
+    "ניצן הורוביץ": {
+      "HebrewName": "ניצן הורוביץ",
+      "EnglishName": "Horowitz Nitzan",
+      "Gender": "Male",
+      "SpokenWords": 778
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 350
+    },
+    "ציפי חוטובלי": {
+      "HebrewName": "ציפי חוטובלי",
+      "EnglishName": "Hotovely Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 213
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 1429
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 367
+    },
+    "חיים כץ": {
+      "HebrewName": "חיים כץ",
+      "EnglishName": "Katz Haim",
+      "Gender": "Male",
+      "SpokenWords": 337
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 304
+    },
+    "משה מוץ מטלון": {
+      "HebrewName": "משה מוץ מטלון",
+      "EnglishName": "Matalon Moshe Mutz",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 200
+    },
+    "אלכס מילר": {
+      "HebrewName": "אלכס מילר",
+      "EnglishName": "Miller Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "סעיד נאפע": {
+      "HebrewName": "סעיד נאפע",
+      "EnglishName": "Naffaa Said",
+      "Gender": "Male",
+      "SpokenWords": 132
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 138
+    },
+    "מירי רגב": {
+      "HebrewName": "מירי רגב",
+      "EnglishName": "Regev Miri",
+      "Gender": "Female",
+      "SpokenWords": 610
+    },
+    "כרמל שאמה": {
+      "HebrewName": "כרמל שאמה",
+      "EnglishName": "Shama Hacohen Carmel",
+      "Gender": "Male",
+      "SpokenWords": 598
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 436
+    },
+    "רונית תירוש": {
+      "HebrewName": "רונית תירוש",
+      "EnglishName": "Tirosh Ronit",
+      "Gender": "Female",
+      "SpokenWords": 567
+    }
+  }
+}

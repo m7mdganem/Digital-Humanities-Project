@@ -1,0 +1,103 @@
+{
+  "CommitteeNumber": "87",
+  "CommitteeDate": "05/12/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 1505
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 120
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 367
+    },
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 648
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 41
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 368
+    },
+    "יפעת קריב": {
+      "HebrewName": "יפעת קריב",
+      "EnglishName": "Kariv Yifat",
+      "Gender": "Female",
+      "SpokenWords": 66
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 18
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 260
+    },
+    "איילת שקד": {
+      "HebrewName": "איילת שקד",
+      "EnglishName": "Shaked Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 79
+    },
+    "עמר בר-לב": {
+      "HebrewName": "עמר בר-לב",
+      "EnglishName": "Barlev Omer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 574
+    },
+    "ניצן הורוביץ": {
+      "HebrewName": "ניצן הורוביץ",
+      "EnglishName": "Horowitz Nitzan",
+      "Gender": "Male",
+      "SpokenWords": 194
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 194
+    }
+  }
+}

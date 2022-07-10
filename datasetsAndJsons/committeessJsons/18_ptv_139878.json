@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "64",
+  "CommitteeDate": "01/18/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 292
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 11
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "ליה שמטוב": {
+      "HebrewName": "ליה שמטוב",
+      "EnglishName": "Shemtov Lia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "05/04/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 1593
+    },
+    "אברהם בורג": {
+      "HebrewName": "אברהם בורג",
+      "EnglishName": "Burg Avraham",
+      "Gender": "Male",
+      "SpokenWords": 659
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 516
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 648
+    },
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 337
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 735
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

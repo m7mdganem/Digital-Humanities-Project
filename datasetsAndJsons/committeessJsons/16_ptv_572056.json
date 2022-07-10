@@ -1,0 +1,91 @@
+{
+  "CommitteeNumber": "75",
+  "CommitteeDate": "12/09/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 3087
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 23
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 309
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 493
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 213
+    },
+    "שלום שמחון": {
+      "HebrewName": "שלום שמחון",
+      "EnglishName": "Simhon Shalom",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 21
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 629
+    },
+    "אלי אפללו": {
+      "HebrewName": "אלי אפללו",
+      "EnglishName": "Aflalo Eli",
+      "Gender": "Male",
+      "SpokenWords": 53
+    },
+    "אברהם בורג": {
+      "HebrewName": "אברהם בורג",
+      "EnglishName": "Burg Avraham",
+      "Gender": "Male",
+      "SpokenWords": 2300
+    },
+    "רומן ברונפמן": {
+      "HebrewName": "רומן ברונפמן",
+      "EnglishName": "Bronfman Roman",
+      "Gender": "Male",
+      "SpokenWords": 74
+    },
+    "אתי לבני": {
+      "HebrewName": "אתי לבני",
+      "EnglishName": "Livni Eti",
+      "Gender": "Female",
+      "SpokenWords": 140
+    },
+    "לאה נס": {
+      "HebrewName": "לאה נס",
+      "EnglishName": "Nass Lea",
+      "Gender": "Female",
+      "SpokenWords": 128
+    }
+  }
+}

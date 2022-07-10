@@ -1,0 +1,175 @@
+{
+  "CommitteeNumber": "157",
+  "CommitteeDate": "01/09/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 2717
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 243
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 793
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 12
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 93
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 1
+    },
+    "ישראל כץ": {
+      "HebrewName": "ישראל כץ",
+      "EnglishName": "Katz Israel",
+      "Gender": "Male",
+      "SpokenWords": 200
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 15
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 542
+    },
+    "קולט אביטל": {
+      "HebrewName": "קולט אביטל",
+      "EnglishName": "Avital Colette",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "בני אלון": {
+      "HebrewName": "בני אלון",
+      "EnglishName": "Elon Benyamin",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלי גולדשמידט": {
+      "HebrewName": "אלי גולדשמידט",
+      "EnglishName": "Goldschmidt Elie",
+      "Gender": "Male",
+      "SpokenWords": 445
+    },
+    "יעל דיין": {
+      "HebrewName": "יעל דיין",
+      "EnglishName": "Dayan Yael",
+      "Gender": "Female",
+      "SpokenWords": 199
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 47
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק כהן": {
+      "HebrewName": "יצחק כהן",
+      "EnglishName": "Cohen Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 136
+    },
+    "עוזי לנדאו": {
+      "HebrewName": "עוזי לנדאו",
+      "EnglishName": "Landau Uzi",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "רחמים מלול": {
+      "HebrewName": "רחמים מלול",
+      "EnglishName": "Melloul Rahamim",
+      "Gender": "Male",
+      "SpokenWords": 426
+    },
+    "אליהו סויסה": {
+      "HebrewName": "אליהו סויסה",
+      "EnglishName": "Suissa Eliyahu",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "דליה רבין פילוסוף": {
+      "HebrewName": "דליה רבין פילוסוף",
+      "EnglishName": "Rabin-Pelossof Dalia",
+      "Gender": "Female",
+      "SpokenWords": 9
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 55
+    },
+    "יוסף פריצקי": {
+      "HebrewName": "יוסף פריצקי",
+      "EnglishName": "Paritzky Joseph",
+      "Gender": "Male",
+      "SpokenWords": 268
+    },
+    "ויצמן שירי": {
+      "HebrewName": "ויצמן שירי",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 320
+    }
+  }
+}

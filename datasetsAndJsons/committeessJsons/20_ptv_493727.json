@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "13",
+  "CommitteeDate": "03/13/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 137
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ציפי לבני": {
+      "HebrewName": "ציפי לבני",
+      "EnglishName": "Livni Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רויטל סויד": {
+      "HebrewName": "רויטל סויד",
+      "EnglishName": "Swid Revital",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

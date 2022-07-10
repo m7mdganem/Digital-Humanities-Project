@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "185",
+  "CommitteeDate": "12/19/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 518
+    },
+    "יואל יולי אדלשטיין": {
+      "HebrewName": "יואל יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "אלי אפללו": {
+      "HebrewName": "אלי אפללו",
+      "EnglishName": "Aflalo Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק זיו": {
+      "HebrewName": "יצחק זיו",
+      "EnglishName": "Ziv Izhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שי חרמש": {
+      "HebrewName": "שי חרמש",
+      "EnglishName": "Hermesh Shai",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

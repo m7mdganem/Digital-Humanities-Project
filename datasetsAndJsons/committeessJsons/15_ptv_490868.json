@@ -1,0 +1,121 @@
+{
+  "CommitteeNumber": "42",
+  "CommitteeDate": "12/14/1999",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 1835
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 22
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 511
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רחבעם זאבי": {
+      "HebrewName": "רחבעם זאבי",
+      "EnglishName": "Ze`evi Rechavam",
+      "Gender": "Male",
+      "SpokenWords": 476
+    },
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 160
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 376
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ישראל כץ": {
+      "HebrewName": "ישראל כץ",
+      "EnglishName": "Katz Israel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מקסים לוי": {
+      "HebrewName": "מקסים לוי",
+      "EnglishName": "Levy Maxim",
+      "Gender": "Male",
+      "SpokenWords": 123
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 18
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 335
+    },
+    "יורי שטרן": {
+      "HebrewName": "יורי שטרן",
+      "EnglishName": "Shtern Yuri",
+      "Gender": "Male",
+      "SpokenWords": 274
+    },
+    "אלי גולדשמידט": {
+      "HebrewName": "אלי גולדשמידט",
+      "EnglishName": "Goldschmidt Elie",
+      "Gender": "Male",
+      "SpokenWords": 380
+    },
+    "אבי יחזקאל": {
+      "HebrewName": "אבי יחזקאל",
+      "EnglishName": "Yechezkel Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עופר חוגי": {
+      "HebrewName": "עופר חוגי",
+      "EnglishName": "Hugi Ofer",
+      "Gender": "Male",
+      "SpokenWords": 126
+    },
+    "יעקב ליצמן": {
+      "HebrewName": "יעקב ליצמן",
+      "EnglishName": "Litzman Yakov",
+      "Gender": "Male",
+      "SpokenWords": 36
+    }
+  }
+}

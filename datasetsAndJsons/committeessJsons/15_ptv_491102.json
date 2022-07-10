@@ -1,0 +1,115 @@
+{
+  "CommitteeNumber": "287",
+  "CommitteeDate": "03/04/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 1797
+    },
+    "זבולון אורלב": {
+      "HebrewName": "זבולון אורלב",
+      "EnglishName": "Orlev Zevulun",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 362
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 87
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 346
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 262
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עופר חוגי": {
+      "HebrewName": "עופר חוגי",
+      "EnglishName": "Hugi Ofer",
+      "Gender": "Male",
+      "SpokenWords": 464
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 575
+    },
+    "אבי יחזקאל": {
+      "HebrewName": "אבי יחזקאל",
+      "EnglishName": "Yechezkel Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 54
+    },
+    "מרדכי משעני": {
+      "HebrewName": "מרדכי משעני",
+      "EnglishName": "Mishani Mordechai",
+      "Gender": "Male",
+      "SpokenWords": 333
+    },
+    "יצחק סבן": {
+      "HebrewName": "יצחק סבן",
+      "EnglishName": "Shaban Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם פורז": {
+      "HebrewName": "אברהם פורז",
+      "EnglishName": "Poraz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 672
+    },
+    "נחמה רונן": {
+      "HebrewName": "נחמה רונן",
+      "EnglishName": "Ronen Nehama",
+      "Gender": "Female",
+      "SpokenWords": 217
+    },
+    "ויצמן שירי": {
+      "HebrewName": "ויצמן שירי",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 757
+    }
+  }
+}

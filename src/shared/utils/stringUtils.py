@@ -19,3 +19,10 @@ def IsHeadline(line):
         first_word = first_word.split('.')[0]
         return first_word.isnumeric() or first_word in HebrewABC
     return False
+
+def StripLine(name: str):
+    name = name.replace("מ\"מ", "")
+    name = name.replace("-", " ")
+    name = name.replace("–", " ")
+    name = name.replace(",", "")
+    return name.strip()

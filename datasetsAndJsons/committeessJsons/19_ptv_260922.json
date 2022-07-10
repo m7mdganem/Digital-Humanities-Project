@@ -1,0 +1,103 @@
+{
+  "CommitteeNumber": "46",
+  "CommitteeDate": "11/04/2013",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1355
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "באסל גטאס": {
+      "HebrewName": "באסל גטאס",
+      "EnglishName": "Ghattas Basel",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "אילן גילאון": {
+      "HebrewName": "אילן גילאון",
+      "EnglishName": "Gilon Ilan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 98
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב ליפמן": {
+      "HebrewName": "דב ליפמן",
+      "EnglishName": "Lipman Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 118
+    },
+    "משה זלמן פייגלין": {
+      "HebrewName": "משה זלמן פייגלין",
+      "EnglishName": "Feiglin Moshe Zalman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יפעת קריב": {
+      "HebrewName": "יפעת קריב",
+      "EnglishName": "Kariv Yifat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 488
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 473
+    },
+    "אורית סטרוק": {
+      "HebrewName": "אורית סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

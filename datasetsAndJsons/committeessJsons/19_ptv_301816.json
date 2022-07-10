@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "115",
+  "CommitteeDate": "07/30/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 3212
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 1382
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 1307
+    }
+  }
+}

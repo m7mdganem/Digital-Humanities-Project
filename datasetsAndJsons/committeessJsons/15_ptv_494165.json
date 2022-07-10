@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "321",
+  "CommitteeDate": "06/05/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 25
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 64
+    },
+    "מרדכי משעני": {
+      "HebrewName": "מרדכי משעני",
+      "EnglishName": "Mishani Mordechai",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ויצמן שירי": {
+      "HebrewName": "ויצמן שירי",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

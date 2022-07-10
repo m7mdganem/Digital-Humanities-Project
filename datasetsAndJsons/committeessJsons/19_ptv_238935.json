@@ -1,0 +1,85 @@
+{
+  "CommitteeNumber": "17",
+  "CommitteeDate": "06/11/2013",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 344
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 21
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 994
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 85
+    },
+    "איילת שקד": {
+      "HebrewName": "איילת שקד",
+      "EnglishName": "Shaked Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שמעון אוחיון": {
+      "HebrewName": "שמעון אוחיון",
+      "EnglishName": "Ohayon Shimon",
+      "Gender": "Male",
+      "SpokenWords": 144
+    },
+    "דוד אזולאי": {
+      "HebrewName": "דוד אזולאי",
+      "EnglishName": "Azoulay David",
+      "Gender": "Male",
+      "SpokenWords": 12
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 709
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 575
+    },
+    "עדי קול": {
+      "HebrewName": "עדי קול",
+      "EnglishName": "Koll Adi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

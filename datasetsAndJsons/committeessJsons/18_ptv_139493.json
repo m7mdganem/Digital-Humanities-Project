@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "5",
+  "CommitteeDate": "11/30/2009",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 982
+    },
+    "רוחמה אברהם-בלילא": {
+      "HebrewName": "רוחמה אברהם-בלילא",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 96
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 611
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 257
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 611
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלכס מילר": {
+      "HebrewName": "אלכס מילר",
+      "EnglishName": "Miller Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 18
+    },
+    "עתניאל שנלר": {
+      "HebrewName": "עתניאל שנלר",
+      "EnglishName": "Schneller Otniel",
+      "Gender": "Male",
+      "SpokenWords": 318
+    },
+    "רונית תירוש": {
+      "HebrewName": "רונית תירוש",
+      "EnglishName": "Tirosh Ronit",
+      "Gender": "Female",
+      "SpokenWords": 766
+    }
+  }
+}

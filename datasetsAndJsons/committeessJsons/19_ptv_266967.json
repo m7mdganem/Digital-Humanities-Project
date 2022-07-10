@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "6",
+  "CommitteeDate": "12/30/2013",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 600
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 16
+    },
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 219
+    },
+    "דב ליפמן": {
+      "HebrewName": "דב ליפמן",
+      "EnglishName": "Lipman Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 498
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "15",
+  "CommitteeDate": "07/08/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 667
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 55
+    },
+    "בועז טופורובסקי": {
+      "HebrewName": "בועז טופורובסקי",
+      "EnglishName": "Toporovsky Boaz",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 11
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 47
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 444
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 595
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "יואל רזבוזוב": {
+      "HebrewName": "יואל רזבוזוב",
+      "EnglishName": "Razvozov Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

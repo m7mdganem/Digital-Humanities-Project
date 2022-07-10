@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "249",
+  "CommitteeDate": "11/28/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 207
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 71
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 156
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 130
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 54
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 8
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 74
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 63
+    },
+    "אילן גילאון": {
+      "HebrewName": "אילן גילאון",
+      "EnglishName": "Gilon Ilan",
+      "Gender": "Male",
+      "SpokenWords": 150
+    },
+    "מרדכי משעני": {
+      "HebrewName": "מרדכי משעני",
+      "EnglishName": "Mishani Mordechai",
+      "Gender": "Male",
+      "SpokenWords": 69
+    },
+    "אברהם פורז": {
+      "HebrewName": "אברהם פורז",
+      "EnglishName": "Poraz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 184
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם רביץ": {
+      "HebrewName": "אברהם רביץ",
+      "EnglishName": "Ravitz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "גנדי ריגר": {
+      "HebrewName": "גנדי ריגר",
+      "EnglishName": "Riger Gennady",
+      "Gender": "Male",
+      "SpokenWords": 6
+    }
+  }
+}

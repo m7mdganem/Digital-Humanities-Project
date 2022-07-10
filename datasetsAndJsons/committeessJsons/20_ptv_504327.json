@@ -1,0 +1,91 @@
+{
+  "CommitteeNumber": "21",
+  "CommitteeDate": "07/17/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 6887
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 273
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 872
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 22
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 882
+    },
+    "מרב מיכאלי": {
+      "HebrewName": "מרב מיכאלי",
+      "EnglishName": "Michaeli Merav",
+      "Gender": "Female",
+      "SpokenWords": 17
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רויטל סויד": {
+      "HebrewName": "רויטל סויד",
+      "EnglishName": "Swid Revital",
+      "Gender": "Female",
+      "SpokenWords": 3
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 131
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 16
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 639
+    }
+  }
+}

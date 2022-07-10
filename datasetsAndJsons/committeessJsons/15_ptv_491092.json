@@ -1,0 +1,115 @@
+{
+  "CommitteeNumber": "276",
+  "CommitteeDate": "01/30/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "ויצמן שירי": {
+      "HebrewName": "ויצמן שירי",
+      "EnglishName": "Shiry Wizman",
+      "Gender": "Male",
+      "SpokenWords": 508
+    },
+    "קולט אביטל": {
+      "HebrewName": "קולט אביטל",
+      "EnglishName": "Avital Colette",
+      "Gender": "Female",
+      "SpokenWords": 17
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 148
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 200
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 85
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 211
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 38
+    },
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 12
+    },
+    "עופר חוגי": {
+      "HebrewName": "עופר חוגי",
+      "EnglishName": "Hugi Ofer",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "יעקב ליצמן": {
+      "HebrewName": "יעקב ליצמן",
+      "EnglishName": "Litzman Yakov",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "נחום לנגנטל": {
+      "HebrewName": "נחום לנגנטל",
+      "EnglishName": "Langental Nahum",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל נודלמן": {
+      "HebrewName": "מיכאל נודלמן",
+      "EnglishName": "Nudelman Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם פורז": {
+      "HebrewName": "אברהם פורז",
+      "EnglishName": "Poraz Avraham",
+      "Gender": "Male",
+      "SpokenWords": 64
+    },
+    "איוב קרא": {
+      "HebrewName": "איוב קרא",
+      "EnglishName": "Kara Ayoob",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

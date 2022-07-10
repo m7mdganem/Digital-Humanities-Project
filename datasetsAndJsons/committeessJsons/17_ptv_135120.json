@@ -1,0 +1,139 @@
+{
+  "CommitteeNumber": "183",
+  "CommitteeDate": "12/18/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 1683
+    },
+    "אלי אפללו": {
+      "HebrewName": "אלי אפללו",
+      "EnglishName": "Aflalo Eli",
+      "Gender": "Male",
+      "SpokenWords": 179
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 415
+    },
+    "אליהו גבאי": {
+      "HebrewName": "אליהו גבאי",
+      "EnglishName": "Gabbay Eliahu",
+      "Gender": "Male",
+      "SpokenWords": 101
+    },
+    "יצחק גלנטי": {
+      "HebrewName": "יצחק גלנטי",
+      "EnglishName": "Galantee Itshac",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 193
+    },
+    "יצחק זיו": {
+      "HebrewName": "יצחק זיו",
+      "EnglishName": "Ziv Izhak",
+      "Gender": "Male",
+      "SpokenWords": 83
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "אסתרינה טרטמן": {
+      "HebrewName": "אסתרינה טרטמן",
+      "EnglishName": "Tartman Esterina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רן כהן": {
+      "HebrewName": "רן כהן",
+      "EnglishName": "Cohen Ran",
+      "Gender": "Male",
+      "SpokenWords": 516
+    },
+    "סטס מיסז'ניקוב": {
+      "HebrewName": "סטס מיסז'ניקוב",
+      "EnglishName": "Misezhnikov Stas",
+      "Gender": "Male",
+      "SpokenWords": 257
+    },
+    "מיכאל מלכיאור": {
+      "HebrewName": "מיכאל מלכיאור",
+      "EnglishName": "Melchior Michael",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 118
+    },
+    "מיכאל נודלמן": {
+      "HebrewName": "מיכאל נודלמן",
+      "EnglishName": "Nudelman Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 947
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 213
+    },
+    "עתניאל שנלר": {
+      "HebrewName": "עתניאל שנלר",
+      "EnglishName": "Schneller Otniel",
+      "Gender": "Male",
+      "SpokenWords": 1135
+    }
+  }
+}

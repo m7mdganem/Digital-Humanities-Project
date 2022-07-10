@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "44",
+  "CommitteeDate": "11/04/2009",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 449
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 227
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 714
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דליה איציק": {
+      "HebrewName": "דליה איציק",
+      "EnglishName": "Itzik Dalia",
+      "Gender": "Female",
+      "SpokenWords": 953
+    },
+    "אילן גילאון": {
+      "HebrewName": "אילן גילאון",
+      "EnglishName": "Gilon Ilan",
+      "Gender": "Male",
+      "SpokenWords": 154
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "אריה ביבי": {
+      "HebrewName": "אריה ביבי",
+      "EnglishName": "Bibi Arie",
+      "Gender": "Male",
+      "SpokenWords": 35
+    },
+    "זאב בילסקי": {
+      "HebrewName": "זאב בילסקי",
+      "EnglishName": "Bielski Zeev",
+      "Gender": "Male",
+      "SpokenWords": 165
+    },
+    "מיכאל בן-ארי": {
+      "HebrewName": "מיכאל בן-ארי",
+      "EnglishName": "Ben Ari Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ישראל חסון": {
+      "HebrewName": "ישראל חסון",
+      "EnglishName": "Hasson Israel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 759
+    },
+    "יוליה שמאלוב ברקוביץ": {
+      "HebrewName": "יוליה שמאלוב ברקוביץ",
+      "EnglishName": "Shamalov Berkovich Yulia",
+      "Gender": "Female",
+      "SpokenWords": 189
+    },
+    "רונית תירוש": {
+      "HebrewName": "רונית תירוש",
+      "EnglishName": "Tirosh Ronit",
+      "Gender": "Female",
+      "SpokenWords": 306
+    }
+  }
+}

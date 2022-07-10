@@ -1,0 +1,91 @@
+{
+  "CommitteeNumber": "158",
+  "CommitteeDate": "08/03/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 2102
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 48
+    },
+    "שלום שמחון": {
+      "HebrewName": "שלום שמחון",
+      "EnglishName": "Simhon Shalom",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 523
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 218
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 276
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 31
+    },
+    "מיכאל גורולובסקי": {
+      "HebrewName": "מיכאל גורולובסקי",
+      "EnglishName": "Gorlovsky Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 171
+    },
+    "עומרי שרון": {
+      "HebrewName": "עומרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 346
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "צבי הנדל": {
+      "HebrewName": "צבי הנדל",
+      "EnglishName": "Hendel Zvi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

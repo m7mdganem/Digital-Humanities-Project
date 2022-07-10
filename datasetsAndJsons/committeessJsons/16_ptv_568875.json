@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "27",
+  "CommitteeDate": "02/02/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 3841
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 283
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 245
+    },
+    "מיכאל גורלובסקי": {
+      "HebrewName": "מיכאל גורלובסקי",
+      "EnglishName": "Gorlovsky Michael",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "גילה גמליאל": {
+      "HebrewName": "גילה גמליאל",
+      "EnglishName": "Gamliel Gila",
+      "Gender": "Female",
+      "SpokenWords": 2
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 1523
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 201
+    },
+    "מיכאל רצון": {
+      "HebrewName": "מיכאל רצון",
+      "EnglishName": "Ratzon Michael",
+      "Gender": "Male",
+      "SpokenWords": 5
+    }
+  }
+}

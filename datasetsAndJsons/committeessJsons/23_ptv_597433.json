@@ -1,0 +1,73 @@
+{
+  "CommitteeNumber": "11",
+  "CommitteeDate": "01/25/2021",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 4483
+    },
+    "עמית הלוי": {
+      "HebrewName": "עמית הלוי",
+      "EnglishName": "Halevi Amit",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 2100
+    },
+    "מטי יוגב": {
+      "HebrewName": "מטי יוגב",
+      "EnglishName": "Yogev Matti",
+      "Gender": "Female",
+      "SpokenWords": 2503
+    },
+    "אופיר כץ": {
+      "HebrewName": "אופיר כץ",
+      "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 277
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 4275
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 4796
+    },
+    "תהלה פרידמן": {
+      "HebrewName": "תהלה פרידמן",
+      "EnglishName": "Friedman Tehila",
+      "Gender": "Female",
+      "SpokenWords": 4739
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 3248
+    },
+    "שבח שטרן": {
+      "HebrewName": "שבח שטרן",
+      "EnglishName": "Stern Shevach",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "הילה שי וזאן": {
+      "HebrewName": "הילה שי וזאן",
+      "EnglishName": "Shay Vazan Hila",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

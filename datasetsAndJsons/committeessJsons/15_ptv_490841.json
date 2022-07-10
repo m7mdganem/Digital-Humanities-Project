@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "16",
+  "CommitteeDate": "10/11/1999",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "אופיר פינס פז": {
+      "HebrewName": "אופיר פינס פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 511
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 38
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 24
+    },
+    "רחבעם זאבי": {
+      "HebrewName": "רחבעם זאבי",
+      "EnglishName": "Ze`evi Rechavam",
+      "Gender": "Male",
+      "SpokenWords": 81
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 39
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 205
+    }
+  }
+}

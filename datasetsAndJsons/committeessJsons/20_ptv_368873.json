@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "217",
+  "CommitteeDate": "02/08/2017",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 830
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

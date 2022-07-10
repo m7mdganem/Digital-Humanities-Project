@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "151",
+  "CommitteeDate": "02/08/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 2932
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 813
+    },
+    "ישראל חסון": {
+      "HebrewName": "ישראל חסון",
+      "EnglishName": "Hasson Israel",
+      "Gender": "Male",
+      "SpokenWords": 1032
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 36
+    },
+    "משה מוץ מטלון": {
+      "HebrewName": "משה מוץ מטלון",
+      "EnglishName": "Matalon Moshe Mutz",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

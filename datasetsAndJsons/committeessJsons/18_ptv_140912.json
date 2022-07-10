@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "11",
+  "CommitteeDate": "07/21/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 283
+    },
+    "דוד אזולאי": {
+      "HebrewName": "דוד אזולאי",
+      "EnglishName": "Azoulay David",
+      "Gender": "Male",
+      "SpokenWords": 255
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 56
+    },
+    "גאלב מג'אדלה": {
+      "HebrewName": "גאלב מג'אדלה",
+      "EnglishName": "Majadele Raleb",
+      "Gender": "Male",
+      "SpokenWords": 95
+    }
+  }
+}

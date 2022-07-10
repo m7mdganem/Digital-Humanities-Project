@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "113",
+  "CommitteeDate": "07/29/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 2563
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 889
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 61
+    }
+  }
+}

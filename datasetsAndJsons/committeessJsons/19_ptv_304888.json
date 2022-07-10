@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "146",
+  "CommitteeDate": "02/16/2015",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 597
+    }
+  }
+}

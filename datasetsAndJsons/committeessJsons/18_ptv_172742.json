@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "06/29/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 7074
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 601
+    }
+  }
+}

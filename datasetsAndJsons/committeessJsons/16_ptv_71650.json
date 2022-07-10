@@ -3,6 +3,12 @@
   "CommitteeDate": "12/5/2005",
   "KnessetNumber": "16",
   "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 2501
+    },
     "קולט אביטל": {
       "HebrewName": "קולט אביטל",
       "EnglishName": "Avital Colette",
@@ -41,7 +47,7 @@
     },
     "סאלח טריף": {
       "HebrewName": "סאלח טריף",
-      "EnglishName": "Tarif Saleh",
+      "EnglishName": "Tarif Salah",
       "Gender": "Male",
       "SpokenWords": 603
     },

@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "184",
+  "CommitteeDate": "06/06/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 526
+    },
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ישראל איכלר": {
+      "HebrewName": "ישראל איכלר",
+      "EnglishName": "Eichler Israel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 90
+    },
+    "אופיר אקוניס": {
+      "HebrewName": "אופיר אקוניס",
+      "EnglishName": "Akunis Ofir",
+      "Gender": "Male",
+      "SpokenWords": 111
+    },
+    "ציפי חוטובלי": {
+      "HebrewName": "ציפי חוטובלי",
+      "EnglishName": "Hotovely Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 17
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 20
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

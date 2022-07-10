@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "54",
+  "CommitteeDate": "11/02/2015",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 94
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

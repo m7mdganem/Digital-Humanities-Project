@@ -2,5 +2,12 @@
   "CommitteeNumber": "266",
   "CommitteeDate": "10/29/2008",
   "KnessetNumber": "17",
-  "participantsDetails": {}
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 35
+    }
+  }
 }

@@ -1,0 +1,127 @@
+{
+  "CommitteeNumber": "257",
+  "CommitteeDate": "07/22/2008",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 1003
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 53
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 466
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נאדיה חילו": {
+      "HebrewName": "נאדיה חילו",
+      "EnglishName": "Hilou Nadia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 1119
+    },
+    "אסתרינה טרטמן": {
+      "HebrewName": "אסתרינה טרטמן",
+      "EnglishName": "Tartman Esterina",
+      "Gender": "Female",
+      "SpokenWords": 461
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 879
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 251
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 106
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 765
+    },
+    "משה שרוני": {
+      "HebrewName": "משה שרוני",
+      "EnglishName": "Sharoni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 315
+    },
+    "צבי הנדל": {
+      "HebrewName": "צבי הנדל",
+      "EnglishName": "Hendel Zvi",
+      "Gender": "Male",
+      "SpokenWords": 674
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 418
+    },
+    "ג'מאל זחאלקה": {
+      "HebrewName": "ג'מאל זחאלקה",
+      "EnglishName": "Zahalka Jamal",
+      "Gender": "Male",
+      "SpokenWords": 409
+    },
+    "לימור לבנת": {
+      "HebrewName": "לימור לבנת",
+      "EnglishName": "Livnat Limor",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יצחק לוי": {
+      "HebrewName": "יצחק לוי",
+      "EnglishName": "Levy Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 548
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 1327
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "354",
+  "CommitteeDate": "05/23/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 401
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 11
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "פנינה תמנו": {
+      "HebrewName": "פנינה תמנו",
+      "EnglishName": "Tamanu Penina",
+      "Gender": "Female",
+      "SpokenWords": 70
+    }
+  }
+}

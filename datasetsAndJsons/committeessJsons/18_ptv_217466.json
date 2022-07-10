@@ -3,6 +3,12 @@
   "CommitteeDate": "07/24/2012",
   "KnessetNumber": "18",
   "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 3489
+    },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
       "EnglishName": "Eichler Israel",
@@ -151,7 +157,7 @@
       "HebrewName": "כרמל שאמה-הכהן",
       "EnglishName": "Shama Hacohen Carmel",
       "Gender": "Male",
-      "SpokenWords": 117
+      "SpokenWords": 0
     },
     "מאיר שטרית": {
       "HebrewName": "מאיר שטרית",
@@ -163,7 +169,7 @@
       "HebrewName": "יוליה שמאלוב-ברקוביץ",
       "EnglishName": "Shamalov Berkovich Yulia",
       "Gender": "Female",
-      "SpokenWords": 1024
+      "SpokenWords": 0
     },
     "שכיב שנאן": {
       "HebrewName": "שכיב שנאן",

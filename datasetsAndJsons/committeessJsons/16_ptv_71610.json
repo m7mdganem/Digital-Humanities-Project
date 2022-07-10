@@ -3,6 +3,12 @@
   "CommitteeDate": "11/23/2005",
   "KnessetNumber": "16",
   "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 728
+    },
     "זהבה גלאון": {
       "HebrewName": "זהבה גלאון",
       "EnglishName": "Galon Zehava",

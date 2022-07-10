@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "02/09/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 973
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 753
+    },
+    "איוב קרא": {
+      "HebrewName": "איוב קרא",
+      "EnglishName": "Kara Ayoob",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 106
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 312
+    },
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 31
+    },
+    "מיכאל גורלובסקי": {
+      "HebrewName": "מיכאל גורלובסקי",
+      "EnglishName": "Gorlovsky Michael",
+      "Gender": "Male",
+      "SpokenWords": 45
+    },
+    "עמיר פרץ": {
+      "HebrewName": "עמיר פרץ",
+      "EnglishName": "Peretz Amir",
+      "Gender": "Male",
+      "SpokenWords": 98
+    },
+    "חיים כץ": {
+      "HebrewName": "חיים כץ",
+      "EnglishName": "Katz Haim",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 35
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

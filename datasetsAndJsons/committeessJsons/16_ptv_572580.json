@@ -3,6 +3,12 @@
   "CommitteeDate": "12/14/2005",
   "KnessetNumber": "16",
   "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 313
+    },
     "שאול יהלום": {
       "HebrewName": "שאול יהלום",
       "EnglishName": "Yahalom Shaul",

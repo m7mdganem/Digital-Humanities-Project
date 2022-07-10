@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "295",
+  "CommitteeDate": "03/13/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 117
+    },
+    "אפי אושעיה": {
+      "HebrewName": "אפי אושעיה",
+      "EnglishName": "Oshaya Efi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ישראל כץ": {
+      "HebrewName": "ישראל כץ",
+      "EnglishName": "Katz Israel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יהודית נאות": {
+      "HebrewName": "יהודית נאות",
+      "EnglishName": "Naot Yehudith",
+      "Gender": "Female",
+      "SpokenWords": 6
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "איוב קרא": {
+      "HebrewName": "איוב קרא",
+      "EnglishName": "Kara Ayoob",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

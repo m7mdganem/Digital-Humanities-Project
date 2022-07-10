@@ -1,0 +1,97 @@
+{
+  "CommitteeNumber": "7",
+  "CommitteeDate": "02/08/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 2552
+    },
+    "רוחמה אברהם-בלילא": {
+      "HebrewName": "רוחמה אברהם-בלילא",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 11
+    },
+    "זאב בילסקי": {
+      "HebrewName": "זאב בילסקי",
+      "EnglishName": "Bielski Zeev",
+      "Gender": "Male",
+      "SpokenWords": 415
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 183
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 747
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 757
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שלמה מולה": {
+      "HebrewName": "שלמה מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 309
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 355
+    },
+    "אלכס מילר": {
+      "HebrewName": "אלכס מילר",
+      "EnglishName": "Miller Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני דנון": {
+      "HebrewName": "דני דנון",
+      "EnglishName": "Danon Danny",
+      "Gender": "Male",
+      "SpokenWords": 649
+    },
+    "חנין זועבי": {
+      "HebrewName": "חנין זועבי",
+      "EnglishName": "Zoabi Hanin",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 913
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 399
+    }
+  }
+}

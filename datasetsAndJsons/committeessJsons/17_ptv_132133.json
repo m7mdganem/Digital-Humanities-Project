@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "23",
+  "CommitteeDate": "07/10/2006",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "רוחמה אברהם": {
+      "HebrewName": "רוחמה אברהם",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 1021
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 151
+    },
+    "ליה שמטוב": {
+      "HebrewName": "ליה שמטוב",
+      "EnglishName": "Shemtov Lia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אביגדור יצחקי": {
+      "HebrewName": "אביגדור יצחקי",
+      "EnglishName": "Itzchaky Avigdor",
+      "Gender": "Male",
+      "SpokenWords": 437
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 58
+    },
+    "אסתרינה טרטמן": {
+      "HebrewName": "אסתרינה טרטמן",
+      "EnglishName": "Tartman Esterina",
+      "Gender": "Female",
+      "SpokenWords": 4
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

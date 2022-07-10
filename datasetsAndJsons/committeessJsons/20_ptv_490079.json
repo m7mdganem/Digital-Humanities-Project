@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "337",
+  "CommitteeDate": "02/20/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 198
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

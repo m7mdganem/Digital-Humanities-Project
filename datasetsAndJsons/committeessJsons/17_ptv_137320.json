@@ -3,6 +3,12 @@
   "CommitteeDate": "12/18/2008",
   "KnessetNumber": "17",
   "participantsDetails": {
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 393
+    },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",

@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "6",
+  "CommitteeDate": "02/11/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 470
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 61
+    },
+    "כרמל שאמה": {
+      "HebrewName": "כרמל שאמה",
+      "EnglishName": "Shama Hacohen Carmel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

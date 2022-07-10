@@ -1,0 +1,73 @@
+{
+  "CommitteeNumber": "67",
+  "CommitteeDate": "11/19/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 1805
+    },
+    "מיכאל איתן": {
+      "HebrewName": "מיכאל איתן",
+      "EnglishName": "Eitan Michael",
+      "Gender": "Male",
+      "SpokenWords": 1026
+    },
+    "אברהם בורג": {
+      "HebrewName": "אברהם בורג",
+      "EnglishName": "Burg Avraham",
+      "Gender": "Male",
+      "SpokenWords": 986
+    },
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל גורולובסקי": {
+      "HebrewName": "מיכאל גורולובסקי",
+      "EnglishName": "Gorlovsky Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 481
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 760
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 69
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 437
+    },
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 27
+    }
+  }
+}

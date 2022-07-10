@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "83",
+  "CommitteeDate": "03/18/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 524
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 140
+    },
+    "משה זלמן פייגלין": {
+      "HebrewName": "משה זלמן פייגלין",
+      "EnglishName": "Feiglin Moshe Zalman",
+      "Gender": "Male",
+      "SpokenWords": 53
+    },
+    "יפעת קריב": {
+      "HebrewName": "יפעת קריב",
+      "EnglishName": "Kariv Yifat",
+      "Gender": "Female",
+      "SpokenWords": 259
+    },
+    "שמעון אוחיון": {
+      "HebrewName": "שמעון אוחיון",
+      "EnglishName": "Ohayon Shimon",
+      "Gender": "Male",
+      "SpokenWords": 145
+    }
+  }
+}

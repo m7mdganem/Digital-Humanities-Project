@@ -1,0 +1,73 @@
+{
+  "CommitteeNumber": "12",
+  "CommitteeDate": "05/07/2017",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 8828
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 1299
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 438
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 649
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 554
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 781
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 766
+    },
+    "עיסאווי פריג'": {
+      "HebrewName": "עיסאווי פריג'",
+      "EnglishName": "Frej Esawi",
+      "Gender": "Male",
+      "SpokenWords": 646
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 432
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 70
+    }
+  }
+}

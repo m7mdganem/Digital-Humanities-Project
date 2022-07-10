@@ -1,0 +1,79 @@
+{
+  "CommitteeNumber": "116",
+  "CommitteeDate": "03/21/2016",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 5498
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 46
+    },
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 212
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "יואל חסון": {
+      "HebrewName": "יואל חסון",
+      "EnglishName": "Hasson Yoel",
+      "Gender": "Male",
+      "SpokenWords": 675
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 864
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מרב מיכאלי": {
+      "HebrewName": "מרב מיכאלי",
+      "EnglishName": "Michaeli Merav",
+      "Gender": "Female",
+      "SpokenWords": 458
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 189
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 1005
+    }
+  }
+}

@@ -3,17 +3,23 @@
   "CommitteeDate": "08/05/2008",
   "KnessetNumber": "17",
   "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 2535
+    },
     "יולי יואל אדלשטיין": {
       "HebrewName": "יולי יואל אדלשטיין",
       "EnglishName": "Edelstein Yuli-Yoel",
       "Gender": "Male",
-      "SpokenWords": 0
+      "SpokenWords": 536
     },
     "מנחם בן-ששון": {
       "HebrewName": "מנחם בן-ששון",
       "EnglishName": "Ben-Sasson Menahem",
       "Gender": "Male",
-      "SpokenWords": 3592
+      "SpokenWords": 0
     },
     "זהבה גלאון": {
       "HebrewName": "זהבה גלאון",
@@ -49,7 +55,7 @@
       "HebrewName": "אופיר פינס-פז",
       "EnglishName": "Pines-Paz Ophir",
       "Gender": "Male",
-      "SpokenWords": 1141
+      "SpokenWords": 0
     },
     "דוד רותם": {
       "HebrewName": "דוד רותם",

@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "162",
+  "CommitteeDate": "08/03/2016",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 1796
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ישראל אייכלר": {
+      "HebrewName": "ישראל אייכלר",
+      "EnglishName": "Eichler Israel",
+      "Gender": "Male",
+      "SpokenWords": 76
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 15
+    },
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 292
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 115
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 114
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "11",
+  "CommitteeDate": "06/25/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 344
+    },
+    "מגלי והבה": {
+      "HebrewName": "מגלי והבה",
+      "EnglishName": "Whbee Majallie",
+      "Gender": "Male",
+      "SpokenWords": 460
+    }
+  }
+}

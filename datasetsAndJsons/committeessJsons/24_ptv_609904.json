@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "28",
+  "CommitteeDate": "10/25/2021",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "יבגני סובה": {
+      "HebrewName": "יבגני סובה",
+      "EnglishName": "Sova Evgeny",
+      "Gender": "Male",
+      "SpokenWords": 116
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "9",
+  "CommitteeDate": "05/30/2006",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "רוחמה אברהם": {
+      "HebrewName": "רוחמה אברהם",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 54
+    },
+    "מנחם בן ששון": {
+      "HebrewName": "מנחם בן ששון",
+      "EnglishName": "Ben-Sasson Menahem",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

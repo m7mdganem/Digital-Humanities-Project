@@ -3,6 +3,12 @@
   "CommitteeDate": "12/03/2012",
   "KnessetNumber": "18",
   "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 5135
+    },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
@@ -97,7 +103,7 @@
       "HebrewName": "יוליה שמאלוב-ברקוביץ",
       "EnglishName": "Shamalov Berkovich Yulia",
       "Gender": "Female",
-      "SpokenWords": 1204
+      "SpokenWords": 0
     },
     "עתניאל שנלר": {
       "HebrewName": "עתניאל שנלר",

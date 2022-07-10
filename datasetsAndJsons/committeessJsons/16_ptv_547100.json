@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "28",
+  "CommitteeDate": "06/17/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 1882
+    },
+    "יעקב ליצמן": {
+      "HebrewName": "יעקב ליצמן",
+      "EnglishName": "Litzman Yakov",
+      "Gender": "Male",
+      "SpokenWords": 39
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 199
+    },
+    "אתי לבני": {
+      "HebrewName": "אתי לבני",
+      "EnglishName": "Livni Eti",
+      "Gender": "Female",
+      "SpokenWords": 129
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 2
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 95
+    },
+    "קולט אביטל": {
+      "HebrewName": "קולט אביטל",
+      "EnglishName": "Avital Colette",
+      "Gender": "Female",
+      "SpokenWords": 341
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 381
+    }
+  }
+}

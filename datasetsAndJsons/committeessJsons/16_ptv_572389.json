@@ -1,0 +1,115 @@
+{
+  "CommitteeNumber": "94",
+  "CommitteeDate": "01/26/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 2748
+    },
+    "אהוד יתום": {
+      "HebrewName": "אהוד יתום",
+      "EnglishName": "Yatom Ehud",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלי אפללו": {
+      "HebrewName": "אלי אפללו",
+      "EnglishName": "Aflalo Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכאל מלכיאור": {
+      "HebrewName": "מיכאל מלכיאור",
+      "EnglishName": "Melchior Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 272
+    },
+    "רוני בריזון": {
+      "HebrewName": "רוני בריזון",
+      "EnglishName": "Brison Ronny A.",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 71
+    },
+    "אבשלום וילן": {
+      "HebrewName": "אבשלום וילן",
+      "EnglishName": "Vilan Avshalom",
+      "Gender": "Male",
+      "SpokenWords": 356
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "דליה איציק": {
+      "HebrewName": "דליה איציק",
+      "EnglishName": "Itzik Dalia",
+      "Gender": "Female",
+      "SpokenWords": 271
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 76
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל גורלובסקי": {
+      "HebrewName": "מיכאל גורלובסקי",
+      "EnglishName": "Gorlovsky Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יחיאל חזן": {
+      "HebrewName": "יחיאל חזן",
+      "EnglishName": "Hazan Yehiel",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "גילה פינקלשטיין": {
+      "HebrewName": "גילה פינקלשטיין",
+      "EnglishName": "Finkelstein Gila",
+      "Gender": "Female",
+      "SpokenWords": 2
+    },
+    "אילן ליבוביץ": {
+      "HebrewName": "אילן ליבוביץ",
+      "EnglishName": "Leibovitch Ilan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

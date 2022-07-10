@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "38",
+  "CommitteeDate": "07/31/2013",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 461
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 18
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יפעת קריב": {
+      "HebrewName": "יפעת קריב",
+      "EnglishName": "Kariv Yifat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איילת שקד": {
+      "HebrewName": "איילת שקד",
+      "EnglishName": "Shaked Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

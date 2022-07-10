@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "164",
+  "CommitteeDate": "03/08/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1469
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 2138
+    },
+    "ישראל אייכלר": {
+      "HebrewName": "ישראל אייכלר",
+      "EnglishName": "Eichler Israel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 226
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

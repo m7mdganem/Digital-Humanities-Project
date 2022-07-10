@@ -1,0 +1,109 @@
+{
+  "CommitteeNumber": "252",
+  "CommitteeDate": "07/11/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 1889
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 974
+    },
+    "גלעד ארדן": {
+      "HebrewName": "גלעד ארדן",
+      "EnglishName": "Erdan Gilad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אהוד יתום": {
+      "HebrewName": "אהוד יתום",
+      "EnglishName": "Yatom Ehud",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "מיכאל גורלובסקי": {
+      "HebrewName": "מיכאל גורלובסקי",
+      "EnglishName": "Gorlovsky Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דניאל בנלולו": {
+      "HebrewName": "דניאל בנלולו",
+      "EnglishName": "Benlolo Daniel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 76
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 474
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "צבי הנדל": {
+      "HebrewName": "צבי הנדל",
+      "EnglishName": "Hendel Zvi",
+      "Gender": "Male",
+      "SpokenWords": 151
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 511
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 162
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 177
+    },
+    "אריה אלדד": {
+      "HebrewName": "אריה אלדד",
+      "EnglishName": "Eldad Arieh",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

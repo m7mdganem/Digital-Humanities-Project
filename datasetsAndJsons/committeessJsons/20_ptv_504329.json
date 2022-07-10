@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "23",
+  "CommitteeDate": "07/18/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 330
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 99
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 86
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 219
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 250
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 34
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 86
+    }
+  }
+}

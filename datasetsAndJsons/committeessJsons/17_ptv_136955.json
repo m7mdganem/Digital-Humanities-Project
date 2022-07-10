@@ -3,6 +3,18 @@
   "CommitteeDate": "08/03/2008",
   "KnessetNumber": "17",
   "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 2728
+    },
+    "מנחם בן ששון": {
+      "HebrewName": "מנחם בן ששון",
+      "EnglishName": "Ben-Sasson Menahem",
+      "Gender": "Male",
+      "SpokenWords": 3525
+    },
     "יצחק לוי": {
       "HebrewName": "יצחק לוי",
       "EnglishName": "Levy Yitzhak",

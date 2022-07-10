@@ -1,0 +1,145 @@
+{
+  "CommitteeNumber": "63",
+  "CommitteeDate": "02/09/2000",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "סאלח טריף": {
+      "HebrewName": "סאלח טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 2383
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 53
+    },
+    "מוחמד ברכה": {
+      "HebrewName": "מוחמד ברכה",
+      "EnglishName": "Barakeh Mohammad",
+      "Gender": "Male",
+      "SpokenWords": 147
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 230
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 957
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רחבעם זאבי": {
+      "HebrewName": "רחבעם זאבי",
+      "EnglishName": "Ze`evi Rechavam",
+      "Gender": "Male",
+      "SpokenWords": 660
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 22
+    },
+    "מקסים לוי": {
+      "HebrewName": "מקסים לוי",
+      "EnglishName": "Levy Maxim",
+      "Gender": "Male",
+      "SpokenWords": 64
+    },
+    "משולם נהרי": {
+      "HebrewName": "משולם נהרי",
+      "EnglishName": "Nahari Meshulam",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אופיר פינס-פז": {
+      "HebrewName": "אופיר פינס-פז",
+      "EnglishName": "Pines-Paz Ophir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 27
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 24
+    },
+    "יורי שטרן": {
+      "HebrewName": "יורי שטרן",
+      "EnglishName": "Shtern Yuri",
+      "Gender": "Male",
+      "SpokenWords": 346
+    },
+    "דוד אזולאי": {
+      "HebrewName": "דוד אזולאי",
+      "EnglishName": "Azoulay David",
+      "Gender": "Male",
+      "SpokenWords": 207
+    },
+    "אריה גמליאל": {
+      "HebrewName": "אריה גמליאל",
+      "EnglishName": "Gamliel Arieh",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "טלב אלסאנע": {
+      "HebrewName": "טלב אלסאנע",
+      "EnglishName": "El-Sana Talab",
+      "Gender": "Male",
+      "SpokenWords": 138
+    },
+    "ויקטור בריילובסקי": {
+      "HebrewName": "ויקטור בריילובסקי",
+      "EnglishName": "Brailovsky Victor",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ציפי לבני": {
+      "HebrewName": "ציפי לבני",
+      "EnglishName": "Livni Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 4
+    },
+    "רחמים מלול": {
+      "HebrewName": "רחמים מלול",
+      "EnglishName": "Melloul Rahamim",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "מיכאל נודלמן": {
+      "HebrewName": "מיכאל נודלמן",
+      "EnglishName": "Nudelman Michael",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "יוסף פריצקי": {
+      "HebrewName": "יוסף פריצקי",
+      "EnglishName": "Paritzky Joseph",
+      "Gender": "Male",
+      "SpokenWords": 387
+    }
+  }
+}

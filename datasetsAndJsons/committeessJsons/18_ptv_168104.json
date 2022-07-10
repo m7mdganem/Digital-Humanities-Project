@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "155",
+  "CommitteeDate": "02/15/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 3013
+    },
+    "רוחמה אברהם בלילא": {
+      "HebrewName": "רוחמה אברהם בלילא",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 2649
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

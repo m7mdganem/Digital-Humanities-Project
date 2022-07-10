@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "269",
+  "CommitteeDate": "11/16/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 63
+    },
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אתי לבני": {
+      "HebrewName": "אתי לבני",
+      "EnglishName": "Livni Eti",
+      "Gender": "Female",
+      "SpokenWords": 14
+    }
+  }
+}

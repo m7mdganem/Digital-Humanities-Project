@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "4",
+  "CommitteeDate": "10/23/2017",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 2169
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 1499
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 83
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 55
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 1056
+    },
+    "ציפי לבני": {
+      "HebrewName": "ציפי לבני",
+      "EnglishName": "Livni Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 1763
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רויטל סויד": {
+      "HebrewName": "רויטל סויד",
+      "EnglishName": "Swid Revital",
+      "Gender": "Female",
+      "SpokenWords": 127
+    },
+    "טלי פלוסקוב": {
+      "HebrewName": "טלי פלוסקוב",
+      "EnglishName": "Ploskov Tali",
+      "Gender": "Female",
+      "SpokenWords": 55
+    }
+  }
+}

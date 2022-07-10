@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "97",
+  "CommitteeDate": "05/23/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "יבגני סובה": {
+      "HebrewName": "יבגני סובה",
+      "EnglishName": "Sova Evgeny",
+      "Gender": "Male",
+      "SpokenWords": 1678
+    },
+    "מירב בן ארי": {
+      "HebrewName": "מירב בן ארי",
+      "EnglishName": "Ben Ari Merav",
+      "Gender": "Female",
+      "SpokenWords": 1272
+    },
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 1520
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 1010
+    }
+  }
+}

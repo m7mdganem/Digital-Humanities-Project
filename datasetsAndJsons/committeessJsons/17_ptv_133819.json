@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "112",
+  "CommitteeDate": "5/21/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 60
+    },
+    "דוד אזולאי": {
+      "HebrewName": "דוד אזולאי",
+      "EnglishName": "Azoulay David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שמואל הלפרט": {
+      "HebrewName": "שמואל הלפרט",
+      "EnglishName": "Halpert Shmuel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ניסים זאב": {
+      "HebrewName": "ניסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

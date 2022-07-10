@@ -3,6 +3,12 @@
   "CommitteeDate": "07/24/2012",
   "KnessetNumber": "18",
   "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 188
+    },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",

@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "17",
+  "CommitteeDate": "07/19/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 607
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אריה אלדד": {
+      "HebrewName": "אריה אלדד",
+      "EnglishName": "Eldad Arieh",
+      "Gender": "Male",
+      "SpokenWords": 84
+    }
+  }
+}

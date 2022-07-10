@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "9",
+  "CommitteeDate": "12/25/2017",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 875
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 434
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 209
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 36
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 116
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 668
+    }
+  }
+}

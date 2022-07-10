@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "14",
+  "CommitteeDate": "06/24/2015",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 488
+    },
+    "ישראל אייכלר": {
+      "HebrewName": "ישראל אייכלר",
+      "EnglishName": "Eichler Israel",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 5
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 81
+    },
+    "מרב מיכאלי": {
+      "HebrewName": "מרב מיכאלי",
+      "EnglishName": "Michaeli Merav",
+      "Gender": "Female",
+      "SpokenWords": 4
+    },
+    "מירב בן ארי": {
+      "HebrewName": "מירב בן ארי",
+      "EnglishName": "Ben Ari Merav",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 6
+    },
+    "אורלי לוי אבקסיס": {
+      "HebrewName": "אורלי לוי אבקסיס",
+      "EnglishName": "Levi-Abekasis Orly",
+      "Gender": "Female",
+      "SpokenWords": 342
+    },
+    "יפעת שאשא ביטון": {
+      "HebrewName": "יפעת שאשא ביטון",
+      "EnglishName": "Shasha-Biton Yifat",
+      "Gender": "Female",
+      "SpokenWords": 17
+    }
+  }
+}

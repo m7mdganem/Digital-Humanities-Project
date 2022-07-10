@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "166",
+  "CommitteeDate": "03/14/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1871
+    },
+    "יעקב אדרי": {
+      "HebrewName": "יעקב אדרי",
+      "EnglishName": "Edery Jacob",
+      "Gender": "Male",
+      "SpokenWords": 1
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 267
+    },
+    "מיכאל בן-ארי": {
+      "HebrewName": "מיכאל בן-ארי",
+      "EnglishName": "Ben Ari Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 622
+    },
+    "ציפי חוטובלי": {
+      "HebrewName": "ציפי חוטובלי",
+      "EnglishName": "Hotovely Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 87
+    },
+    "ישראל חסון": {
+      "HebrewName": "ישראל חסון",
+      "EnglishName": "Hasson Israel",
+      "Gender": "Male",
+      "SpokenWords": 654
+    },
+    "משה (מוץ) מטלון": {
+      "HebrewName": "משה (מוץ) מטלון",
+      "EnglishName": "Matalon Moshe Mutz",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

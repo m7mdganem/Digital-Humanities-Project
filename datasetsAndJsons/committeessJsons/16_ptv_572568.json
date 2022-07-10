@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "237",
+  "CommitteeDate": "05/25/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 336
+    },
+    "אהוד יתום": {
+      "HebrewName": "אהוד יתום",
+      "EnglishName": "Yatom Ehud",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכאל רצון": {
+      "HebrewName": "מיכאל רצון",
+      "EnglishName": "Ratzon Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

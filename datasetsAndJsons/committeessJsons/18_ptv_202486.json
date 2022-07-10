@@ -1,0 +1,55 @@
+{
+  "CommitteeNumber": "256",
+  "CommitteeDate": "03/13/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 457
+    },
+    "אורי אורבך": {
+      "HebrewName": "אורי אורבך",
+      "EnglishName": "Orbach Uri",
+      "Gender": "Male",
+      "SpokenWords": 34
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 38
+    },
+    "עינת וילף": {
+      "HebrewName": "עינת וילף",
+      "EnglishName": "Wilf Einat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 65
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 961
+    },
+    "פאינה קירשנבאום": {
+      "HebrewName": "פאינה קירשנבאום",
+      "EnglishName": "Kirshenbaum Fania",
+      "Gender": "Female",
+      "SpokenWords": 4
+    }
+  }
+}

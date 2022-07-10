@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "16",
+  "CommitteeDate": "07/04/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 852
+    },
+    "יולי-יואל אדלשטיין": {
+      "HebrewName": "יולי-יואל אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 196
+    },
+    "בני אלון": {
+      "HebrewName": "בני אלון",
+      "EnglishName": "Elon Benyamin",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דניאל בנלולו": {
+      "HebrewName": "דניאל בנלולו",
+      "EnglishName": "Benlolo Daniel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני יתום": {
+      "HebrewName": "דני יתום",
+      "EnglishName": "Yatom Dani",
+      "Gender": "Male",
+      "SpokenWords": 122
+    },
+    "אברהם שוחט": {
+      "HebrewName": "אברהם שוחט",
+      "EnglishName": "Shochat Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

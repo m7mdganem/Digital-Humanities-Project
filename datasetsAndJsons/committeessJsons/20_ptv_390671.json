@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "268",
+  "CommitteeDate": "06/27/2017",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 1228
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 994
+    }
+  }
+}

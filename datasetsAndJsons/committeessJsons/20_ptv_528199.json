@@ -3,6 +3,12 @@
   "CommitteeDate": "01/01/2019",
   "KnessetNumber": "20",
   "participantsDetails": {
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 3337
+    },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
       "EnglishName": "Bitan David",

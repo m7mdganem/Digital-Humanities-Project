@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "6",
+  "CommitteeDate": "06/20/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 812
+    },
+    "יעקב אדרי": {
+      "HebrewName": "יעקב אדרי",
+      "EnglishName": "Edery Jacob",
+      "Gender": "Male",
+      "SpokenWords": 634
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 764
+    },
+    "שלמה (נגוסה) מולה": {
+      "HebrewName": "שלמה (נגוסה) מולה",
+      "EnglishName": "Molla Shlomo (Neguse)",
+      "Gender": "Male",
+      "SpokenWords": 974
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 7
+    },
+    "ליה שמטוב": {
+      "HebrewName": "ליה שמטוב",
+      "EnglishName": "Shemtov Lia",
+      "Gender": "Female",
+      "SpokenWords": 234
+    }
+  }
+}

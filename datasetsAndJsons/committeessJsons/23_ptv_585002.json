@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "55",
+  "CommitteeDate": "09/06/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 821
+    },
+    "תהלה פרידמן": {
+      "HebrewName": "תהלה פרידמן",
+      "EnglishName": "Friedman Tehila",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

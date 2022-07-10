@@ -14,11 +14,14 @@ MembersDetailsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datase
 protocolsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/protocolsMetaData.csv")
 protocolsVisualsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/protocolsVisuals.csv")
 
+number_of_committees_without_women = 0
+
 # Download doc files 
 
 # Convert doc files to txt files
-# print("Info: Startetd converting files")
+print("Info: Startetd converting Doc files to Docx files")
 # ConvertDocFilesToDocx(PrtocolsWordFilesPath)
+print("Info: Startetd converting Docx files to Txt files")
 # ConvertWordFilesToTxtFiles(PrtocolsWordFilesPath, PrtocolTextFilesPath)
 
 # Extract Knesset members details
@@ -36,6 +39,8 @@ for file in os.listdir(input_directory):
     if filename.endswith(".txt"):
         protocol: Protocol = protocol_analyzer.Analyze(PrtocolTextFilesPath + "/" + filename, ProtocolsJsonsDirectoryPath, members_details_dict)
         if protocol != None:
+            if protocol.number_of_female_participants == 0:
+                number_of_committees_without_women += 1
             protocols_list.append(protocol)
         else:
             print("ERROR: Unable to analyze file: " + filename)
@@ -45,9 +50,12 @@ for file in os.listdir(input_directory):
 # create the csv final file
 print("Info: Producing CSV files")
 with open(protocolsCsvFilePath, mode='w', encoding="UTF-8") as f:
-    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Participants,Json,Json File Name\n"])
+    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Males Speaking Average,Number Of Words Spoken By Females,Females Speaking Average,Participants,Json,Json File Name\n"])
 with open(protocolsVisualsCsvFilePath, mode='w', encoding="UTF-8") as f:
     f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Participants,Json,Participant English Name,Participant Gender,Participant Spoken Words, Json File Name\n"])
 for protocol in protocols_list:
     protocol.PrintToCsvFile(protocolsCsvFilePath)
     protocol.PrintToVisualsCsvFile(protocolsVisualsCsvFilePath)
+
+print("\nNumber of all analyzed committees: " + str(len(protocols_list)))
+print("Number of committees without women: " + str(number_of_committees_without_women))

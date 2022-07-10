@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "4",
+  "CommitteeDate": "11/9/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רשף חן": {
+      "HebrewName": "רשף חן",
+      "EnglishName": "Chayne Reshef",
+      "Gender": "Male",
+      "SpokenWords": 2362
+    }
+  }
+}

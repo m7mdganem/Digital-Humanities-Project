@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "6",
+  "CommitteeDate": "11/03/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 372
+    },
+    "בועז טופורובסקי": {
+      "HebrewName": "בועז טופורובסקי",
+      "EnglishName": "Toporovsky Boaz",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעקב ליצמן": {
+      "HebrewName": "יעקב ליצמן",
+      "EnglishName": "Litzman Yakov",
+      "Gender": "Male",
+      "SpokenWords": 105
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 151
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 67
+    },
+    "יפעת קריב": {
+      "HebrewName": "יפעת קריב",
+      "EnglishName": "Kariv Yifat",
+      "Gender": "Female",
+      "SpokenWords": 29
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 35
+    }
+  }
+}

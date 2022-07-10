@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "11",
+  "CommitteeDate": "05/30/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

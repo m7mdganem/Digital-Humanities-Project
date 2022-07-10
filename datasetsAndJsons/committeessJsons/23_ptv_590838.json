@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "75",
+  "CommitteeDate": "11/03/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 3642
+    },
+    "סמי אבו שחאדה": {
+      "HebrewName": "סמי אבו שחאדה",
+      "EnglishName": "Abu Shahadeh Samy",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עוזי דיין": {
+      "HebrewName": "עוזי דיין",
+      "EnglishName": "Dayan Uzi",
+      "Gender": "Male",
+      "SpokenWords": 389
+    },
+    "עמית הלוי": {
+      "HebrewName": "עמית הלוי",
+      "EnglishName": "Halevi Amit",
+      "Gender": "Male",
+      "SpokenWords": 2463
+    },
+    "אוסנת הילה מארק": {
+      "HebrewName": "אוסנת הילה מארק",
+      "EnglishName": "Mark Osnat Hila",
+      "Gender": "Female",
+      "SpokenWords": 2922
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

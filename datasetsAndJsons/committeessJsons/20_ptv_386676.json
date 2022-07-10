@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "265",
+  "CommitteeDate": "06/13/2017",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 135
+    },
+    "עבדאללה אבו מערוף": {
+      "HebrewName": "עבדאללה אבו מערוף",
+      "EnglishName": "Abu Maaruf Abdullah",
+      "Gender": "Male",
+      "SpokenWords": 18
+    }
+  }
+}

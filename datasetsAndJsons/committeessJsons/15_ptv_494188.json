@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "343",
+  "CommitteeDate": "08/12/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 903
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלכסנדר צינקר": {
+      "HebrewName": "אלכסנדר צינקר",
+      "EnglishName": "Tsinker Alexander",
+      "Gender": "Male",
+      "SpokenWords": 91
+    }
+  }
+}

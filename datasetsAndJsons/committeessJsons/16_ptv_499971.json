@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "05/20/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בראון": {
+      "HebrewName": "רוני בראון",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 42
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 62
+    },
+    "מיכאל נודלמן": {
+      "HebrewName": "מיכאל נודלמן",
+      "EnglishName": "Nudelman Michael",
+      "Gender": "Male",
+      "SpokenWords": 24
+    }
+  }
+}

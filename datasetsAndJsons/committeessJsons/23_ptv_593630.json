@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "98",
+  "CommitteeDate": "12/22/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "תהלה פרידמן": {
+      "HebrewName": "תהלה פרידמן",
+      "EnglishName": "Friedman Tehila",
+      "Gender": "Female",
+      "SpokenWords": 414
+    },
+    "מתן כהנא": {
+      "HebrewName": "מתן כהנא",
+      "EnglishName": "Kahane Matan",
+      "Gender": "Male",
+      "SpokenWords": 168
+    }
+  }
+}

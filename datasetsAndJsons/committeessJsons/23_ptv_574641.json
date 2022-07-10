@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "22",
+  "CommitteeDate": "06/24/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 3401
+    },
+    "עוזי דיין": {
+      "HebrewName": "עוזי דיין",
+      "EnglishName": "Dayan Uzi",
+      "Gender": "Male",
+      "SpokenWords": 3546
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 2915
+    }
+  }
+}

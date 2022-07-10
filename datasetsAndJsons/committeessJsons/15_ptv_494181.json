@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "336",
+  "CommitteeDate": "07/15/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 61
+    },
+    "אליעזר (מודי) זנדברג": {
+      "HebrewName": "אליעזר (מודי) זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

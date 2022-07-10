@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "62",
+  "CommitteeDate": "01/10/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "ניר אורבך": {
+      "HebrewName": "ניר אורבך",
+      "EnglishName": "Orbach Nir",
+      "Gender": "Male",
+      "SpokenWords": 332
+    },
+    "בועז טופורובסקי": {
+      "HebrewName": "בועז טופורובסקי",
+      "EnglishName": "Toporovsky Boaz",
+      "Gender": "Male",
+      "SpokenWords": 103
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 197
+    }
+  }
+}

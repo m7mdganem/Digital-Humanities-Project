@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "57",
+  "CommitteeDate": "11/05/2015",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 262
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

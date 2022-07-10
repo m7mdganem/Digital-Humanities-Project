@@ -1,0 +1,79 @@
+{
+  "CommitteeNumber": "78",
+  "CommitteeDate": "03/05/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 349
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב ליפמן": {
+      "HebrewName": "דב ליפמן",
+      "EnglishName": "Lipman Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אבישי ברוורמן": {
+      "HebrewName": "אבישי ברוורמן",
+      "EnglishName": "Braverman Avishay",
+      "Gender": "Male",
+      "SpokenWords": 151
+    },
+    "גילה גמליאל": {
+      "HebrewName": "גילה גמליאל",
+      "EnglishName": "Gamliel Gila",
+      "Gender": "Female",
+      "SpokenWords": 67
+    },
+    "רונן הופמן": {
+      "HebrewName": "רונן הופמן",
+      "EnglishName": "Hoffman Ronen",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עדי קול": {
+      "HebrewName": "עדי קול",
+      "EnglishName": "Koll Adi",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רות קלדרון": {
+      "HebrewName": "רות קלדרון",
+      "EnglishName": "Calderon Ruth",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "זבולון קלפה": {
+      "HebrewName": "זבולון קלפה",
+      "EnglishName": "Kalfa Zvulun",
+      "Gender": "Male",
+      "SpokenWords": 13
+    }
+  }
+}

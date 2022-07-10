@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "164",
+  "CommitteeDate": "09/22/2016",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 110
+    }
+  }
+}

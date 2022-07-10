@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "38",
+  "CommitteeDate": "07/18/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "שולי מועלם רפאלי": {
+      "HebrewName": "שולי מועלם רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 134
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 11
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "פנינה תמנו": {
+      "HebrewName": "פנינה תמנו",
+      "EnglishName": "Tamanu Penina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

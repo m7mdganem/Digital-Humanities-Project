@@ -1,0 +1,91 @@
+{
+  "CommitteeNumber": "135",
+  "CommitteeDate": "12/08/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1378
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 36
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 33
+    },
+    "באסל גטאס": {
+      "HebrewName": "באסל גטאס",
+      "EnglishName": "Ghattas Basel",
+      "Gender": "Male",
+      "SpokenWords": 42
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 38
+    },
+    "אלכס מילר": {
+      "HebrewName": "אלכס מילר",
+      "EnglishName": "Miller Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה זלמן פייגלין": {
+      "HebrewName": "משה זלמן פייגלין",
+      "EnglishName": "Feiglin Moshe Zalman",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שולי מועלם רפאלי": {
+      "HebrewName": "שולי מועלם רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 2
+    },
+    "רינה פרנקל": {
+      "HebrewName": "רינה פרנקל",
+      "EnglishName": "Frenkel Rina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רות קלדרון": {
+      "HebrewName": "רות קלדרון",
+      "EnglishName": "Calderon Ruth",
+      "Gender": "Female",
+      "SpokenWords": 7
+    },
+    "אברהים צרצור": {
+      "HebrewName": "אברהים צרצור",
+      "EnglishName": "Sarsour Ibrahim",
+      "Gender": "Male",
+      "SpokenWords": 85
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

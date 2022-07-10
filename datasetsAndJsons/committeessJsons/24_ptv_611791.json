@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "41",
+  "CommitteeDate": "11/17/2021",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
+      "SpokenWords": 617
+    }
+  }
+}

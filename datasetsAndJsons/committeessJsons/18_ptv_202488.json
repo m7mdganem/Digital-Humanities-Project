@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "284",
+  "CommitteeDate": "06/11/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1713
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 186
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 14
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 526
+    },
+    "שכיב שנאן": {
+      "HebrewName": "שכיב שנאן",
+      "EnglishName": "Shnaan Shachiv",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

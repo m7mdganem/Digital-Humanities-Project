@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "369",
+  "CommitteeDate": "12/24/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 242
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 22
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 8
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 30
+    },
+    "יגאל ביבי": {
+      "HebrewName": "יגאל ביבי",
+      "EnglishName": "Bibi Yigal",
+      "Gender": "Male",
+      "SpokenWords": 16
+    },
+    "יעל דיין": {
+      "HebrewName": "יעל דיין",
+      "EnglishName": "Dayan Yael",
+      "Gender": "Female",
+      "SpokenWords": 6
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "שמואל הלפרט": {
+      "HebrewName": "שמואל הלפרט",
+      "EnglishName": "Halpert Shmuel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איוב קרא": {
+      "HebrewName": "איוב קרא",
+      "EnglishName": "Kara Ayoob",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

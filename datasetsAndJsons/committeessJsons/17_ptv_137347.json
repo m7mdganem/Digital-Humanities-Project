@@ -3,6 +3,12 @@
   "CommitteeDate": "12/29/2008",
   "KnessetNumber": "17",
   "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 499
+    },
     "יולי אדלשטיין": {
       "HebrewName": "יולי אדלשטיין",
       "EnglishName": "Edelstein Yuli-Yoel",

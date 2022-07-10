@@ -1,0 +1,103 @@
+{
+  "CommitteeNumber": "63",
+  "CommitteeDate": "01/20/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "צחי הנגבי": {
+      "HebrewName": "צחי הנגבי",
+      "EnglishName": "Hanegbi Tzachi",
+      "Gender": "Male",
+      "SpokenWords": 905
+    },
+    "רוברט אילטוב": {
+      "HebrewName": "רוברט אילטוב",
+      "EnglishName": "Ilatov Robert",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "באסל גטאס": {
+      "HebrewName": "באסל גטאס",
+      "EnglishName": "Ghattas Basel",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 360
+    },
+    "דב ליפמן": {
+      "HebrewName": "דב ליפמן",
+      "EnglishName": "Lipman Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה זלמן פייגלין": {
+      "HebrewName": "משה זלמן פייגלין",
+      "EnglishName": "Feiglin Moshe Zalman",
+      "Gender": "Male",
+      "SpokenWords": 226
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 209
+    },
+    "אבישי ברוורמן": {
+      "HebrewName": "אבישי ברוורמן",
+      "EnglishName": "Braverman Avishay",
+      "Gender": "Male",
+      "SpokenWords": 403
+    },
+    "ניצן הורוביץ": {
+      "HebrewName": "ניצן הורוביץ",
+      "EnglishName": "Horowitz Nitzan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 82
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 490
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 271
+    },
+    "חיים כץ": {
+      "HebrewName": "חיים כץ",
+      "EnglishName": "Katz Haim",
+      "Gender": "Male",
+      "SpokenWords": 503
+    },
+    "אורלי לוי אבקסיס": {
+      "HebrewName": "אורלי לוי אבקסיס",
+      "EnglishName": "Levi-Abekasis Orly",
+      "Gender": "Female",
+      "SpokenWords": 568
+    }
+  }
+}

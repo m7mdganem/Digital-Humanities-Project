@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "07/10/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 15871
+    },
+    "ג'מעה אזברגה": {
+      "HebrewName": "ג'מעה אזברגה",
+      "EnglishName": "Azbarga Joumah",
+      "Gender": "Male",
+      "SpokenWords": 670
+    }
+  }
+}

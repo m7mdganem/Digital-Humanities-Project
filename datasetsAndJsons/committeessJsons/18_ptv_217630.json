@@ -3,6 +3,12 @@
   "CommitteeDate": "08/06/2012",
   "KnessetNumber": "18",
   "participantsDetails": {
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 1307
+    },
     "אורי אורבך": {
       "HebrewName": "אורי אורבך",
       "EnglishName": "Orbach Uri",

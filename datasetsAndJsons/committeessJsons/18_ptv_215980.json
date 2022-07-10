@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "289",
+  "CommitteeDate": "06/26/2012",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 288
+    },
+    "נסים זאב": {
+      "HebrewName": "נסים זאב",
+      "EnglishName": "Zeev Nissim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 63
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 56
+    },
+    "אכרם חסון": {
+      "HebrewName": "אכרם חסון",
+      "EnglishName": "Hasoon Akram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שכיב שנאן": {
+      "HebrewName": "שכיב שנאן",
+      "EnglishName": "Shnaan Shachiv",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

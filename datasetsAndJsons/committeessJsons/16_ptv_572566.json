@@ -1,0 +1,79 @@
+{
+  "CommitteeNumber": "236",
+  "CommitteeDate": "05/24/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 177
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אראלה גולן": {
+      "HebrewName": "אראלה גולן",
+      "EnglishName": "Golan Erela",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עבד אלמאלכ דהאמשה": {
+      "HebrewName": "עבד אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 77
+    },
+    "חמי דורון": {
+      "HebrewName": "חמי דורון",
+      "EnglishName": "Doron Chemi",
+      "Gender": "Male",
+      "SpokenWords": 165
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יגאל יאסינוב": {
+      "HebrewName": "יגאל יאסינוב",
+      "EnglishName": "Yasinov Igal",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אהוד יתום": {
+      "HebrewName": "אהוד יתום",
+      "EnglishName": "Yatom Ehud",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה כחלון": {
+      "HebrewName": "משה כחלון",
+      "EnglishName": "Kahlon Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעקב ליצמן": {
+      "HebrewName": "יעקב ליצמן",
+      "EnglishName": "Litzman Yakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 104
+    }
+  }
+}

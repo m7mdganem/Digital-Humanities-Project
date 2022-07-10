@@ -3,6 +3,18 @@
   "CommitteeDate": "11/22/2005",
   "KnessetNumber": "16",
   "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 1882
+    },
+    "יולי-יואל אדלשטיין": {
+      "HebrewName": "יולי-יואל אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
     "רוני בריזון": {
       "HebrewName": "רוני בריזון",
       "EnglishName": "Brison Ronny A.",

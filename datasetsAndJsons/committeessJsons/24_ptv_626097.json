@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "98",
+  "CommitteeDate": "05/25/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 1849
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 1811
+    }
+  }
+}

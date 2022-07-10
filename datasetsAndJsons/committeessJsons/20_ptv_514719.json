@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "07/10/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 3479
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 33
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 240
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "8",
+  "CommitteeDate": "11/16/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 2255
+    },
+    "עוזי דיין": {
+      "HebrewName": "עוזי דיין",
+      "EnglishName": "Dayan Uzi",
+      "Gender": "Male",
+      "SpokenWords": 2368
+    },
+    "אוסנת הילה מארק": {
+      "HebrewName": "אוסנת הילה מארק",
+      "EnglishName": "Mark Osnat Hila",
+      "Gender": "Female",
+      "SpokenWords": 813
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 815
+    },
+    "טלי פלוסקוב": {
+      "HebrewName": "טלי פלוסקוב",
+      "EnglishName": "Ploskov Tali",
+      "Gender": "Female",
+      "SpokenWords": 1386
+    },
+    "תהלה פרידמן": {
+      "HebrewName": "תהלה פרידמן",
+      "EnglishName": "Friedman Tehila",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 2265
+    }
+  }
+}

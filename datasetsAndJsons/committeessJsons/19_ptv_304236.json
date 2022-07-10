@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "131",
+  "CommitteeDate": "12/02/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "מאיר שטרית": {
+      "HebrewName": "מאיר שטרית",
+      "EnglishName": "Sheetrit Meir",
+      "Gender": "Male",
+      "SpokenWords": 126
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

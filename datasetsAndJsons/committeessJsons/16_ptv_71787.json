@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "291",
+  "CommitteeDate": "03/20/2006",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "דניאל בנלולו": {
+      "HebrewName": "דניאל בנלולו",
+      "EnglishName": "Benlolo Daniel",
+      "Gender": "Male",
+      "SpokenWords": 763
+    },
+    "אלי בן-מנחם": {
+      "HebrewName": "אלי בן-מנחם",
+      "EnglishName": "Ben-Menachem Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 221
+    },
+    "אתי לבני": {
+      "HebrewName": "אתי לבני",
+      "EnglishName": "Livni Eti",
+      "Gender": "Female",
+      "SpokenWords": 25
+    },
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דני קורן": {
+      "HebrewName": "דני קורן",
+      "EnglishName": "Koren Dani",
+      "Gender": "Male",
+      "SpokenWords": 208
+    }
+  }
+}

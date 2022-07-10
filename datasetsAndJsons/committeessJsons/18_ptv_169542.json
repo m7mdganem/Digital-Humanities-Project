@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "03/22/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "משה (מוץ) מטלון": {
+      "HebrewName": "משה (מוץ) מטלון",
+      "EnglishName": "Matalon Moshe Mutz",
+      "Gender": "Male",
+      "SpokenWords": 975
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 1110
+    },
+    "עפו אגבאריה": {
+      "HebrewName": "עפו אגבאריה",
+      "EnglishName": "Agbaria Afou",
+      "Gender": "Male",
+      "SpokenWords": 427
+    },
+    "רחל אדטו": {
+      "HebrewName": "רחל אדטו",
+      "EnglishName": "Adatto Rachel",
+      "Gender": "Female",
+      "SpokenWords": 42
+    },
+    "ישראל אייכלר": {
+      "HebrewName": "ישראל אייכלר",
+      "EnglishName": "Eichler Israel",
+      "Gender": "Male",
+      "SpokenWords": 144
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "CommitteeNumber": "14",
+  "CommitteeDate": "06/16/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 5235
+    },
+    "עוזי דיין": {
+      "HebrewName": "עוזי דיין",
+      "EnglishName": "Dayan Uzi",
+      "Gender": "Male",
+      "SpokenWords": 4206
+    },
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 606
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מתן כהנא": {
+      "HebrewName": "מתן כהנא",
+      "EnglishName": "Kahane Matan",
+      "Gender": "Male",
+      "SpokenWords": 482
+    },
+    "אופיר כץ": {
+      "HebrewName": "אופיר כץ",
+      "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 829
+    },
+    "טלי פלוסקוב": {
+      "HebrewName": "טלי פלוסקוב",
+      "EnglishName": "Ploskov Tali",
+      "Gender": "Female",
+      "SpokenWords": 1079
+    },
+    "אלכס קושניר": {
+      "HebrewName": "אלכס קושניר",
+      "EnglishName": "Kushnir Alex",
+      "Gender": "Male",
+      "SpokenWords": 3311
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 5151
+    },
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
+      "SpokenWords": 863
+    }
+  }
+}

@@ -3,6 +3,18 @@
   "CommitteeDate": "12/25/2008",
   "KnessetNumber": "17",
   "participantsDetails": {
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 359
+    },
+    "בני אלון": {
+      "HebrewName": "בני אלון",
+      "EnglishName": "Elon Benyamin",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
     "אריה אלדד": {
       "HebrewName": "אריה אלדד",
       "EnglishName": "Eldad Arieh",
@@ -13,7 +25,7 @@
       "HebrewName": "מנחם בן ששון",
       "EnglishName": "Ben-Sasson Menahem",
       "Gender": "Male",
-      "SpokenWords": 5
+      "SpokenWords": 9
     },
     "אליהו גבאי": {
       "HebrewName": "אליהו גבאי",

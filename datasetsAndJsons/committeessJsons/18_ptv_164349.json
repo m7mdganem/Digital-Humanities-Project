@@ -1,0 +1,61 @@
+{
+  "CommitteeNumber": "129",
+  "CommitteeDate": "11/30/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 2620
+    },
+    "אריה אלדד": {
+      "HebrewName": "אריה אלדד",
+      "EnglishName": "Eldad Arieh",
+      "Gender": "Male",
+      "SpokenWords": 305
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 581
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעקב (כצל'ה) כ\"ץ": {
+      "HebrewName": "יעקב (כצל'ה) כ\"ץ",
+      "EnglishName": "Katz Yaakov (Katzeleh)",
+      "Gender": "Male",
+      "SpokenWords": 375
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 61
+    },
+    "ציון פיניאן": {
+      "HebrewName": "ציון פיניאן",
+      "EnglishName": "Pinyan Zion",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 382
+    },
+    "גאלב מג'אדלה": {
+      "HebrewName": "גאלב מג'אדלה",
+      "EnglishName": "Majadele Raleb",
+      "Gender": "Male",
+      "SpokenWords": 189
+    }
+  }
+}

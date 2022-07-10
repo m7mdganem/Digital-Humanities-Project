@@ -3,6 +3,12 @@
   "CommitteeDate": "09/14/2008",
   "KnessetNumber": "17",
   "participantsDetails": {
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 104
+    },
     "שלמה מולה": {
       "HebrewName": "שלמה מולה",
       "EnglishName": "Molla Shlomo (Neguse)",

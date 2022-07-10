@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "88",
+  "CommitteeDate": "03/20/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "ניר אורבך": {
+      "HebrewName": "ניר אורבך",
+      "EnglishName": "Orbach Nir",
+      "Gender": "Male",
+      "SpokenWords": 1568
+    },
+    "אלון טל": {
+      "HebrewName": "אלון טל",
+      "EnglishName": "Tal Alon",
+      "Gender": "Male",
+      "SpokenWords": 589
+    }
+  }
+}

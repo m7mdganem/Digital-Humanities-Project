@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "18",
+  "CommitteeDate": "12/28/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 3930
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 2057
+    }
+  }
+}

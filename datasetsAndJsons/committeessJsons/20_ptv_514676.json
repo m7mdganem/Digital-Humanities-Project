@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "07/17/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 584
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "114",
+  "CommitteeDate": "02/03/2021",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 579
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 462
+    },
+    "שבח שטרן": {
+      "HebrewName": "שבח שטרן",
+      "EnglishName": "Stern Shevach",
+      "Gender": "Male",
+      "SpokenWords": 597
+    }
+  }
+}

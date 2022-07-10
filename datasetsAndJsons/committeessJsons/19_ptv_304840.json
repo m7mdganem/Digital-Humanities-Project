@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "145",
+  "CommitteeDate": "01/22/2015",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 157
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 110
+    }
+  }
+}

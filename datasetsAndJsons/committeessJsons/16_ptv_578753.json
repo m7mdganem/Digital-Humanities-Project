@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "06/18/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 632
+    },
+    "ענבל גבריאלי": {
+      "HebrewName": "ענבל גבריאלי",
+      "EnglishName": "Gavriely Inbal",
+      "Gender": "Female",
+      "SpokenWords": 166
+    }
+  }
+}

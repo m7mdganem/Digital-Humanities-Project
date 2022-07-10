@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "37",
+  "CommitteeDate": "05/15/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 1671
+    },
+    "עבד-אלמאלכ דהאמשה": {
+      "HebrewName": "עבד-אלמאלכ דהאמשה",
+      "EnglishName": "Dehamshe Abdulmalik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 1137
+    },
+    "דוד מגן": {
+      "HebrewName": "דוד מגן",
+      "EnglishName": "Magen (Monsonego) David",
+      "Gender": "Male",
+      "SpokenWords": 719
+    }
+  }
+}

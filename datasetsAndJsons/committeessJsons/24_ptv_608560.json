@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "10/06/2021",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "ניר אורבך": {
+      "HebrewName": "ניר אורבך",
+      "EnglishName": "Orbach Nir",
+      "Gender": "Male",
+      "SpokenWords": 6721
+    },
+    "מירב בן ארי": {
+      "HebrewName": "מירב בן ארי",
+      "EnglishName": "Ben Ari Merav",
+      "Gender": "Female",
+      "SpokenWords": 2136
+    },
+    "שרן מרים השכל": {
+      "HebrewName": "שרן מרים השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 1683
+    },
+    "בועז טופורובסקי": {
+      "HebrewName": "בועז טופורובסקי",
+      "EnglishName": "Toporovsky Boaz",
+      "Gender": "Male",
+      "SpokenWords": 4762
+    },
+    "עידית סילמן": {
+      "HebrewName": "עידית סילמן",
+      "EnglishName": "Silman Idit",
+      "Gender": "Female",
+      "SpokenWords": 4015
+    }
+  }
+}

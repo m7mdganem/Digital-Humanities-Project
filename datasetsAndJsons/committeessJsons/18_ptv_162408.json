@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "15",
+  "CommitteeDate": "10/26/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 2310
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 554
+    }
+  }
+}

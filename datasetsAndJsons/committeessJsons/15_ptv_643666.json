@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "12/05/2000",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 1383
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 1159
+    }
+  }
+}

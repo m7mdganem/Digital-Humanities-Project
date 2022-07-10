@@ -3,6 +3,12 @@
   "CommitteeDate": "12/01/2014",
   "KnessetNumber": "19",
   "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1726
+    },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",

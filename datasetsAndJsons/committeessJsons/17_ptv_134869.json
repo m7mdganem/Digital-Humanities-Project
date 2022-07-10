@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "169",
+  "CommitteeDate": "11/20/2007",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 1426
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 1052
+    },
+    "עמירה דותן": {
+      "HebrewName": "עמירה דותן",
+      "EnglishName": "Dotan Amira",
+      "Gender": "Female",
+      "SpokenWords": 66
+    },
+    "יצחק זיו": {
+      "HebrewName": "יצחק זיו",
+      "EnglishName": "Ziv Izhak",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "אסתרינה טרטמן": {
+      "HebrewName": "אסתרינה טרטמן",
+      "EnglishName": "Tartman Esterina",
+      "Gender": "Female",
+      "SpokenWords": 115
+    },
+    "ראובן ריבלין": {
+      "HebrewName": "ראובן ריבלין",
+      "EnglishName": "Rivlin Reuven",
+      "Gender": "Male",
+      "SpokenWords": 949
+    }
+  }
+}

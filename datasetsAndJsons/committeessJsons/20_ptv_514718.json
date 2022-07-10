@@ -1,0 +1,37 @@
+{
+  "CommitteeNumber": "5",
+  "CommitteeDate": "07/12/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 7191
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 128
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 736
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 13
+    }
+  }
+}

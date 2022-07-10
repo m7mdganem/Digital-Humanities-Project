@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "7563",
+  "CommitteeDate": "02/14/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 8828
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 12183
+    }
+  }
+}

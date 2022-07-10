@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "211",
+  "CommitteeDate": "02/15/2005",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 570
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 24
+    },
+    "יגאל יאסינוב": {
+      "HebrewName": "יגאל יאסינוב",
+      "EnglishName": "Yasinov Igal",
+      "Gender": "Male",
+      "SpokenWords": 44
+    },
+    "גאלב מג'אדלה": {
+      "HebrewName": "גאלב מג'אדלה",
+      "EnglishName": "Majadele Raleb",
+      "Gender": "Male",
+      "SpokenWords": 33
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 309
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

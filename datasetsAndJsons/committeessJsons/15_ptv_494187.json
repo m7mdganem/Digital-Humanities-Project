@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "342",
+  "CommitteeDate": "07/31/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 868
+    }
+  }
+}

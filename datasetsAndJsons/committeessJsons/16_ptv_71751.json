@@ -3,6 +3,12 @@
   "CommitteeDate": "02/13/2006",
   "KnessetNumber": "16",
   "participantsDetails": {
+    "דניאל בנלולו": {
+      "HebrewName": "דניאל בנלולו",
+      "EnglishName": "Benlolo Daniel",
+      "Gender": "Male",
+      "SpokenWords": 1571
+    },
     "קולט אביטל": {
       "HebrewName": "קולט אביטל",
       "EnglishName": "Avital Colette",

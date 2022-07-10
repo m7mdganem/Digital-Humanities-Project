@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "4",
+  "CommitteeDate": "12/10/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 1506
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 184
+    }
+  }
+}

@@ -3,6 +3,12 @@
   "CommitteeDate": "12/20/2012",
   "KnessetNumber": "18",
   "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 997
+    },
     "אורי אורבך": {
       "HebrewName": "אורי אורבך",
       "EnglishName": "Orbach Uri",

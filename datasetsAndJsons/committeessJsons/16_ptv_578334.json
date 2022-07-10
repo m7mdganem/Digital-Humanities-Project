@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "08/26/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 4705
+    },
+    "רוני בריזון": {
+      "HebrewName": "רוני בריזון",
+      "EnglishName": "Brison Ronny A.",
+      "Gender": "Male",
+      "SpokenWords": 1280
+    }
+  }
+}

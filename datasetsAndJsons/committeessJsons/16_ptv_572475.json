@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "177",
+  "CommitteeDate": "11/22/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 10
+    }
+  }
+}

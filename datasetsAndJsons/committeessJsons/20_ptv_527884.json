@@ -3,6 +3,12 @@
   "CommitteeDate": "12/26/2018",
   "KnessetNumber": "20",
   "participantsDetails": {
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 7867
+    },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
       "EnglishName": "Eichler Israel",
@@ -43,7 +49,7 @@
       "HebrewName": "שולי מועלם-רפאלי",
       "EnglishName": "Moalem-Refaeli Shuli",
       "Gender": "Female",
-      "SpokenWords": 8566
+      "SpokenWords": 0
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",

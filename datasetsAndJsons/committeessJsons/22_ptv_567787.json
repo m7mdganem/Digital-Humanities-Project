@@ -1,0 +1,199 @@
+{
+  "CommitteeNumber": "3",
+  "CommitteeDate": "02/04/2020",
+  "KnessetNumber": "22",
+  "participantsDetails": {
+    "אבי ניסנקורן": {
+      "HebrewName": "אבי ניסנקורן",
+      "EnglishName": "Nissenkorn Avi",
+      "Gender": "Male",
+      "SpokenWords": 58381
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 40362
+    },
+    "משה ארבל": {
+      "HebrewName": "משה ארבל",
+      "EnglishName": "Arbel Moshe",
+      "Gender": "Male",
+      "SpokenWords": 16022
+    },
+    "מיכאל מרדכי ביטון": {
+      "HebrewName": "מיכאל מרדכי ביטון",
+      "EnglishName": "Biton Michael",
+      "Gender": "Male",
+      "SpokenWords": 24891
+    },
+    "קרן ברק": {
+      "HebrewName": "קרן ברק",
+      "EnglishName": "Barak Keren",
+      "Gender": "Female",
+      "SpokenWords": 31618
+    },
+    "ניר ברקת": {
+      "HebrewName": "ניר ברקת",
+      "EnglishName": "Barkat Nir",
+      "Gender": "Male",
+      "SpokenWords": 20210
+    },
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 17675
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 51332
+    },
+    "צבי האוזר": {
+      "HebrewName": "צבי האוזר",
+      "EnglishName": "Hauser Zvi",
+      "Gender": "Male",
+      "SpokenWords": 40389
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 38797
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 23045
+    },
+    "יעקב טסלר": {
+      "HebrewName": "יעקב טסלר",
+      "EnglishName": "Tesler Yaakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מירב כהן": {
+      "HebrewName": "מירב כהן",
+      "EnglishName": "Cohen Meirav",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עופר כסיף": {
+      "HebrewName": "עופר כסיף",
+      "EnglishName": "Cassif Ofer",
+      "Gender": "Male",
+      "SpokenWords": 8460
+    },
+    "מרב מיכאלי": {
+      "HebrewName": "מרב מיכאלי",
+      "EnglishName": "Michaeli Merav",
+      "Gender": "Female",
+      "SpokenWords": 23493
+    },
+    "יוליה מלינובסקי": {
+      "HebrewName": "יוליה מלינובסקי",
+      "EnglishName": "Malinovsky Yulia",
+      "Gender": "Female",
+      "SpokenWords": 20909
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 9023
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 1485
+    },
+    "יואב סגלוביץ'": {
+      "HebrewName": "יואב סגלוביץ'",
+      "EnglishName": "Segalovitz Yoav",
+      "Gender": "Male",
+      "SpokenWords": 7948
+    },
+    "רויטל סויד": {
+      "HebrewName": "רויטל סויד",
+      "EnglishName": "Swid Revital",
+      "Gender": "Female",
+      "SpokenWords": 11150
+    },
+    "אופיר סופר": {
+      "HebrewName": "אופיר סופר",
+      "EnglishName": "Sofer Ofir",
+      "Gender": "Male",
+      "SpokenWords": 2026
+    },
+    "אוסמה סעדי": {
+      "HebrewName": "אוסמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גדעון סער": {
+      "HebrewName": "גדעון סער",
+      "EnglishName": "Sa`ar Gideon",
+      "Gender": "Male",
+      "SpokenWords": 27659
+    },
+    "מנסור עבאס": {
+      "HebrewName": "מנסור עבאס",
+      "EnglishName": "Abbas Mansour",
+      "Gender": "Male",
+      "SpokenWords": 2606
+    },
+    "חוה אתי עטייה": {
+      "HebrewName": "חוה אתי עטייה",
+      "EnglishName": "Atia Hava-Etty",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 24882
+    },
+    "אורית פרקש הכהן": {
+      "HebrewName": "אורית פרקש הכהן",
+      "EnglishName": "Farkash-Hacohen Orit",
+      "Gender": "Female",
+      "SpokenWords": 46219
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 48537
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 26496
+    },
+    "קטי קטרין שטרית": {
+      "HebrewName": "קטי קטרין שטרית",
+      "EnglishName": "Shitrit Kathrin",
+      "Gender": "Female",
+      "SpokenWords": 172
+    },
+    "מיכל שיר": {
+      "HebrewName": "מיכל שיר",
+      "EnglishName": "Shir Segman Michal",
+      "Gender": "Female",
+      "SpokenWords": 1396
+    },
+    "איילת שקד": {
+      "HebrewName": "איילת שקד",
+      "EnglishName": "Shaked Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 26673
+    }
+  }
+}

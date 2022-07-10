@@ -1,0 +1,49 @@
+{
+  "CommitteeNumber": "275",
+  "CommitteeDate": "01/29/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 471
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נעמי חזן": {
+      "HebrewName": "נעמי חזן",
+      "EnglishName": "Chazan Naomi",
+      "Gender": "Female",
+      "SpokenWords": 11
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 59
+    },
+    "ענת מאור": {
+      "HebrewName": "ענת מאור",
+      "EnglishName": "Maor Anat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אמנון רובינשטיין": {
+      "HebrewName": "אמנון רובינשטיין",
+      "EnglishName": "Rubinstein Amnon",
+      "Gender": "Male",
+      "SpokenWords": 186
+    },
+    "נחמה רונן": {
+      "HebrewName": "נחמה רונן",
+      "EnglishName": "Ronen Nehama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "3",
+  "CommitteeDate": "08/10/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "עמרי שרון": {
+      "HebrewName": "עמרי שרון",
+      "EnglishName": "Sharon Omri",
+      "Gender": "Male",
+      "SpokenWords": 1465
+    }
+  }
+}

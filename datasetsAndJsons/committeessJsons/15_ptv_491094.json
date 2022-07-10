@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "279",
+  "CommitteeDate": "02/05/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 129
+    },
+    "אורי אריאל": {
+      "HebrewName": "אורי אריאל",
+      "EnglishName": "Ariel Uri Yehuda",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "עסאם מח'ול": {
+      "HebrewName": "עסאם מח'ול",
+      "EnglishName": "Makhoul Issam",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

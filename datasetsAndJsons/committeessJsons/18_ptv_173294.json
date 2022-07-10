@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "193",
+  "CommitteeDate": "07/11/2011",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 883
+    },
+    "יעקב כץ": {
+      "HebrewName": "יעקב כץ",
+      "EnglishName": "Katz Yaakov (Katzeleh)",
+      "Gender": "Male",
+      "SpokenWords": 243
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 334
+    }
+  }
+}

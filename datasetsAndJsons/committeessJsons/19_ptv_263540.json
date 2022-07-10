@@ -1,0 +1,43 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "11/26/2013",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1947
+    },
+    "אורית סטרוק": {
+      "HebrewName": "אורית סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 457
+    },
+    "אברהים צרצור": {
+      "HebrewName": "אברהים צרצור",
+      "EnglishName": "Sarsour Ibrahim",
+      "Gender": "Male",
+      "SpokenWords": 1069
+    },
+    "דוד רותם": {
+      "HebrewName": "דוד רותם",
+      "EnglishName": "Rotem David",
+      "Gender": "Male",
+      "SpokenWords": 47
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 519
+    },
+    "עיסאווי פריג'": {
+      "HebrewName": "עיסאווי פריג'",
+      "EnglishName": "Frej Esawi",
+      "Gender": "Male",
+      "SpokenWords": 508
+    }
+  }
+}

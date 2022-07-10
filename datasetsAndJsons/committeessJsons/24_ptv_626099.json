@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "1",
+  "CommitteeDate": "05/30/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "יבגני סובה": {
+      "HebrewName": "יבגני סובה",
+      "EnglishName": "Sova Evgeny",
+      "Gender": "Male",
+      "SpokenWords": 690
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 882
+    }
+  }
+}

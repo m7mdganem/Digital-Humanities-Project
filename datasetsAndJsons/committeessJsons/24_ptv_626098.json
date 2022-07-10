@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "99",
+  "CommitteeDate": "05/30/2022",
+  "KnessetNumber": "24",
+  "participantsDetails": {
+    "ניר אורבך": {
+      "HebrewName": "ניר אורבך",
+      "EnglishName": "Orbach Nir",
+      "Gender": "Male",
+      "SpokenWords": 8155
+    },
+    "יבגני סובה": {
+      "HebrewName": "יבגני סובה",
+      "EnglishName": "Sova Evgeny",
+      "Gender": "Male",
+      "SpokenWords": 1185
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Ze'ev",
+      "Gender": "Male",
+      "SpokenWords": 5981
+    },
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

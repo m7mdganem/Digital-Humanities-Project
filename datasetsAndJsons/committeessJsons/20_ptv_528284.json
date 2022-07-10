@@ -2,5 +2,12 @@
   "CommitteeNumber": "415",
   "CommitteeDate": "01/01/2019",
   "KnessetNumber": "20",
-  "participantsDetails": {}
+  "participantsDetails": {
+    "מכלוף מיקי זוהר": {
+      "HebrewName": "מכלוף מיקי זוהר",
+      "EnglishName": "Zohar Miki",
+      "Gender": "Male",
+      "SpokenWords": 504
+    }
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "7",
+  "CommitteeDate": "02/25/2004",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בראון": {
+      "HebrewName": "רוני בראון",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 29
+    },
+    "יולי אדלשטיין": {
+      "HebrewName": "יולי אדלשטיין",
+      "EnglishName": "Edelstein Yuli-Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "חיים אורון": {
+      "HebrewName": "חיים אורון",
+      "EnglishName": "Oron Chaim",
+      "Gender": "Male",
+      "SpokenWords": 410
+    }
+  }
+}

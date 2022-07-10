@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "122",
+  "CommitteeDate": "10/28/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "בועז טופורובסקי": {
+      "HebrewName": "בועז טופורובסקי",
+      "EnglishName": "Toporovsky Boaz",
+      "Gender": "Male",
+      "SpokenWords": 1070
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 2839
+    },
+    "עיסאווי פריג'": {
+      "HebrewName": "עיסאווי פריג'",
+      "EnglishName": "Frej Esawi",
+      "Gender": "Male",
+      "SpokenWords": 595
+    }
+  }
+}

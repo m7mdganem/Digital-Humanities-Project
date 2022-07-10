@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "322",
+  "CommitteeDate": "06/10/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "זאב בוים": {
+      "HebrewName": "זאב בוים",
+      "EnglishName": "Boim Ze`ev",
+      "Gender": "Male",
+      "SpokenWords": 96
+    }
+  }
+}

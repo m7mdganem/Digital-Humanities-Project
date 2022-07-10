@@ -1,0 +1,31 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "12/22/2015",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 493
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מנואל טרכטנברג": {
+      "HebrewName": "מנואל טרכטנברג",
+      "EnglishName": "Trajtenberg Manuel",
+      "Gender": "Male",
+      "SpokenWords": 47
+    },
+    "מרב מיכאלי": {
+      "HebrewName": "מרב מיכאלי",
+      "EnglishName": "Michaeli Merav",
+      "Gender": "Female",
+      "SpokenWords": 154
+    }
+  }
+}

@@ -28,9 +28,18 @@ class Protocol:
 
     def PrintToCsvFile(self, csv_file_path):
         date = self.date.month + "/" + self.date.day + "/" + self.date.year
+
+        male_speaking_average = 0
+        female_speaking_average = 0
+        if self.number_of_male_participants > 0:
+            male_speaking_average = self.number_of_words_spoken_by_males // self.number_of_male_participants
+        if self.number_of_female_participants > 0:
+            female_speaking_average = self.number_of_words_spoken_by_females // self.number_of_female_participants
+
         with open(csv_file_path, mode='a', encoding="UTF-8") as f:
             array_to_write = [self.comitee_number, date, self.knesset_number, str(self.number_of_male_participants), str(self.number_of_female_participants),
-                              str(self.number_of_words_spoken_by_males), str(self.number_of_words_spoken_by_females), "\"" + str(self.comitee_details.get("participants")) + "\"",
+                              str(self.number_of_words_spoken_by_males), str(male_speaking_average), str(self.number_of_words_spoken_by_females), str(female_speaking_average),
+                              "\"" + str(self.comitee_details.get("participants")) + "\"",
                               "\"" + str(self.comitee_details.get("info")) + "\"", self.json_file_name, "\n"]
             line_to_write = ','.join(array_to_write)
             f.writelines([line_to_write])

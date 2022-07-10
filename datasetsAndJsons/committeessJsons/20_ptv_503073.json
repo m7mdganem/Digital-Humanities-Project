@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "376",
+  "CommitteeDate": "07/11/2018",
+  "KnessetNumber": "20",
+  "participantsDetails": {
+    "שולי מועלם": {
+      "HebrewName": "שולי מועלם",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 184
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 17
+    },
+    "אברהם נגוסה": {
+      "HebrewName": "אברהם נגוסה",
+      "EnglishName": "Neguise Avraham",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

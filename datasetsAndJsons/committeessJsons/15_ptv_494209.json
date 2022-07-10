@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "364",
+  "CommitteeDate": "12/10/2002",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יאיר פרץ": {
+      "HebrewName": "יאיר פרץ",
+      "EnglishName": "Peretz Yair",
+      "Gender": "Male",
+      "SpokenWords": 108
+    },
+    "יצחק גאגולה": {
+      "HebrewName": "יצחק גאגולה",
+      "EnglishName": "Gagula Itzhak",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "האשם מחמיד": {
+      "HebrewName": "האשם מחמיד",
+      "EnglishName": "Mahameed Hashem",
+      "Gender": "Male",
+      "SpokenWords": 0
+    }
+  }
+}

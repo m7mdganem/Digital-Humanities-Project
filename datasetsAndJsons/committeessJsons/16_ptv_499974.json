@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "4",
+  "CommitteeDate": "8/12/2003",
+  "KnessetNumber": "16",
+  "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 1497
+    }
+  }
+}

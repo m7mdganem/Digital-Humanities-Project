@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "46",
+  "CommitteeDate": "12/27/1999",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "ס' טריף": {
+      "HebrewName": "ס' טריף",
+      "EnglishName": "Tarif Salah",
+      "Gender": "Male",
+      "SpokenWords": 48
+    }
+  }
+}

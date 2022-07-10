@@ -2,6 +2,16 @@
   "KnessetMembersDetails": [
     {
       "English_name": "Edelstein Yuli-Yoel",
+      "hebrew_name": "יולי (יואל) אדלשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Edelstein Yuli-Yoel",
+      "hebrew_name": "יולי-יואל אדלשטיין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Edelstein Yuli-Yoel",
       "hebrew_name": "יולי אדלשטיין",
       "Gender": "Male"
     },
@@ -107,6 +117,11 @@
     },
     {
       "English_name": "Elon Benyamin",
+      "hebrew_name": "בני אלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Elon Benyamin",
       "hebrew_name": "בנימין אלון",
       "Gender": "Male"
     },
@@ -168,6 +183,16 @@
     {
       "English_name": "Ben Elissar Eliahu",
       "hebrew_name": "אליהו בן-אלישר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Menachem Eli",
+      "hebrew_name": "אלי בן מנחם",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Menachem Eli",
+      "hebrew_name": "אליהו בן-מנחם",
       "Gender": "Male"
     },
     {
@@ -248,6 +273,11 @@
     {
       "English_name": "Gafni Moshe",
       "hebrew_name": "משה גפני",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Dehamshe Abdulmalik",
+      "hebrew_name": "עבד אלמלכ דהאמשה",
       "Gender": "Male"
     },
     {
@@ -352,6 +382,11 @@
     },
     {
       "English_name": "Sandberg Eliezer",
+      "hebrew_name": "אליעזר (מודי) זנדברג",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sandberg Eliezer",
       "hebrew_name": "אליעזר זנדברג",
       "Gender": "Male"
     },
@@ -402,6 +437,11 @@
     },
     {
       "English_name": "Yechezkel Avraham",
+      "hebrew_name": "אבי יחזקאל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Yechezkel Avraham",
       "hebrew_name": "אברהם יחזקאל",
       "Gender": "Male"
     },
@@ -433,6 +473,16 @@
     {
       "English_name": "Cohen Ra`anan",
       "hebrew_name": "רענן כהן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Yossi",
+      "hebrew_name": "יוסי כ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Yossi",
+      "hebrew_name": "",
       "Gender": "Male"
     },
     {
@@ -542,6 +592,11 @@
     },
     {
       "English_name": "Mahameed Hashem",
+      "hebrew_name": "האשם מחמיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Mahameed Hashem",
       "hebrew_name": "האשם מחאמיד",
       "Gender": "Male"
     },
@@ -642,6 +697,16 @@
     },
     {
       "English_name": "Pines-Paz Ophir",
+      "hebrew_name": "אופיר פינס פז",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pines-Paz Ophir",
+      "hebrew_name": "אופיר פינס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pines-Paz Ophir",
       "hebrew_name": "אופיר פינס-פז",
       "Gender": "Male"
     },
@@ -727,6 +792,11 @@
     },
     {
       "English_name": "Rivlin Reuven",
+      "hebrew_name": "רובי ריבלין",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rivlin Reuven",
       "hebrew_name": "ראובן ריבלין",
       "Gender": "Male"
     },
@@ -743,6 +813,16 @@
     {
       "English_name": "Shaki Avner-Hai",
       "hebrew_name": "אבנר-חי שאקי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shochat Avraham",
+      "hebrew_name": "אברהם (בייגה) שוחט",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shochat Avraham",
+      "hebrew_name": "אברהם שוחט",
       "Gender": "Male"
     },
     {
@@ -1247,6 +1327,11 @@
     },
     {
       "English_name": "Galon Zehava",
+      "hebrew_name": "זהבה גלאו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Galon Zehava",
       "hebrew_name": "גלאון זהבה",
       "Gender": "Female"
     },
@@ -1287,6 +1372,11 @@
     },
     {
       "English_name": "Zeev Nissim",
+      "hebrew_name": "ניסים זאב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Zeev Nissim",
       "hebrew_name": "נסים זאב",
       "Gender": "Male"
     },
@@ -1298,6 +1388,11 @@
     {
       "English_name": "Tibi Ahmad",
       "hebrew_name": "אחמד טיבי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Cohen Eliezer",
+      "hebrew_name": "אליעזר (צ'יטה) כהן",
       "Gender": "Male"
     },
     {
@@ -1362,6 +1457,11 @@
     },
     {
       "English_name": "Lapid Tommy",
+      "hebrew_name": "יוסף לפיד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lapid Tommy",
       "hebrew_name": "יוסף (טומי) לפיד",
       "Gender": "Male"
     },
@@ -1397,6 +1497,11 @@
     },
     {
       "English_name": "Naveh Dan",
+      "hebrew_name": "דני נווה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naveh Dan",
       "hebrew_name": "דני נוה",
       "Gender": "Male"
     },
@@ -1417,7 +1522,17 @@
     },
     {
       "English_name": "Suissa Eliyahu",
+      "hebrew_name": "אלי סוויסה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Suissa Eliyahu",
       "hebrew_name": "אליהו סויסה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Paritzky Joseph",
+      "hebrew_name": "יוסף פריצקי",
       "Gender": "Male"
     },
     {
@@ -1439,6 +1554,11 @@
       "English_name": "Kara Ayoob",
       "hebrew_name": "איוב קרא",
       "Gender": "Male"
+    },
+    {
+      "English_name": "Rabin-Pelossof Dalia",
+      "hebrew_name": "דליה רבין פילוסוף",
+      "Gender": "Female"
     },
     {
       "English_name": "Rabin-Pelossof Dalia",
@@ -4917,6 +5037,11 @@
     },
     {
       "English_name": "Avraham Balila Ruhama",
+      "hebrew_name": "רוחמה אברהם",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Avraham Balila Ruhama",
       "hebrew_name": "רוחמה אברהם-בלילא",
       "Gender": "Female"
     },
@@ -4928,6 +5053,11 @@
     {
       "English_name": "Sa`ar Gideon",
       "hebrew_name": "גדעון סער",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Benlolo Daniel",
+      "hebrew_name": "דני בנלולו",
       "Gender": "Male"
     },
     {
@@ -4962,6 +5092,11 @@
     },
     {
       "English_name": "Sharon Omri",
+      "hebrew_name": "עומרי שרון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Sharon Omri",
       "hebrew_name": "עמרי שרון",
       "Gender": "Male"
     },
@@ -4983,6 +5118,21 @@
     {
       "English_name": "Erdan Gilad",
       "hebrew_name": "גילעד ארדן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-On Ronnie",
+      "hebrew_name": "רוני בר און",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-On Ronnie",
+      "hebrew_name": "רוני בר-און",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bar-On Ronnie",
+      "hebrew_name": "רוני בראון",
       "Gender": "Male"
     },
     {
@@ -5172,6 +5322,11 @@
     },
     {
       "English_name": "Majadele Raleb",
+      "hebrew_name": "ראלב מג'אדלה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Majadele Raleb",
       "hebrew_name": "גאלב מג'אדלה",
       "Gender": "Male"
     },
@@ -5302,6 +5457,11 @@
     },
     {
       "English_name": "Hilou Nadia",
+      "hebrew_name": "נדיה חילו",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Hilou Nadia",
       "hebrew_name": "נאדיה חילו",
       "Gender": "Female"
     },
@@ -5392,6 +5552,11 @@
     },
     {
       "English_name": "Swaid Hanna",
+      "hebrew_name": "חנא סוויד",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Swaid Hanna",
       "hebrew_name": "חנא סוייד",
       "Gender": "Male"
     },
@@ -5408,6 +5573,11 @@
     {
       "English_name": "Atias Ariel",
       "hebrew_name": "אריאל אטיאס",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ayalon Ami",
+      "hebrew_name": "עמי אילון",
       "Gender": "Male"
     },
     {
@@ -5492,6 +5662,11 @@
     },
     {
       "English_name": "Naffaa Said",
+      "hebrew_name": "סעיד נאפע",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Naffaa Said",
       "hebrew_name": "סעיד נפאע",
       "Gender": "Male"
     },
@@ -5512,6 +5687,16 @@
     },
     {
       "English_name": "Molla Shlomo (Neguse)",
+      "hebrew_name": "שלמה מולה נגוסאי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Molla Shlomo (Neguse)",
+      "hebrew_name": "שלמה מולא",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Molla Shlomo (Neguse)",
       "hebrew_name": "שלמה (נגוסה) מולה",
       "Gender": "Male"
     },
@@ -5523,6 +5708,11 @@
     {
       "English_name": "Bahyna Mazor",
       "hebrew_name": "מזור בהיינה",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shnaan Shachiv",
+      "hebrew_name": "שנאן",
       "Gender": "Male"
     },
     {
@@ -5553,6 +5743,11 @@
     {
       "English_name": "Pollack Yehoshua Menachem",
       "hebrew_name": "יהושע מנחם פולק",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Bielski Zeev",
+      "hebrew_name": "זאב ביילסקי",
       "Gender": "Male"
     },
     {
@@ -5612,6 +5807,11 @@
     },
     {
       "English_name": "Levin Yariv",
+      "hebrew_name": "יריב לוי",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Levin Yariv",
       "hebrew_name": "יריב לווין",
       "Gender": "Male"
     },
@@ -5622,12 +5822,22 @@
     },
     {
       "English_name": "Pinyan Zion",
+      "hebrew_name": "ציון פניאן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Pinyan Zion",
       "hebrew_name": "ציון פיניאן",
       "Gender": "Male"
     },
     {
       "English_name": "Danon Danny",
       "hebrew_name": "דני דנון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Shama Hacohen Carmel",
+      "hebrew_name": "כרמל שאמה",
       "Gender": "Male"
     },
     {
@@ -5692,6 +5902,16 @@
     },
     {
       "English_name": "Kirshenbaum Fania",
+      "hebrew_name": "פאינה קירשנבאום",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kirshenbaum Fania",
+      "hebrew_name": "פניה קרשנבאום",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kirshenbaum Fania",
       "hebrew_name": "פניה (פאינה) קירשנבאום",
       "Gender": "Female"
     },
@@ -5699,6 +5919,11 @@
       "English_name": "Kirshenbaum Fania",
       "hebrew_name": "פניה קירשנבאום",
       "Gender": "Female"
+    },
+    {
+      "English_name": "Ben Simon Daniel",
+      "hebrew_name": "דניאל בן סימון",
+      "Gender": "Male"
     },
     {
       "English_name": "Ben Simon Daniel",
@@ -5732,12 +5957,22 @@
     },
     {
       "English_name": "Matalon Moshe Mutz",
+      "hebrew_name": "משה מטלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Matalon Moshe Mutz",
       "hebrew_name": "משה (מוץ) מטלון",
       "Gender": "Male"
     },
     {
       "English_name": "Matalon Moshe Mutz",
       "hebrew_name": "משה מוץ מטלון",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Moses Menachem Eliezer",
+      "hebrew_name": "מנחם מאיר מוזס",
       "Gender": "Male"
     },
     {
@@ -5757,12 +5992,22 @@
     },
     {
       "English_name": "Katz Yaakov (Katzeleh)",
+      "hebrew_name": "יעקב (כצל'ה) כ\"ץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Katz Yaakov (Katzeleh)",
       "hebrew_name": "יעקב כץ",
       "Gender": "Male"
     },
     {
       "English_name": "Katz Yaakov (Katzeleh)",
       "hebrew_name": "יעקב (כצל`ה) כ”ץ",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben Ari Michael",
+      "hebrew_name": "מיכאל בן ארי",
       "Gender": "Male"
     },
     {
@@ -5814,6 +6059,11 @@
       "English_name": "Hershkowitz Daniel",
       "hebrew_name": "דניאל הרשקוביץ",
       "Gender": "Male"
+    },
+    {
+      "English_name": "Shamalov Berkovich Yulia",
+      "hebrew_name": "יוליה שמאלוב ברקוביץ",
+      "Gender": "Female"
     },
     {
       "English_name": "Shamalov Berkovich Yulia",
@@ -6033,6 +6283,11 @@
     {
       "English_name": "Barlev Omer",
       "hebrew_name": "עומר בר-לב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ghattas Basel",
+      "hebrew_name": "באסל גאטס",
       "Gender": "Male"
     },
     {
@@ -6309,6 +6564,11 @@
       "English_name": "Calderon Ruth",
       "hebrew_name": "רות קלדרון",
       "Gender": "Female"
+    },
+    {
+      "English_name": "Kalfa Zvulun",
+      "hebrew_name": "זבולון קלפה",
+      "Gender": "Male"
     },
     {
       "English_name": "Kalfa Zvulun",
@@ -7387,7 +7647,17 @@
     },
     {
       "English_name": "Shir Segman Michal",
+      "hebrew_name": "מיכל שיר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Shir Segman Michal",
       "hebrew_name": "מיכל שיר סגמן",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Haimovich Miki",
+      "hebrew_name": "מיקי חיימוביץ",
       "Gender": "Female"
     },
     {
@@ -7619,6 +7889,71 @@
       "English_name": "Tur-Paz Moshe",
       "hebrew_name": "משה טור פז",
       "Gender": "Male"
+    },
+    {
+      "English_name": "Makhoul Issam",
+      "hebrew_name": "עיסאם מח'ול",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tarif Salah",
+      "hebrew_name": "ס' טריף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tarif Salah",
+      "hebrew_name": "סאלח טריף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Tarif Salah",
+      "hebrew_name": "סלאח טריף",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Orbach Nir",
+      "hebrew_name": "ניר אורבך",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Ben-Gvir Itamar",
+      "hebrew_name": "איתמר בן גביר",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Waldiger Michal",
+      "hebrew_name": "מיכל וולדיגר",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Kariv Gilad",
+      "hebrew_name": "גלעד קריב",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Rothman Simcha",
+      "hebrew_name": "שמחה רוטמן",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Lazimi Naama",
+      "hebrew_name": "נעמה לזימי",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Tal Alon",
+      "hebrew_name": "אלון טל",
+      "Gender": "Male"
+    },
+    {
+      "English_name": "Wasserman Lande Ruth",
+      "hebrew_name": "רות וסרמן-לנדה",
+      "Gender": "Female"
+    },
+    {
+      "English_name": "Wasserman Lande Ruth",
+      "hebrew_name": "רות וסרמן לנדה",
+      "Gender": "Female"
     }
   ]
 }

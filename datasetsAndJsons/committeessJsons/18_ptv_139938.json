@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "68",
+  "CommitteeDate": "01/26/2010",
+  "KnessetNumber": "18",
+  "participantsDetails": {
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1068
+    },
+    "יוליה שמאלוב ברקוביץ": {
+      "HebrewName": "יוליה שמאלוב ברקוביץ",
+      "EnglishName": "Shamalov Berkovich Yulia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "2",
+  "CommitteeDate": "07/19/2006",
+  "KnessetNumber": "17",
+  "participantsDetails": {
+    "רוחמה אברהם": {
+      "HebrewName": "רוחמה אברהם",
+      "EnglishName": "Avraham Balila Ruhama",
+      "Gender": "Female",
+      "SpokenWords": 71
+    }
+  }
+}

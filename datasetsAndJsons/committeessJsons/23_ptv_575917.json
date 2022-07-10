@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "17",
+  "CommitteeDate": "06/17/2020",
+  "KnessetNumber": "23",
+  "participantsDetails": {
+    "איתן גינזבורג": {
+      "HebrewName": "איתן גינזבורג",
+      "EnglishName": "Ginzburg Eitan",
+      "Gender": "Male",
+      "SpokenWords": 45
+    }
+  }
+}

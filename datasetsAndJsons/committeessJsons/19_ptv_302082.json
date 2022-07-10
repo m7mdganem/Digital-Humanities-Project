@@ -1,0 +1,19 @@
+{
+  "CommitteeNumber": "118",
+  "CommitteeDate": "08/19/2014",
+  "KnessetNumber": "19",
+  "participantsDetails": {
+    "משה זלמן פייגלין": {
+      "HebrewName": "משה זלמן פייגלין",
+      "EnglishName": "Feiglin Moshe Zalman",
+      "Gender": "Male",
+      "SpokenWords": 117
+    },
+    "אברהם מיכאלי": {
+      "HebrewName": "אברהם מיכאלי",
+      "EnglishName": "Michaeli Avraham",
+      "Gender": "Male",
+      "SpokenWords": 13
+    }
+  }
+}

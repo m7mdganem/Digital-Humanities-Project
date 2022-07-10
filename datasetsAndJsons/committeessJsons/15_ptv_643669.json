@@ -1,0 +1,13 @@
+{
+  "CommitteeNumber": "5",
+  "CommitteeDate": "3/20/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "אליעזר זנדברג": {
+      "HebrewName": "אליעזר זנדברג",
+      "EnglishName": "Sandberg Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 5244
+    }
+  }
+}

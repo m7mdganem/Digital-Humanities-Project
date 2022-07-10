@@ -1,0 +1,25 @@
+{
+  "CommitteeNumber": "25",
+  "CommitteeDate": "06/20/2001",
+  "KnessetNumber": "15",
+  "participantsDetails": {
+    "יוסי כץ": {
+      "HebrewName": "יוסי כץ",
+      "EnglishName": "Katz Yossi",
+      "Gender": "Male",
+      "SpokenWords": 412
+    },
+    "שאול יהלום": {
+      "HebrewName": "שאול יהלום",
+      "EnglishName": "Yahalom Shaul",
+      "Gender": "Male",
+      "SpokenWords": 124
+    },
+    "יוסף לפיד": {
+      "HebrewName": "יוסף לפיד",
+      "EnglishName": "Lapid Tommy",
+      "Gender": "Male",
+      "SpokenWords": 90
+    }
+  }
+}

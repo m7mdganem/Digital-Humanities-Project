@@ -14,12 +14,12 @@ class ProtocolAnalyzer:
         self.counter = 0
 
     def _participantStartedTalking(self, line, participant_name):
-        return line.__contains__(participant_name) and line.__contains__(":")
+        return StripLine(line).__contains__(participant_name) and StripLine(line).__contains__(":")
     
     def _somebodyElseStartedTalking(self, line:str, current_speaker):
         if (self.counter < 30):
             self.counter += 1
-        return (not line.__contains__(current_speaker)) and line.__contains__(":")  and len(line.split(':')) == 2 and len(line.split(':')[0] ) > 0 and line.split(':')[1] == '\n' #and len(line.split(':')[1] ) == 0
+        return (not StripLine(line).__contains__(current_speaker)) and line.__contains__(":")  and len(line.split(':')) == 2 and len(line.split(':')[0] ) > 0 and line.split(':')[1] == '\n'
 
     def GetComitteeNumber(self, file_path):
         with open(file_path, mode='r', encoding="UTF-8") as f:
@@ -41,7 +41,7 @@ class ProtocolAnalyzer:
                     hour_regex = hour_format_regex.search(line)
                     if hour_regex is not None:
                         return GetDateFromLine(line)
-        print("ERROR: Unable to parse date for file: " + file_path)
+        print("ERROR: Unable to parse date for file: " + GetFileName(file_path))
         return None
 
     def GetKnessetNumber(self, file_path):
@@ -54,54 +54,38 @@ class ProtocolAnalyzer:
             lines = f.readlines()
         list_of_Knesset_Members = []
         for line_index in range(len(lines)):
-            if lines[line_index].__contains__("חברי הוועדה"):
+            line = lines[line_index]
+            if (line.__contains__("חברי הוועדה") or line.__contains__("חברי ועדה") or line.__contains__("חברי הועדה")) and line.__contains__(":"):
                 break
+        if line_index == len(lines) - 1:
+            return None
         for participants_index in range(line_index, len(lines)):
             if participants_index == line_index:
-                rest_of_line = lines[participants_index].split(":")[1].strip()
-                if rest_of_line == "":
+                if len(lines[participants_index].split(":")) < 2:
                     continue
-                elif rest_of_line.__contains__("יו\"ר") and rest_of_line.__contains__("–"):
-                    list_of_Knesset_Members.append(rest_of_line.split("–")[0].strip())
-                elif rest_of_line.__contains__("יו\"ר") and rest_of_line.__contains__("-"):
-                    list_of_Knesset_Members.append(rest_of_line.split("-")[0].strip())
+                rest_of_line = lines[participants_index].split(":")[1].strip()
+                if rest_of_line == "" or rest_of_line.__contains__("מזכיר הכנסת") or rest_of_line.__contains__("ממלא מקום"):
+                    continue
                 elif rest_of_line.__contains__("היו\"ר"):
-                    splitted = rest_of_line.split("היו\"ר")
-                    if splitted[0].strip() == "":
-                        list_of_Knesset_Members.append(splitted[1].strip())
-                    else:
-                        list_of_Knesset_Members.append(splitted[0].strip())
+                    rest_of_line = rest_of_line.replace("היו\"ר", "")
+                    list_of_Knesset_Members.append(StripLine(rest_of_line))
                 elif rest_of_line.__contains__("יו\"ר"):
-                    list_of_Knesset_Members.append(rest_of_line.split("יו\"ר")[0].strip())
+                    rest_of_line = rest_of_line.replace("יו\"ר", "")
+                    list_of_Knesset_Members.append(StripLine(rest_of_line))
                 else:
                     list_of_Knesset_Members.append(rest_of_line.strip())
             elif lines[participants_index].__contains__(":"):
                 break
             else:
                 line = lines[participants_index].strip()
-                if line == "":
+                if line == "" or line.__contains__("מזכיר הכנסת") or line.__contains__("ממלא מקום"):
                     continue
-                elif line.__contains__("יו\"ר") and line.__contains__("–"):
-                    line_splitted = line.split("יו\"ר")
-                    if line_splitted[1].strip() == '':
-                        list_of_Knesset_Members.append(line_splitted[0].strip())
-                    else:
-                        list_of_Knesset_Members.append(line_splitted[1].strip())
-                elif line.__contains__("יו\"ר") and line.__contains__("-"):
-                    line_splitted = line.split("יו\"ר")
-                    if line_splitted[1].strip() == '':
-                        list_of_Knesset_Members.append(line_splitted[0].strip())
-                    else:
-                        list_of_Knesset_Members.append(line_splitted[1].strip())
                 elif line.__contains__("היו\"ר"):
-                    splitted = line.split("היו\"ר")
-                    if splitted[0].strip() == "":
-                        list_of_Knesset_Members.append(splitted[1].strip())
-                    else:
-                        list_of_Knesset_Members.append(splitted[0].strip())
+                    line = line.replace("היו\"ר", "")
+                    list_of_Knesset_Members.append(StripLine(line))
                 elif line.__contains__("יו\"ר"):
-                    list_of_Knesset_Members.append(line.split("יו\"ר")[0].strip())
-                # We should add the case when the string contains ','
+                    line = line.replace("יו\"ר", "")
+                    list_of_Knesset_Members.append(StripLine(line))
                 else:
                     list_of_Knesset_Members.append(line.strip())
         return list_of_Knesset_Members
@@ -135,7 +119,7 @@ class ProtocolAnalyzer:
                         enable_counting = False
                         continue
 
-                    elif line.__contains__(participant_name) and line.__contains__(":"):
+                    elif StripLine(line).__contains__(participant_name) and line.__contains__(":"):
                         # If the same participant continued to talk, do not add this line to the number of spoken words
                         continue
 
@@ -147,9 +131,6 @@ class ProtocolAnalyzer:
                         number_of_spoken_words = CountWordsInSentence(line)                         
                         member_details: KnessetMemberProtocolDetails = knesset_members_dict.get(participant_name)
                         if member_details is None:
-                            with open("members_not_found.txt", 'a', encoding='utf-8') as f:
-                                f.write("participant name: " + participant_name + '\n')
-                                f.write(line + '\n')
                             continue
                         member_details.IncrementSpokenWordsBy(number_of_spoken_words)
         return knesset_members_dict
@@ -165,11 +146,20 @@ class ProtocolAnalyzer:
         # Get Metadata about the comittee
         committee_number = self.GetComitteeNumber(input_file_path)
         committee_date: Date = self.GetComitteeDate(input_file_path)
-        if committee_date is None:
-            return None
-        committee_date_string = committee_date.month + "/" + committee_date.day + "/" + committee_date.year # save month as mm/dd/yyyy
         knesset_number = self.GetKnessetNumber(input_file_path)
         participants_names = self.GetParticipantesNames(input_file_path)
+
+        if committee_number is None:
+            print(GetFileName(input_file_path) + ' ERROR: Unable to parse committee number')
+            return None
+        if committee_date is None:
+            print(GetFileName(input_file_path) + ' ERROR: Unable to parse date')
+            return None
+        if participants_names is None:
+            print(GetFileName(input_file_path) + ' ERROR: Unable to parse participants')
+            return None
+
+        committee_date_string = committee_date.month + "/" + committee_date.day + "/" + committee_date.year # save month as mm/dd/yyyy
         knesset_member_protocol_details = self.GetKnessetMemberProtocolDetails(participants_names, knesset_members_dict)
 
         # Count spoken words for each participant
