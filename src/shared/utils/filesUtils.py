@@ -25,7 +25,6 @@ def ConvertDocxToTxt(filename, outputFileName):
     pypandoc.convert_file(filename, 'plain', outputfile=outputFileName, encoding="utf-8")
 
 def ConvertDocFilesToDocx(path_to_doc_files):
-    # Create list of paths to .doc files
     paths = glob(path_to_doc_files + '\\**\\*.doc', recursive=True)
     for path in paths:
         _save_as_docx(path)

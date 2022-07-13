@@ -1,4 +1,5 @@
 import os
+from src.shared.utils.jsonUtils import convertJsonToDict
 from src.shared.objects.Protocol import Protocol
 from src.shared.services.KnessetMembersDetailsExtractor import KnessetMembersDetailsExtractor
 from src.shared.services.ProtocolAnalyzer import ProtocolAnalyzer
@@ -8,6 +9,7 @@ my_path = os.path.abspath(os.path.dirname(__file__))
 PrtocolsWordFilesPath = os.path.join(my_path, "../../protocolsStore/protocolsWordFiles")
 PrtocolTextFilesPath = os.path.join(my_path, "../../protocolsStore/protocolsTextFiles")
 MembersDetailsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/members.csv")
+originalFilesNamesJsonFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/originalFilesNames.json")
 MembersDetailsJsonFilePath = os.path.join(my_path, "../../datasetsAndJsons/membersJsons/KnessetMembersDetails.json")
 ProtocolsJsonsDirectoryPath = os.path.join(my_path, "../../datasetsAndJsons/committeessJsons")
 MembersDetailsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/members.csv")
@@ -15,8 +17,6 @@ protocolsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/pr
 protocolsVisualsCsvFilePath = os.path.join(my_path, "../../datasetsAndJsons/datasets/protocolsVisuals.csv")
 
 number_of_committees_without_women = 0
-
-# Download doc files 
 
 # Convert doc files to txt files
 print("Info: Startetd converting Doc files to Docx files")
@@ -47,15 +47,17 @@ for file in os.listdir(input_directory):
     else: 
         continue
 
+originalFilesNamesDict = convertJsonToDict(originalFilesNamesJsonFilePath)
+
 # create the csv final file
 print("Info: Producing CSV files")
 with open(protocolsCsvFilePath, mode='w', encoding="UTF-8") as f:
-    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Males Speaking Average,Number Of Words Spoken By Females,Females Speaking Average,Participants,Json,Json File Name\n"])
+    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Males Speaking Average,Number Of Words Spoken By Females,Females Speaking Average,Participants,Json,Json File Name,link To Original File\n"])
 with open(protocolsVisualsCsvFilePath, mode='w', encoding="UTF-8") as f:
-    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Participants,Json,Participant English Name,Participant Gender,Participant Spoken Words, Json File Name\n"])
+    f.writelines(["Committee Number,Date,Knesset Number,Number Of Male Participants,Number Of Female Participants,Number Of Words Spoken By Males,Number Of Words Spoken By Females,Participants,Json,Participant English Name,Participant Gender,Participant Spoken Words, Json File Name,link To Original File\n"])
 for protocol in protocols_list:
-    protocol.PrintToCsvFile(protocolsCsvFilePath)
-    protocol.PrintToVisualsCsvFile(protocolsVisualsCsvFilePath)
+    protocol.PrintToCsvFile(protocolsCsvFilePath, originalFilesNamesDict)
+    protocol.PrintToVisualsCsvFile(protocolsVisualsCsvFilePath, originalFilesNamesDict)
 
 print("\nNumber of all analyzed committees: " + str(len(protocols_list)))
 print("Number of committees without women: " + str(number_of_committees_without_women))
