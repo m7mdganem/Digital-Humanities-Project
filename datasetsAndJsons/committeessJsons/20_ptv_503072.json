@@ -26,6 +26,18 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 194
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

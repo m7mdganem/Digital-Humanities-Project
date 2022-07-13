@@ -8,6 +8,24 @@
       "EnglishName": "Haskel Sharren",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "משה טור פז": {
+      "HebrewName": "משה טור פז",
+      "EnglishName": "Tur-Paz Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גבי לסקי": {
+      "HebrewName": "גבי לסקי",
+      "EnglishName": "Lasky Gaby",
+      "Gender": "Female",
+      "SpokenWords": 169
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 417
     }
   }
 }

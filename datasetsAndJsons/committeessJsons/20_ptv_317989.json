@@ -38,6 +38,30 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 57
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 4
+    },
+    "שולי מועלם רפאלי": {
+      "HebrewName": "שולי מועלם רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 125
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 19
     }
   }
 }

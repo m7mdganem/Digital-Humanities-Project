@@ -56,6 +56,42 @@
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
       "SpokenWords": 770
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "אורלי לוי אבקסיס": {
+      "HebrewName": "אורלי לוי אבקסיס",
+      "EnglishName": "Levi-Abekasis Orly",
+      "Gender": "Female",
+      "SpokenWords": 512
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 170
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 49
+    },
+    "מיכל בירן": {
+      "HebrewName": "מיכל בירן",
+      "EnglishName": "Biran Michal",
+      "Gender": "Female",
+      "SpokenWords": 19
+    },
+    "עמר בר-לב": {
+      "HebrewName": "עמר בר-לב",
+      "EnglishName": "Barlev Omer",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

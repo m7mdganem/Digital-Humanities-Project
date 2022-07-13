@@ -7,7 +7,19 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 147
+      "SpokenWords": 64
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 49
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

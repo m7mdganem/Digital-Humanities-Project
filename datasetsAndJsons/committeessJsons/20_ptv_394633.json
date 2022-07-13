@@ -86,6 +86,60 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 119
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 117
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 167
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 312
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 674
+    },
+    "ציפי לבני": {
+      "HebrewName": "ציפי לבני",
+      "EnglishName": "Livni Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 11
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 174
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 537
     }
   }
 }

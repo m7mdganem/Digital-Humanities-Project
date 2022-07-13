@@ -7,19 +7,19 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 3337
+      "SpokenWords": 828
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
       "EnglishName": "Bitan David",
       "Gender": "Male",
-      "SpokenWords": 1341
+      "SpokenWords": 32
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 1848
+      "SpokenWords": 49
     },
     "איילת נחמיאס ורבין": {
       "HebrewName": "איילת נחמיאס ורבין",
@@ -32,6 +32,54 @@
       "EnglishName": "Swid Revital",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "אלי אלאלוף": {
+      "HebrewName": "אלי אלאלוף",
+      "EnglishName": "Elalouf Elie",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איתן ברושי": {
+      "HebrewName": "איתן ברושי",
+      "EnglishName": "Broshi Eytan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יחיאל חיליק בר": {
+      "HebrewName": "יחיאל חיליק בר",
+      "EnglishName": "Bar Yehiel Hilik",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה מזרחי": {
+      "HebrewName": "משה מזרחי",
+      "EnglishName": "Mizrahi Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "לאה פדידה": {
+      "HebrewName": "לאה פדידה",
+      "EnglishName": "Fadida Leah",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 586
+    },
+    "איציק שמולי": {
+      "HebrewName": "איציק שמולי",
+      "EnglishName": "Shmuli Itzik",
+      "Gender": "Male",
+      "SpokenWords": 113
     }
   }
 }

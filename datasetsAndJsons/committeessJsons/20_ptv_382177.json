@@ -80,6 +80,24 @@
       "EnglishName": "Rozin Michal",
       "Gender": "Female",
       "SpokenWords": 2
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואל רזבוזוב": {
+      "HebrewName": "יואל רזבוזוב",
+      "EnglishName": "Razvozov Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

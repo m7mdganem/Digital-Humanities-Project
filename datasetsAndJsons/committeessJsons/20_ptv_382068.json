@@ -26,6 +26,18 @@
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
       "SpokenWords": 42
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 10
     }
   }
 }

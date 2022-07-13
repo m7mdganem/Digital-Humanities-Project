@@ -32,6 +32,24 @@
       "EnglishName": "Frej Esawi",
       "Gender": "Male",
       "SpokenWords": 137
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 444
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 150
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 310
     }
   }
 }

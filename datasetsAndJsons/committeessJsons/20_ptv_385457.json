@@ -26,6 +26,30 @@
       "EnglishName": "Nahmias-Verbin Ayelet",
       "Gender": "Female",
       "SpokenWords": 491
+    },
+    "אורן אסף חזן": {
+      "HebrewName": "אורן אסף חזן",
+      "EnglishName": "Hazan Oren Asaf",
+      "Gender": "Male",
+      "SpokenWords": 817
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 17
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 879
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 428
     }
   }
 }

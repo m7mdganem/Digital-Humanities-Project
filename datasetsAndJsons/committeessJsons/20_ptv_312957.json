@@ -74,6 +74,24 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 44
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 2
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אלי כהן": {
+      "HebrewName": "אלי כהן",
+      "EnglishName": "Cohen Eli",
+      "Gender": "Male",
+      "SpokenWords": 44
     }
   }
 }

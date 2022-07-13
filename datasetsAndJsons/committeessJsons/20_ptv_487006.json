@@ -38,6 +38,18 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 668
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 958
     }
   }
 }

@@ -7,13 +7,13 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 5636
+      "SpokenWords": 463
     },
     "ווליד טאהא": {
       "HebrewName": "ווליד טאהא",
       "EnglishName": "Taha Waleed",
       "Gender": "Male",
-      "SpokenWords": 8135
+      "SpokenWords": 720
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
@@ -25,13 +25,49 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 3430
+      "SpokenWords": 80
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 7539
+      "SpokenWords": 150
+    },
+    "צבי האוזר": {
+      "HebrewName": "צבי האוזר",
+      "EnglishName": "Hauser Zvi",
+      "Gender": "Male",
+      "SpokenWords": 1003
+    },
+    "רם בן ברק": {
+      "HebrewName": "רם בן ברק",
+      "EnglishName": "Ben Barak Ram",
+      "Gender": "Male",
+      "SpokenWords": 243
+    },
+    "גבי לסקי": {
+      "HebrewName": "גבי לסקי",
+      "EnglishName": "Lasky Gaby",
+      "Gender": "Female",
+      "SpokenWords": 985
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 1682
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 1281
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 422
     }
   }
 }

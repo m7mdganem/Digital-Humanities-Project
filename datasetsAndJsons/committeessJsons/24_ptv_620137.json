@@ -7,13 +7,13 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 10857
+      "SpokenWords": 1268
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 10767
+      "SpokenWords": 859
     },
     "שרן מרים השכל": {
       "HebrewName": "שרן מרים השכל",
@@ -31,13 +31,13 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 6952
+      "SpokenWords": 149
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 9647
+      "SpokenWords": 338
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
@@ -49,13 +49,37 @@
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 7005
+      "SpokenWords": 841
     },
     "רם שפע": {
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
-      "SpokenWords": 10614
+      "SpokenWords": 48
+    },
+    "ינון אזולאי": {
+      "HebrewName": "ינון אזולאי",
+      "EnglishName": "Azoulay Yinon",
+      "Gender": "Male",
+      "SpokenWords": 715
+    },
+    "קרן ברק": {
+      "HebrewName": "קרן ברק",
+      "EnglishName": "Barak Keren",
+      "Gender": "Female",
+      "SpokenWords": 716
+    },
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 1396
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 1151
     }
   }
 }

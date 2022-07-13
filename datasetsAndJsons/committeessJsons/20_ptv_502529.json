@@ -80,6 +80,30 @@
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
       "SpokenWords": 152
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ואאל יונס": {
+      "HebrewName": "ואאל יונס",
+      "EnglishName": "Younis Wael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

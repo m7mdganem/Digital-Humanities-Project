@@ -7,19 +7,19 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 10123
+      "SpokenWords": 2093
     },
     "עוזי דיין": {
       "HebrewName": "עוזי דיין",
       "EnglishName": "Dayan Uzi",
       "Gender": "Male",
-      "SpokenWords": 7011
+      "SpokenWords": 429
     },
     "עמית הלוי": {
       "HebrewName": "עמית הלוי",
       "EnglishName": "Halevi Amit",
       "Gender": "Male",
-      "SpokenWords": 3628
+      "SpokenWords": 417
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
@@ -31,49 +31,79 @@
       "HebrewName": "מתן כהנא",
       "EnglishName": "Kahane Matan",
       "Gender": "Male",
-      "SpokenWords": 6916
+      "SpokenWords": 79
     },
     "אוסנת הילה מארק": {
       "HebrewName": "אוסנת הילה מארק",
       "EnglishName": "Mark Osnat Hila",
       "Gender": "Female",
-      "SpokenWords": 1018
+      "SpokenWords": 32
     },
     "מיכאל מלכיאלי": {
       "HebrewName": "מיכאל מלכיאלי",
       "EnglishName": "Malchieli Michael",
       "Gender": "Male",
-      "SpokenWords": 7102
+      "SpokenWords": 105
     },
     "חמד עמאר": {
       "HebrewName": "חמד עמאר",
       "EnglishName": "Amar Hamad",
       "Gender": "Male",
-      "SpokenWords": 3151
+      "SpokenWords": 306
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 3606
+      "SpokenWords": 26
     },
     "טלי פלוסקוב": {
       "HebrewName": "טלי פלוסקוב",
       "EnglishName": "Ploskov Tali",
       "Gender": "Female",
-      "SpokenWords": 8438
+      "SpokenWords": 518
     },
     "אלעזר שטרן": {
       "HebrewName": "אלעזר שטרן",
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
-      "SpokenWords": 10141
+      "SpokenWords": 1022
     },
     "הילה שי וזאן": {
       "HebrewName": "הילה שי וזאן",
       "EnglishName": "Shay Vazan Hila",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "משה ארבל": {
+      "HebrewName": "משה ארבל",
+      "EnglishName": "Arbel Moshe",
+      "Gender": "Male",
+      "SpokenWords": 28
+    },
+    "יוראי להב הרצנו": {
+      "HebrewName": "יוראי להב הרצנו",
+      "EnglishName": "Lahav Hertzanu Yoray",
+      "Gender": "Male",
+      "SpokenWords": 299
+    },
+    "יוליה מלינובסקי": {
+      "HebrewName": "יוליה מלינובסקי",
+      "EnglishName": "Malinovsky Yulia",
+      "Gender": "Female",
+      "SpokenWords": 392
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 411
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 639
     }
   }
 }

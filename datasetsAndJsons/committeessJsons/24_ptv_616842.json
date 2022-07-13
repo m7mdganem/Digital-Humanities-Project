@@ -7,7 +7,7 @@
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
-      "SpokenWords": 8778
+      "SpokenWords": 1380
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
@@ -19,19 +19,67 @@
       "HebrewName": "ווליד טאהא",
       "EnglishName": "Taha Waleed",
       "Gender": "Male",
-      "SpokenWords": 4313
+      "SpokenWords": 594
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 4177
+      "SpokenWords": 254
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 8084
+      "SpokenWords": 109
+    },
+    "צבי האוזר": {
+      "HebrewName": "צבי האוזר",
+      "EnglishName": "Hauser Zvi",
+      "Gender": "Male",
+      "SpokenWords": 150
+    },
+    "מופיד מרעי": {
+      "HebrewName": "מופיד מרעי",
+      "EnglishName": "Mari Mufid",
+      "Gender": "Male",
+      "SpokenWords": 106
+    },
+    "אורית מלכה סטרוק": {
+      "HebrewName": "אורית מלכה סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 858
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 573
+    },
+    "מנסור עבאס": {
+      "HebrewName": "מנסור עבאס",
+      "EnglishName": "Abbas Mansour",
+      "Gender": "Male",
+      "SpokenWords": 243
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 954
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 629
+    },
+    "שרון רופא אופיר": {
+      "HebrewName": "שרון רופא אופיר",
+      "EnglishName": "Roffe Ofir Sharon",
+      "Gender": "Female",
+      "SpokenWords": 18
     }
   }
 }

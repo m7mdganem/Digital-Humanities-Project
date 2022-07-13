@@ -7,7 +7,7 @@
       "HebrewName": "אבי ניסנקורן",
       "EnglishName": "Nissenkorn Avi",
       "Gender": "Male",
-      "SpokenWords": 1057
+      "SpokenWords": 481
     },
     "קארין אלהרר": {
       "HebrewName": "קארין אלהרר",
@@ -25,7 +25,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 290
+      "SpokenWords": 17
     },
     "יעל גרמן": {
       "HebrewName": "יעל גרמן",
@@ -43,13 +43,13 @@
       "HebrewName": "תמר זנדברג",
       "EnglishName": "Zandberg Tamar",
       "Gender": "Female",
-      "SpokenWords": 495
+      "SpokenWords": 23
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 69
+      "SpokenWords": 10
     },
     "עופר כסיף": {
       "HebrewName": "עופר כסיף",
@@ -79,13 +79,13 @@
       "HebrewName": "רויטל סויד",
       "EnglishName": "Swid Revital",
       "Gender": "Female",
-      "SpokenWords": 897
+      "SpokenWords": 10
     },
     "עודד פורר": {
       "HebrewName": "עודד פורר",
       "EnglishName": "Forer Oded",
       "Gender": "Male",
-      "SpokenWords": 770
+      "SpokenWords": 178
     }
   }
 }

@@ -50,6 +50,18 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 347
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 452
     }
   }
 }

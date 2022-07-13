@@ -68,6 +68,54 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 7
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 552
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 679
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 97
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 154
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

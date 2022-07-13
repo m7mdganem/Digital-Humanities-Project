@@ -50,6 +50,18 @@
       "EnglishName": "Nahmias-Verbin Ayelet",
       "Gender": "Female",
       "SpokenWords": 220
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 542
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

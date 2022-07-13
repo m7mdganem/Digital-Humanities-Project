@@ -7,19 +7,19 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 5985
+      "SpokenWords": 2424
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 4824
+      "SpokenWords": 256
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 2605
+      "SpokenWords": 327
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
@@ -31,7 +31,25 @@
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 4743
+      "SpokenWords": 646
+    },
+    "לימור מגן תלם": {
+      "HebrewName": "לימור מגן תלם",
+      "EnglishName": "Magen Telem Limor",
+      "Gender": "Female",
+      "SpokenWords": 30
+    },
+    "אורית סטרוק": {
+      "HebrewName": "אורית סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
+      "SpokenWords": 36
     }
   }
 }

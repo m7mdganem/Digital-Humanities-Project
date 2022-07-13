@@ -26,6 +26,24 @@
       "EnglishName": "Swid Revital",
       "Gender": "Female",
       "SpokenWords": 13
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניסן סלומיאנסקי": {
+      "HebrewName": "ניסן סלומיאנסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "סאלח סעד": {
+      "HebrewName": "סאלח סעד",
+      "EnglishName": "Saad Saleh",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

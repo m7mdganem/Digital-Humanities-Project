@@ -32,6 +32,18 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 158
+    },
+    "יגאל גואטה": {
+      "HebrewName": "יגאל גואטה",
+      "EnglishName": "Guetta Yigal",
+      "Gender": "Male",
+      "SpokenWords": 829
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 1466
     }
   }
 }

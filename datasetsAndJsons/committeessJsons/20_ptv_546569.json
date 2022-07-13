@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 8276
+      "SpokenWords": 3269
     },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
@@ -19,7 +19,7 @@
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 8362
+      "SpokenWords": 24
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
@@ -31,13 +31,13 @@
       "HebrewName": "יואב בן צור",
       "EnglishName": "Ben Tzur Yoav",
       "Gender": "Male",
-      "SpokenWords": 6133
+      "SpokenWords": 6
     },
     "יואל חסון": {
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 8894
+      "SpokenWords": 952
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -49,17 +49,53 @@
       "HebrewName": "איילת נחמיאס ורבין",
       "EnglishName": "Nahmias-Verbin Ayelet",
       "Gender": "Female",
-      "SpokenWords": 8509
+      "SpokenWords": 1245
     },
     "יואב קיש": {
       "HebrewName": "יואב קיש",
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
-      "SpokenWords": 2265
+      "SpokenWords": 19
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "סאלח סעד": {
+      "HebrewName": "סאלח סעד",
+      "EnglishName": "Saad Saleh",
+      "Gender": "Male",
+      "SpokenWords": 218
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 6
+    },
+    "עאידה תומא סלימאן": {
+      "HebrewName": "עאידה תומא סלימאן",
+      "EnglishName": "Touma-Sliman Aida",
       "Gender": "Female",
       "SpokenWords": 0
     }

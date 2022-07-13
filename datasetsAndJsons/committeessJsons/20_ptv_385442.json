@@ -50,6 +50,24 @@
       "EnglishName": "Rozin Michal",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "מיכל בירן": {
+      "HebrewName": "מיכל בירן",
+      "EnglishName": "Biran Michal",
+      "Gender": "Female",
+      "SpokenWords": 962
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "בצלאל סמוטריץ'": {
+      "HebrewName": "בצלאל סמוטריץ'",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

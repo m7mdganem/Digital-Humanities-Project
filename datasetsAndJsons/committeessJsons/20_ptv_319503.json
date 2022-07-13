@@ -20,6 +20,12 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 31
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 25
     }
   }
 }

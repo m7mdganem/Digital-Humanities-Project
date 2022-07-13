@@ -7,19 +7,25 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 1114
+      "SpokenWords": 287
     },
     "ווליד טאהא": {
       "HebrewName": "ווליד טאהא",
       "EnglishName": "Taha Waleed",
       "Gender": "Male",
-      "SpokenWords": 1010
+      "SpokenWords": 58
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 468
+      "SpokenWords": 231
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 394
     }
   }
 }

@@ -68,6 +68,24 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 70
+    },
+    "יגאל גואטה": {
+      "HebrewName": "יגאל גואטה",
+      "EnglishName": "Guetta Yigal",
+      "Gender": "Male",
+      "SpokenWords": 1078
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 225
+    },
+    "יעקב פרי": {
+      "HebrewName": "יעקב פרי",
+      "EnglishName": "Perry Yaakov",
+      "Gender": "Male",
+      "SpokenWords": 612
     }
   }
 }

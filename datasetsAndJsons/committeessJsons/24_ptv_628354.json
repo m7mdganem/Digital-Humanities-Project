@@ -7,7 +7,19 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 419
+      "SpokenWords": 369
+    },
+    "מופיד מרעי": {
+      "HebrewName": "מופיד מרעי",
+      "EnglishName": "Mari Mufid",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "חוה אתי עטייה": {
+      "HebrewName": "חוה אתי עטייה",
+      "EnglishName": "Atia Hava-Etty",
+      "Gender": "Female",
+      "SpokenWords": 7
     }
   }
 }

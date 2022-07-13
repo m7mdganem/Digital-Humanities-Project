@@ -50,6 +50,18 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 663
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 780
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 785
     }
   }
 }

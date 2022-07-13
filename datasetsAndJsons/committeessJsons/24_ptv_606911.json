@@ -7,13 +7,61 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 8028
+      "SpokenWords": 716
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 8038
+      "SpokenWords": 38
+    },
+    "ינון אזולאי": {
+      "HebrewName": "ינון אזולאי",
+      "EnglishName": "Azoulay Yinon",
+      "Gender": "Male",
+      "SpokenWords": 1902
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 868
+    },
+    "מאיר יצחק הלוי": {
+      "HebrewName": "מאיר יצחק הלוי",
+      "EnglishName": "Yitzhak Halevi Meir",
+      "Gender": "Male",
+      "SpokenWords": 2
+    },
+    "אלון טל": {
+      "HebrewName": "אלון טל",
+      "EnglishName": "Tal Alon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 1565
+    },
+    "אלכס קושניר": {
+      "HebrewName": "אלכס קושניר",
+      "EnglishName": "Kushnir Alex",
+      "Gender": "Male",
+      "SpokenWords": 628
+    },
+    "ג'ידא רינאוי זועבי": {
+      "HebrewName": "ג'ידא רינאוי זועבי",
+      "EnglishName": "Rinawie Zoabi Ghaida",
+      "Gender": "Female",
+      "SpokenWords": 11
+    },
+    "נירה שפק": {
+      "HebrewName": "נירה שפק",
+      "EnglishName": "Shpak Nira",
+      "Gender": "Female",
+      "SpokenWords": 705
     }
   }
 }

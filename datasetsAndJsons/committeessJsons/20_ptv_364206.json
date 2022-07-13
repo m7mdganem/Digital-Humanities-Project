@@ -32,6 +32,24 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 1
+    },
+    "דוד אמסלם": {
+      "HebrewName": "דוד אמסלם",
+      "EnglishName": "Amsalem David",
+      "Gender": "Male",
+      "SpokenWords": 51
+    },
+    "יגאל גואטה": {
+      "HebrewName": "יגאל גואטה",
+      "EnglishName": "Guetta Yigal",
+      "Gender": "Male",
+      "SpokenWords": 17
+    },
+    "אוסמה סעדי": {
+      "HebrewName": "אוסמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

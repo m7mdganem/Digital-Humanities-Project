@@ -56,6 +56,12 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 3
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 117
     }
   }
 }

@@ -19,7 +19,7 @@
       "HebrewName": "יוסף ג'בארין",
       "EnglishName": "Jabareen Yousef",
       "Gender": "Male",
-      "SpokenWords": 273
+      "SpokenWords": 546
     },
     "יעל גרמן": {
       "HebrewName": "יעל גרמן",
@@ -86,6 +86,90 @@
       "EnglishName": "Rozin Michal",
       "Gender": "Female",
       "SpokenWords": 639
+    },
+    "ינון אזולאי": {
+      "HebrewName": "ינון אזולאי",
+      "EnglishName": "Azoulay Yinon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 608
+    },
+    "מיכל בירן": {
+      "HebrewName": "מיכל בירן",
+      "EnglishName": "Biran Michal",
+      "Gender": "Female",
+      "SpokenWords": 35
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אבי דיכטר": {
+      "HebrewName": "אבי דיכטר",
+      "EnglishName": "Dicter Avi",
+      "Gender": "Male",
+      "SpokenWords": 59
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 421
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ציפי לבני": {
+      "HebrewName": "ציפי לבני",
+      "EnglishName": "Livni Tzipi",
+      "Gender": "Female",
+      "SpokenWords": 95
+    },
+    "איילת נחמיאס ורבין": {
+      "HebrewName": "איילת נחמיאס ורבין",
+      "EnglishName": "Nahmias-Verbin Ayelet",
+      "Gender": "Female",
+      "SpokenWords": 1386
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 200
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 64
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 64
+    },
+    "פנינה תמנו": {
+      "HebrewName": "פנינה תמנו",
+      "EnglishName": "Tamanu Penina",
+      "Gender": "Female",
+      "SpokenWords": 50
     }
   }
 }

@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 13847
+      "SpokenWords": 4045
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -19,7 +19,19 @@
       "HebrewName": "רויטל סויד",
       "EnglishName": "Swid Revital",
       "Gender": "Female",
-      "SpokenWords": 15302
+      "SpokenWords": 463
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 941
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 24
     }
   }
 }

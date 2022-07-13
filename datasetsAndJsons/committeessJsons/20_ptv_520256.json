@@ -7,19 +7,19 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 2441
+      "SpokenWords": 974
     },
     "אמיר אוחנה": {
       "HebrewName": "אמיר אוחנה",
       "EnglishName": "Ohana Amir",
       "Gender": "Male",
-      "SpokenWords": 1250
+      "SpokenWords": 100
     },
     "דוד אמסלם": {
       "HebrewName": "דוד אמסלם",
       "EnglishName": "Amsalem David",
       "Gender": "Male",
-      "SpokenWords": 573
+      "SpokenWords": 37
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
@@ -31,7 +31,7 @@
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 1889
+      "SpokenWords": 137
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -49,7 +49,61 @@
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 553
+      "SpokenWords": 87
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איתן ברושי": {
+      "HebrewName": "איתן ברושי",
+      "EnglishName": "Broshi Eytan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 11
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 123
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 128
+    },
+    "עאידה תומא סלימאן": {
+      "HebrewName": "עאידה תומא סלימאן",
+      "EnglishName": "Touma-Sliman Aida",
+      "Gender": "Female",
+      "SpokenWords": 97
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 58
     }
   }
 }

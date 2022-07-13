@@ -38,6 +38,36 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 14
+    },
+    "יחיאל חיליק בר": {
+      "HebrewName": "יחיאל חיליק בר",
+      "EnglishName": "Bar Yehiel Hilik",
+      "Gender": "Male",
+      "SpokenWords": 385
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "קסניה סבטלובה": {
+      "HebrewName": "קסניה סבטלובה",
+      "EnglishName": "Svetlova Ksenia",
+      "Gender": "Female",
+      "SpokenWords": 254
     }
   }
 }

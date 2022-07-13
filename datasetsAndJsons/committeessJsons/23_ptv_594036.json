@@ -7,7 +7,7 @@
       "HebrewName": "תהלה פרידמן",
       "EnglishName": "Friedman Tehila",
       "Gender": "Female",
-      "SpokenWords": 5994
+      "SpokenWords": 710
     },
     "סמי אבו שחאדה": {
       "HebrewName": "סמי אבו שחאדה",
@@ -19,25 +19,25 @@
       "HebrewName": "עוזי דיין",
       "EnglishName": "Dayan Uzi",
       "Gender": "Male",
-      "SpokenWords": 1148
+      "SpokenWords": 8
     },
     "עמית הלוי": {
       "HebrewName": "עמית הלוי",
       "EnglishName": "Halevi Amit",
       "Gender": "Male",
-      "SpokenWords": 5100
+      "SpokenWords": 61
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 6508
+      "SpokenWords": 177
     },
     "אופיר כץ": {
       "HebrewName": "אופיר כץ",
       "EnglishName": "Katz Ofir",
       "Gender": "Male",
-      "SpokenWords": 3285
+      "SpokenWords": 106
     },
     "אוסנת הילה מארק": {
       "HebrewName": "אוסנת הילה מארק",
@@ -55,19 +55,49 @@
       "HebrewName": "חמד עמאר",
       "EnglishName": "Amar Hamad",
       "Gender": "Male",
-      "SpokenWords": 6072
+      "SpokenWords": 131
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 6564
+      "SpokenWords": 210
     },
     "טלי פלוסקוב": {
       "HebrewName": "טלי פלוסקוב",
       "EnglishName": "Ploskov Tali",
       "Gender": "Female",
-      "SpokenWords": 3521
+      "SpokenWords": 328
+    },
+    "מאי גולן": {
+      "HebrewName": "מאי גולן",
+      "EnglishName": "Golan May",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 683
+    },
+    "יבגני סובה": {
+      "HebrewName": "יבגני סובה",
+      "EnglishName": "Sova Evgeny",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 142
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 113
     }
   }
 }

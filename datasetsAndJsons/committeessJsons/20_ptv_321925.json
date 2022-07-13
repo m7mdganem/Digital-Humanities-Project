@@ -56,6 +56,42 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 178
+    },
+    "עבדאללה אבו מערוף": {
+      "HebrewName": "עבדאללה אבו מערוף",
+      "EnglishName": "Abu Maaruf Abdullah",
+      "Gender": "Male",
+      "SpokenWords": 31
+    },
+    "אלי אלאלוף": {
+      "HebrewName": "אלי אלאלוף",
+      "EnglishName": "Elalouf Elie",
+      "Gender": "Male",
+      "SpokenWords": 193
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 499
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 74
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 183
+    },
+    "קסניה סבטלובה": {
+      "HebrewName": "קסניה סבטלובה",
+      "EnglishName": "Svetlova Ksenia",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

@@ -14,6 +14,36 @@
       "EnglishName": "Cabel Eitan",
       "Gender": "Male",
       "SpokenWords": 1673
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "עבד אל חכים חאג' יחיא": {
+      "HebrewName": "עבד אל חכים חאג' יחיא",
+      "EnglishName": "Haj Yahya Abd Al Hakeem",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 501
+    },
+    "אכרם חסון": {
+      "HebrewName": "אכרם חסון",
+      "EnglishName": "Hasoon Akram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 415
     }
   }
 }

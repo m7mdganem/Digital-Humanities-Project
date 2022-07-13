@@ -56,6 +56,30 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 24
     }
   }
 }

@@ -7,25 +7,25 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 1274
+      "SpokenWords": 267
     },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 795
+      "SpokenWords": 53
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
       "EnglishName": "Ben Tzur Yoav",
       "Gender": "Male",
-      "SpokenWords": 1401
+      "SpokenWords": 27
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 1170
+      "SpokenWords": 91
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",
@@ -37,7 +37,19 @@
       "HebrewName": "רועי פולקמן",
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
-      "SpokenWords": 318
+      "SpokenWords": 16
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 153
     }
   }
 }

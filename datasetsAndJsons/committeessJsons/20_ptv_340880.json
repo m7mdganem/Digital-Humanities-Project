@@ -68,6 +68,72 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 271
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 531
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 158
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 316
+    },
+    "יצחק וקנין": {
+      "HebrewName": "יצחק וקנין",
+      "EnglishName": "Vaknin Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 82
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 627
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 141
+    },
+    "אלי כהן": {
+      "HebrewName": "אלי כהן",
+      "EnglishName": "Cohen Eli",
+      "Gender": "Male",
+      "SpokenWords": 222
+    },
+    "יצחק כהן": {
+      "HebrewName": "יצחק כהן",
+      "EnglishName": "Cohen Yitzhak",
+      "Gender": "Male",
+      "SpokenWords": 120
+    },
+    "מאיר כהן": {
+      "HebrewName": "מאיר כהן",
+      "EnglishName": "Cohen Meir",
+      "Gender": "Male",
+      "SpokenWords": 17
+    },
+    "ירון מזוז": {
+      "HebrewName": "ירון מזוז",
+      "EnglishName": "Mazuz Yaron",
+      "Gender": "Male",
+      "SpokenWords": 324
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 620
     }
   }
 }

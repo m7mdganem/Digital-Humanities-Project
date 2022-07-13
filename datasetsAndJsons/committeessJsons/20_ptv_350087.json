@@ -68,6 +68,30 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 18
+    },
+    "דוד אמסלם": {
+      "HebrewName": "דוד אמסלם",
+      "EnglishName": "Amsalem David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 451
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 152
+    },
+    "יפעת שאשא ביטון": {
+      "HebrewName": "יפעת שאשא ביטון",
+      "EnglishName": "Shasha-Biton Yifat",
+      "Gender": "Female",
+      "SpokenWords": 65
     }
   }
 }

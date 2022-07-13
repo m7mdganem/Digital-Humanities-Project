@@ -38,6 +38,36 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 95
+    },
+    "איתן ברושי": {
+      "HebrewName": "איתן ברושי",
+      "EnglishName": "Broshi Eytan",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "לאה פדידה": {
+      "HebrewName": "לאה פדידה",
+      "EnglishName": "Fadida Leah",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

@@ -32,6 +32,30 @@
       "EnglishName": "Neguise Avraham",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 27
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 33
+    },
+    "אכרם חסון": {
+      "HebrewName": "אכרם חסון",
+      "EnglishName": "Hasoon Akram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעל כהן פארן": {
+      "HebrewName": "יעל כהן פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 177
     }
   }
 }

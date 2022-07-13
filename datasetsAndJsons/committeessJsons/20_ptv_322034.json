@@ -56,6 +56,36 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 122
+    },
+    "שלי יחימוביץ": {
+      "HebrewName": "שלי יחימוביץ",
+      "EnglishName": "Yachimovich Shelly",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 262
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 270
+    },
+    "טלי פלוסקוב": {
+      "HebrewName": "טלי פלוסקוב",
+      "EnglishName": "Ploskov Tali",
+      "Gender": "Female",
+      "SpokenWords": 32
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 72
     }
   }
 }

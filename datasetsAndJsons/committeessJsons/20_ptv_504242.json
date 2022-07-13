@@ -32,6 +32,54 @@
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 9
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אבי דיכטר": {
+      "HebrewName": "אבי דיכטר",
+      "EnglishName": "Dicter Avi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניסן סלומיאנסקי": {
+      "HebrewName": "ניסן סלומיאנסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

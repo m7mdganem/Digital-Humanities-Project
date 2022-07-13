@@ -8,6 +8,30 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 42
+    },
+    "טלב אבו עראר": {
+      "HebrewName": "טלב אבו עראר",
+      "EnglishName": "Abu Arar Talab",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 7
     }
   }
 }

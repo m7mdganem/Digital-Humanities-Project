@@ -32,6 +32,42 @@
       "EnglishName": "Slomiansky Nissan",
       "Gender": "Male",
       "SpokenWords": 757
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 487
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 1611
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 80
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 946
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 642
     }
   }
 }

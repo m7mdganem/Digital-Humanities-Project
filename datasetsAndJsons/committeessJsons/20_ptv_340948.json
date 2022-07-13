@@ -50,6 +50,36 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 65
+    },
+    "עבדאללה אבו מערוף": {
+      "HebrewName": "עבדאללה אבו מערוף",
+      "EnglishName": "Abu Maaruf Abdullah",
+      "Gender": "Male",
+      "SpokenWords": 19
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 35
+    },
+    "יגאל גואטה": {
+      "HebrewName": "יגאל גואטה",
+      "EnglishName": "Guetta Yigal",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 95
+    },
+    "אלי כהן": {
+      "HebrewName": "אלי כהן",
+      "EnglishName": "Cohen Eli",
+      "Gender": "Male",
+      "SpokenWords": 251
     }
   }
 }

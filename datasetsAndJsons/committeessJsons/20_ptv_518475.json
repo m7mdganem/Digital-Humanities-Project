@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 2633
+      "SpokenWords": 867
     },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
@@ -31,13 +31,13 @@
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 1639
+      "SpokenWords": 261
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 2339
+      "SpokenWords": 22
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",
@@ -55,13 +55,43 @@
       "HebrewName": "יואב קיש",
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
-      "SpokenWords": 2645
+      "SpokenWords": 290
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 1262
+      "SpokenWords": 33
+    },
+    "יפעת שאשא ביטון": {
+      "HebrewName": "יפעת שאשא ביטון",
+      "EnglishName": "Shasha-Biton Yifat",
+      "Gender": "Female",
+      "SpokenWords": 47
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 414
+    },
+    "איתן ברושי": {
+      "HebrewName": "איתן ברושי",
+      "EnglishName": "Broshi Eytan",
+      "Gender": "Male",
+      "SpokenWords": 171
+    },
+    "לאה פדידה": {
+      "HebrewName": "לאה פדידה",
+      "EnglishName": "Fadida Leah",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

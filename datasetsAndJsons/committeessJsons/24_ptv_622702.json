@@ -7,13 +7,19 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 553
+      "SpokenWords": 136
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 155
+      "SpokenWords": 30
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 81
     }
   }
 }

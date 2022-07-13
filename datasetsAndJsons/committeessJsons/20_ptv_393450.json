@@ -43,7 +43,7 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 426
+      "SpokenWords": 852
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -55,13 +55,43 @@
       "HebrewName": "מרב מיכאלי",
       "EnglishName": "Michaeli Merav",
       "Gender": "Female",
-      "SpokenWords": 263
+      "SpokenWords": 526
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",
       "EnglishName": "Neguise Avraham",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "יעל גרמן": {
+      "HebrewName": "יעל גרמן",
+      "EnglishName": "German Yael",
+      "Gender": "Female",
+      "SpokenWords": 433
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 468
+    },
+    "עיסאווי פריג'": {
+      "HebrewName": "עיסאווי פריג'",
+      "EnglishName": "Frej Esawi",
+      "Gender": "Male",
+      "SpokenWords": 281
+    },
+    "רויטל סויד": {
+      "HebrewName": "רויטל סויד",
+      "EnglishName": "Swid Revital",
+      "Gender": "Female",
+      "SpokenWords": 331
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 299
     }
   }
 }

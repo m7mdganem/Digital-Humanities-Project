@@ -13,7 +13,7 @@
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 216
+      "SpokenWords": 432
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
@@ -56,6 +56,78 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 109
+    },
+    "מנחם אליעזר מוזס": {
+      "HebrewName": "מנחם אליעזר מוזס",
+      "EnglishName": "Moses Menachem Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 27
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 138
+    },
+    "מיכל בירן": {
+      "HebrewName": "מיכל בירן",
+      "EnglishName": "Biran Michal",
+      "Gender": "Female",
+      "SpokenWords": 251
+    },
+    "איל בן ראובן": {
+      "HebrewName": "איל בן ראובן",
+      "EnglishName": "Ben Reuven Eyal",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 6
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 268
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 416
+    },
+    "שולי מועלם": {
+      "HebrewName": "שולי מועלם",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 159
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 483
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 150
     }
   }
 }

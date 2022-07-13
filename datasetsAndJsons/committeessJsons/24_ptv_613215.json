@@ -7,13 +7,13 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 813
+      "SpokenWords": 366
     },
     "שרן מרים השכל": {
       "HebrewName": "שרן מרים השכל",
       "EnglishName": "Haskel Sharren",
       "Gender": "Female",
-      "SpokenWords": 430
+      "SpokenWords": 63
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
@@ -25,7 +25,13 @@
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 374
+      "SpokenWords": 32
+    },
+    "מופיד מרעי": {
+      "HebrewName": "מופיד מרעי",
+      "EnglishName": "Mari Mufid",
+      "Gender": "Male",
+      "SpokenWords": 5
     }
   }
 }

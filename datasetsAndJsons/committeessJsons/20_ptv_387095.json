@@ -74,6 +74,48 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 26
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 294
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עופר שלח": {
+      "HebrewName": "עופר שלח",
+      "EnglishName": "Shelah Ofer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מנואל טרכטנברג": {
+      "HebrewName": "מנואל טרכטנברג",
+      "EnglishName": "Trajtenberg Manuel",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

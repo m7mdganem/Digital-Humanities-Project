@@ -13,7 +13,7 @@
       "HebrewName": "עבדאללה אבו מערוף",
       "EnglishName": "Abu Maaruf Abdullah",
       "Gender": "Male",
-      "SpokenWords": 8
+      "SpokenWords": 16
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
@@ -74,6 +74,132 @@
       "EnglishName": "Rozin Michal",
       "Gender": "Female",
       "SpokenWords": 153
+    },
+    "טלב אבו עראר": {
+      "HebrewName": "טלב אבו עראר",
+      "EnglishName": "Abu Arar Talab",
+      "Gender": "Male",
+      "SpokenWords": 18
+    },
+    "ג'מעה אזברגה": {
+      "HebrewName": "ג'מעה אזברגה",
+      "EnglishName": "Azbarga Joumah",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מרב בן ארי": {
+      "HebrewName": "מרב בן ארי",
+      "EnglishName": "Ben Ari Merav",
+      "Gender": "Female",
+      "SpokenWords": 6
+    },
+    "עמר בר-לב": {
+      "HebrewName": "עמר בר-לב",
+      "EnglishName": "Barlev Omer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אילן גילאון": {
+      "HebrewName": "אילן גילאון",
+      "EnglishName": "Gilon Ilan",
+      "Gender": "Male",
+      "SpokenWords": 57
+    },
+    "זהבה גלאון": {
+      "HebrewName": "זהבה גלאון",
+      "EnglishName": "Galon Zehava",
+      "Gender": "Female",
+      "SpokenWords": 11
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 22
+    },
+    "אבי דיכטר": {
+      "HebrewName": "אבי דיכטר",
+      "EnglishName": "Dicter Avi",
+      "Gender": "Male",
+      "SpokenWords": 645
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 396
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 415
+    },
+    "ג'מאל זחאלקה": {
+      "HebrewName": "ג'מאל זחאלקה",
+      "EnglishName": "Zahalka Jamal",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עבד אל חכים חאג' יחיא": {
+      "HebrewName": "עבד אל חכים חאג' יחיא",
+      "EnglishName": "Haj Yahya Abd Al Hakeem",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "אורן אסף חזן": {
+      "HebrewName": "אורן אסף חזן",
+      "EnglishName": "Hazan Oren Asaf",
+      "Gender": "Male",
+      "SpokenWords": 797
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 15
+    },
+    "מרדכי יוגב": {
+      "HebrewName": "מרדכי יוגב",
+      "EnglishName": "Yogev Mordhay",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שולי מועלם-רפאלי": {
+      "HebrewName": "שולי מועלם-רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איימן עודה": {
+      "HebrewName": "איימן עודה",
+      "EnglishName": "Odeh Ayman",
+      "Gender": "Male",
+      "SpokenWords": 192
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 135
     }
   }
 }

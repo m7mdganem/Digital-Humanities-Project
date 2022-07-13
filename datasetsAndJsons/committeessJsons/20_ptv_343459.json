@@ -26,6 +26,30 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 518
+    },
+    "עבדאללה אבו מערוף": {
+      "HebrewName": "עבדאללה אבו מערוף",
+      "EnglishName": "Abu Maaruf Abdullah",
+      "Gender": "Male",
+      "SpokenWords": 372
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נאווה בוקר": {
+      "HebrewName": "נאווה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 15
     }
   }
 }

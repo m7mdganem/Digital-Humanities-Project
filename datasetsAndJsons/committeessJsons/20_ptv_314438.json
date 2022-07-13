@@ -50,6 +50,36 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 84
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 28
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "אורלי לוי אבקסיס": {
+      "HebrewName": "אורלי לוי אבקסיס",
+      "EnglishName": "Levi-Abekasis Orly",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "סופה לנדבר": {
+      "HebrewName": "סופה לנדבר",
+      "EnglishName": "Landver Sofa",
+      "Gender": "Female",
+      "SpokenWords": 459
     }
   }
 }

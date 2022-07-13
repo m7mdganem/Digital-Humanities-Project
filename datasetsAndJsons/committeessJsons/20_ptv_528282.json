@@ -7,25 +7,25 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 3108
+      "SpokenWords": 602
     },
     "אמיר אוחנה": {
       "HebrewName": "אמיר אוחנה",
       "EnglishName": "Ohana Amir",
       "Gender": "Male",
-      "SpokenWords": 3388
+      "SpokenWords": 213
     },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 1621
+      "SpokenWords": 4
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
       "EnglishName": "Bitan David",
       "Gender": "Male",
-      "SpokenWords": 3209
+      "SpokenWords": 43
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
@@ -37,19 +37,19 @@
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 2426
+      "SpokenWords": 134
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 3476
+      "SpokenWords": 382
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",
       "EnglishName": "Neguise Avraham",
       "Gender": "Male",
-      "SpokenWords": 3492
+      "SpokenWords": 2
     },
     "רועי פולקמן": {
       "HebrewName": "רועי פולקמן",
@@ -61,6 +61,24 @@
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
       "SpokenWords": 0
     }
   }

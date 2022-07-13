@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 4559
+      "SpokenWords": 815
     },
     "מאי גולן": {
       "HebrewName": "מאי גולן",
@@ -19,25 +19,25 @@
       "HebrewName": "עוזי דיין",
       "EnglishName": "Dayan Uzi",
       "Gender": "Male",
-      "SpokenWords": 3041
+      "SpokenWords": 157
     },
     "מיקי חיימוביץ'": {
       "HebrewName": "מיקי חיימוביץ'",
       "EnglishName": "Haimovich Miki",
       "Gender": "Female",
-      "SpokenWords": 4607
+      "SpokenWords": 13
     },
     "אופיר כץ": {
       "HebrewName": "אופיר כץ",
       "EnglishName": "Katz Ofir",
       "Gender": "Male",
-      "SpokenWords": 4508
+      "SpokenWords": 206
     },
     "מיכאל מלכיאלי": {
       "HebrewName": "מיכאל מלכיאלי",
       "EnglishName": "Malchieli Michael",
       "Gender": "Male",
-      "SpokenWords": 4944
+      "SpokenWords": 141
     },
     "טלי פלוסקוב": {
       "HebrewName": "טלי פלוסקוב",
@@ -49,13 +49,31 @@
       "HebrewName": "אלכס קושניר",
       "EnglishName": "Kushnir Alex",
       "Gender": "Male",
-      "SpokenWords": 1698
+      "SpokenWords": 384
     },
     "רם שפע": {
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
-      "SpokenWords": 2925
+      "SpokenWords": 304
+    },
+    "רם בן ברק": {
+      "HebrewName": "רם בן ברק",
+      "EnglishName": "Ben Barak Ram",
+      "Gender": "Male",
+      "SpokenWords": 209
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 696
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 37
     }
   }
 }

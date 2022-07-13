@@ -80,6 +80,36 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 176
+    },
+    "מיכאל אורן": {
+      "HebrewName": "מיכאל אורן",
+      "EnglishName": "Oren Michael",
+      "Gender": "Male",
+      "SpokenWords": 1
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 205
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 82
+    },
+    "קסניה סבטלובה": {
+      "HebrewName": "קסניה סבטלובה",
+      "EnglishName": "Svetlova Ksenia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 2
     }
   }
 }

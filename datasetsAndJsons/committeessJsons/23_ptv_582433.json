@@ -7,11 +7,23 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 252
+      "SpokenWords": 94
     },
     "אופיר כץ": {
       "HebrewName": "אופיר כץ",
       "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 40
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
       "SpokenWords": 0
     }

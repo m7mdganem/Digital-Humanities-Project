@@ -7,43 +7,43 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 7867
+      "SpokenWords": 1900
     },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
       "EnglishName": "Eichler Israel",
       "Gender": "Male",
-      "SpokenWords": 7106
+      "SpokenWords": 391
     },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 6026
+      "SpokenWords": 205
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
       "EnglishName": "Bitan David",
       "Gender": "Male",
-      "SpokenWords": 2953
+      "SpokenWords": 6
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
       "EnglishName": "Ben Tzur Yoav",
       "Gender": "Male",
-      "SpokenWords": 8514
+      "SpokenWords": 160
     },
     "יואל חסון": {
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 8607
+      "SpokenWords": 360
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 8026
+      "SpokenWords": 153
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -61,13 +61,37 @@
       "HebrewName": "רועי פולקמן",
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
-      "SpokenWords": 8422
+      "SpokenWords": 32
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 6082
+      "SpokenWords": 476
+    },
+    "אלי אלאלוף": {
+      "HebrewName": "אלי אלאלוף",
+      "EnglishName": "Elalouf Elie",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "קארין אלהרר": {
+      "HebrewName": "קארין אלהרר",
+      "EnglishName": "Elharrar Karin",
+      "Gender": "Female",
+      "SpokenWords": 12
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 380
+    },
+    "עיסאווי פריג'": {
+      "HebrewName": "עיסאווי פריג'",
+      "EnglishName": "Frej Esawi",
+      "Gender": "Male",
+      "SpokenWords": 192
     }
   }
 }

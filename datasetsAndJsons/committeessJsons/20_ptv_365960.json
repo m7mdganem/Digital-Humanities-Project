@@ -32,6 +32,24 @@
       "EnglishName": "Neguise Avraham",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "יוליה מלינובסקי": {
+      "HebrewName": "יוליה מלינובסקי",
+      "EnglishName": "Malinovsky Yulia",
+      "Gender": "Female",
+      "SpokenWords": 124
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 553
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 341
     }
   }
 }

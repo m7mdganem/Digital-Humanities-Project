@@ -74,6 +74,48 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 33
+    },
+    "דוד אמסלם": {
+      "HebrewName": "דוד אמסלם",
+      "EnglishName": "Amsalem David",
+      "Gender": "Male",
+      "SpokenWords": 481
+    },
+    "אייל בן ראובן": {
+      "HebrewName": "אייל בן ראובן",
+      "EnglishName": "Ben Reuven Eyal",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 33
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 6
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 281
+    },
+    "יואל רזבוזוב": {
+      "HebrewName": "יואל רזבוזוב",
+      "EnglishName": "Razvozov Yoel",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

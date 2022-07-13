@@ -7,13 +7,19 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 357
+      "SpokenWords": 89
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 174
+      "SpokenWords": 126
+    },
+    "גלעד קריב": {
+      "HebrewName": "גלעד קריב",
+      "EnglishName": "Kariv Gilad",
+      "Gender": "Male",
+      "SpokenWords": 123
     }
   }
 }

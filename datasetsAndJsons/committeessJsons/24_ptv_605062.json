@@ -7,13 +7,13 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 4502
+      "SpokenWords": 978
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 4599
+      "SpokenWords": 547
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
@@ -26,6 +26,36 @@
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "אוריאל בוסו": {
+      "HebrewName": "אוריאל בוסו",
+      "EnglishName": "Busso Uriel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ווליד טאהא": {
+      "HebrewName": "ווליד טאהא",
+      "EnglishName": "Taha Waleed",
+      "Gender": "Male",
+      "SpokenWords": 164
+    },
+    "עידית סילמן": {
+      "HebrewName": "עידית סילמן",
+      "EnglishName": "Silman Idit",
+      "Gender": "Female",
+      "SpokenWords": 1257
+    },
+    "יעל רון בן משה": {
+      "HebrewName": "יעל רון בן משה",
+      "EnglishName": "Ron Ben-Moshe Yael",
+      "Gender": "Female",
+      "SpokenWords": 288
+    },
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
+      "SpokenWords": 89
     }
   }
 }

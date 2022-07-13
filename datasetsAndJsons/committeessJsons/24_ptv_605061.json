@@ -7,13 +7,31 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 232
+      "SpokenWords": 99
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 197
+      "SpokenWords": 111
+    },
+    "שיר סגמן": {
+      "HebrewName": "שיר סגמן",
+      "EnglishName": "Shir Segman Michal",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עידית סילמן": {
+      "HebrewName": "עידית סילמן",
+      "EnglishName": "Silman Idit",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
+      "SpokenWords": 3
     }
   }
 }

@@ -86,6 +86,18 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 382
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עפר שלח": {
+      "HebrewName": "עפר שלח",
+      "EnglishName": "Shelah Ofer",
+      "Gender": "Male",
+      "SpokenWords": 12
     }
   }
 }

@@ -80,6 +80,36 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 427
+    },
+    "טלב אבו עראר": {
+      "HebrewName": "טלב אבו עראר",
+      "EnglishName": "Abu Arar Talab",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכל בירן": {
+      "HebrewName": "מיכל בירן",
+      "EnglishName": "Biran Michal",
+      "Gender": "Female",
+      "SpokenWords": 37
+    },
+    "אכרם חסון": {
+      "HebrewName": "אכרם חסון",
+      "EnglishName": "Hasoon Akram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עפר שלח": {
+      "HebrewName": "עפר שלח",
+      "EnglishName": "Shelah Ofer",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

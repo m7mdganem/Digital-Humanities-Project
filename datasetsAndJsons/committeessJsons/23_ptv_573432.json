@@ -26,6 +26,24 @@
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "משה אבוטבול": {
+      "HebrewName": "משה אבוטבול",
+      "EnglishName": "Abutbul Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רם בן ברק": {
+      "HebrewName": "רם בן ברק",
+      "EnglishName": "Ben Barak Ram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

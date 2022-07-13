@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 1746
+      "SpokenWords": 1023
     },
     "עוזי דיין": {
       "HebrewName": "עוזי דיין",
@@ -37,13 +37,19 @@
       "HebrewName": "טלי פלוסקוב",
       "EnglishName": "Ploskov Tali",
       "Gender": "Female",
-      "SpokenWords": 574
+      "SpokenWords": 42
     },
     "אלעזר שטרן": {
       "HebrewName": "אלעזר שטרן",
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
-      "SpokenWords": 731
+      "SpokenWords": 95
+    },
+    "אורלי פרומן": {
+      "HebrewName": "אורלי פרומן",
+      "EnglishName": "Froman Orly",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

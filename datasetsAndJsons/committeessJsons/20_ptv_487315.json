@@ -44,6 +44,12 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "שרן השכל": {
+      "HebrewName": "שרן השכל",
+      "EnglishName": "Haskel Sharren",
+      "Gender": "Female",
+      "SpokenWords": 599
     }
   }
 }

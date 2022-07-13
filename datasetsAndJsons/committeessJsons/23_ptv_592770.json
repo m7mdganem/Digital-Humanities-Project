@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 108
+      "SpokenWords": 71
     },
     "סמי אבו שחאדה": {
       "HebrewName": "סמי אבו שחאדה",
@@ -19,7 +19,7 @@
       "HebrewName": "עמית הלוי",
       "EnglishName": "Halevi Amit",
       "Gender": "Male",
-      "SpokenWords": 45
+      "SpokenWords": 5
     },
     "חמד עמאר": {
       "HebrewName": "חמד עמאר",
@@ -32,6 +32,12 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 4
     }
   }
 }

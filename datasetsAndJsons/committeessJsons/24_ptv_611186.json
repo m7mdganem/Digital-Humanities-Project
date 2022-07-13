@@ -7,13 +7,25 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 619
+      "SpokenWords": 121
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 82
+      "SpokenWords": 2
+    },
+    "אלון טל": {
+      "HebrewName": "אלון טל",
+      "EnglishName": "Tal Alon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורית סטרוק": {
+      "HebrewName": "אורית סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

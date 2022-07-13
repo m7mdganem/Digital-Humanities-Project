@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 266
+      "SpokenWords": 80
     },
     "עוזי דיין": {
       "HebrewName": "עוזי דיין",
@@ -56,6 +56,18 @@
       "EnglishName": "Shay Vazan Hila",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "יואב סגלוביץ'": {
+      "HebrewName": "יואב סגלוביץ'",
+      "EnglishName": "Segalovitz Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 149
     }
   }
 }

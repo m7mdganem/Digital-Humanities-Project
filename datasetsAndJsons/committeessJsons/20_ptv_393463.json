@@ -38,6 +38,18 @@
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
       "SpokenWords": 1519
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 563
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

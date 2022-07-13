@@ -32,6 +32,36 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 8
+    },
+    "עבד אל חכים חאג' יחיא": {
+      "HebrewName": "עבד אל חכים חאג' יחיא",
+      "EnglishName": "Haj Yahya Abd Al Hakeem",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "באסל גטאס": {
+      "HebrewName": "באסל גטאס",
+      "EnglishName": "Ghattas Basel",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יצחק הרצוג": {
+      "HebrewName": "יצחק הרצוג",
+      "EnglishName": "Herzog Isaac",
+      "Gender": "Male",
+      "SpokenWords": 119
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 212
+    },
+    "ניסן סלומינסקי": {
+      "HebrewName": "ניסן סלומינסקי",
+      "EnglishName": "Slomiansky Nissan",
+      "Gender": "Male",
+      "SpokenWords": 6
     }
   }
 }

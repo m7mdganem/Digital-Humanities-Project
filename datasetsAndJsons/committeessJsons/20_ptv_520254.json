@@ -7,13 +7,79 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 15871
+      "SpokenWords": 1463
     },
     "ג'מעה אזברגה": {
       "HebrewName": "ג'מעה אזברגה",
       "EnglishName": "Azbarga Joumah",
       "Gender": "Male",
-      "SpokenWords": 670
+      "SpokenWords": 471
+    },
+    "סעיד אלחרומי": {
+      "HebrewName": "סעיד אלחרומי",
+      "EnglishName": "Alkharumi Saeed",
+      "Gender": "Male",
+      "SpokenWords": 249
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 205
+    },
+    "מירב בן-ארי": {
+      "HebrewName": "מירב בן-ארי",
+      "EnglishName": "Ben Ari Merav",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 531
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 165
+    },
+    "חנין זועבי": {
+      "HebrewName": "חנין זועבי",
+      "EnglishName": "Zoabi Hanin",
+      "Gender": "Female",
+      "SpokenWords": 321
+    },
+    "ג'מאל זחאלקה": {
+      "HebrewName": "ג'מאל זחאלקה",
+      "EnglishName": "Zahalka Jamal",
+      "Gender": "Male",
+      "SpokenWords": 418
+    },
+    "ואאל יונס": {
+      "HebrewName": "ואאל יונס",
+      "EnglishName": "Younis Wael",
+      "Gender": "Male",
+      "SpokenWords": 357
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

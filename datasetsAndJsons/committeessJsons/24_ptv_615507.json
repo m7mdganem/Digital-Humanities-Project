@@ -7,25 +7,67 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 10167
+      "SpokenWords": 1646
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
       "EnglishName": "Silman Idit",
       "Gender": "Female",
-      "SpokenWords": 2078
+      "SpokenWords": 471
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 10070
+      "SpokenWords": 255
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 8341
+      "SpokenWords": 521
+    },
+    "זאב בנימין בגין": {
+      "HebrewName": "זאב בנימין בגין",
+      "EnglishName": "Begin Ze`ev Binyamin",
+      "Gender": "Male",
+      "SpokenWords": 33
+    },
+    "איתמר בן גביר": {
+      "HebrewName": "איתמר בן גביר",
+      "EnglishName": "Ben-Gvir Itamar",
+      "Gender": "Male",
+      "SpokenWords": 320
+    },
+    "אלון טל": {
+      "HebrewName": "אלון טל",
+      "EnglishName": "Tal Alon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אורית מלכה סטרוק": {
+      "HebrewName": "אורית מלכה סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 2417
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 130
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 899
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 600
     }
   }
 }

@@ -38,6 +38,18 @@
       "EnglishName": "Swid Revital",
       "Gender": "Female",
       "SpokenWords": 4
+    },
+    "איתן ברושי": {
+      "HebrewName": "איתן ברושי",
+      "EnglishName": "Broshi Eytan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שולי מועלם רפאלי": {
+      "HebrewName": "שולי מועלם רפאלי",
+      "EnglishName": "Moalem-Refaeli Shuli",
+      "Gender": "Female",
+      "SpokenWords": 14
     }
   }
 }

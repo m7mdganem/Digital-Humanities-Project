@@ -7,13 +7,13 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 988
+      "SpokenWords": 400
     },
     "עוזי דיין": {
       "HebrewName": "עוזי דיין",
       "EnglishName": "Dayan Uzi",
       "Gender": "Male",
-      "SpokenWords": 747
+      "SpokenWords": 19
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
@@ -25,6 +25,24 @@
       "HebrewName": "תהלה פרידמן",
       "EnglishName": "Friedman Tehila",
       "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יוסף טייב": {
+      "HebrewName": "יוסף טייב",
+      "EnglishName": "Taieb Yosef",
+      "Gender": "Male",
+      "SpokenWords": 16
+    },
+    "יוראי להב הרצנו": {
+      "HebrewName": "יוראי להב הרצנו",
+      "EnglishName": "Lahav Hertzanu Yoray",
+      "Gender": "Male",
+      "SpokenWords": 393
+    },
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
       "SpokenWords": 0
     }
   }

@@ -7,25 +7,25 @@
       "HebrewName": "אמיר אוחנה",
       "EnglishName": "Ohana Amir",
       "Gender": "Male",
-      "SpokenWords": 22233
+      "SpokenWords": 1689
     },
     "יוסף ג'בארין": {
       "HebrewName": "יוסף ג'בארין",
       "EnglishName": "Jabareen Yousef",
       "Gender": "Male",
-      "SpokenWords": 15090
+      "SpokenWords": 1262
     },
     "יעל גרמן": {
       "HebrewName": "יעל גרמן",
       "EnglishName": "German Yael",
       "Gender": "Female",
-      "SpokenWords": 9590
+      "SpokenWords": 756
     },
     "ציפי לבני": {
       "HebrewName": "ציפי לבני",
       "EnglishName": "Livni Tzipi",
       "Gender": "Female",
-      "SpokenWords": 8582
+      "SpokenWords": 1231
     },
     "אורי מקלב": {
       "HebrewName": "אורי מקלב",
@@ -37,7 +37,49 @@
       "HebrewName": "רויטל סויד",
       "EnglishName": "Swid Revital",
       "Gender": "Female",
-      "SpokenWords": 2202
+      "SpokenWords": 616
+    },
+    "אבי דיכטר": {
+      "HebrewName": "אבי דיכטר",
+      "EnglishName": "Dicter Avi",
+      "Gender": "Male",
+      "SpokenWords": 2831
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 2866
+    },
+    "בצלאל סמוטריץ": {
+      "HebrewName": "בצלאל סמוטריץ",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 3246
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מירב מיכאלי": {
+      "HebrewName": "מירב מיכאלי",
+      "EnglishName": "Michaeli Merav",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 869
+    },
+    "פנינה תמנו": {
+      "HebrewName": "פנינה תמנו",
+      "EnglishName": "Tamanu Penina",
+      "Gender": "Female",
+      "SpokenWords": 1413
     }
   }
 }

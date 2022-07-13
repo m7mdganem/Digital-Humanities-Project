@@ -86,6 +86,60 @@
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
       "SpokenWords": 102
+    },
+    "אלי אפללו": {
+      "HebrewName": "אלי אפללו",
+      "EnglishName": "Aflalo Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אליעזר כהן": {
+      "HebrewName": "אליעזר כהן",
+      "EnglishName": "Cohen Eliezer",
+      "Gender": "Male",
+      "SpokenWords": 53
+    },
+    "מרינה סולודקין": {
+      "HebrewName": "מרינה סולודקין",
+      "EnglishName": "Solodkin Marina",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אפרים סנה": {
+      "HebrewName": "אפרים סנה",
+      "EnglishName": "Sneh Ephraim",
+      "Gender": "Male",
+      "SpokenWords": 85
+    },
+    "אתי לבני": {
+      "HebrewName": "אתי לבני",
+      "EnglishName": "Livni Eti",
+      "Gender": "Female",
+      "SpokenWords": 154
+    },
+    "יחיאל חזן": {
+      "HebrewName": "יחיאל חזן",
+      "EnglishName": "Hazan Yehiel",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "משה כחלון": {
+      "HebrewName": "משה כחלון",
+      "EnglishName": "Kahlon Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נסים דהן": {
+      "HebrewName": "נסים דהן",
+      "EnglishName": "Dahan Nissim",
+      "Gender": "Male",
+      "SpokenWords": 293
+    },
+    "נעמי בלומנטל": {
+      "HebrewName": "נעמי בלומנטל",
+      "EnglishName": "Blumenthal Naomi",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

@@ -7,37 +7,61 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 7218
+      "SpokenWords": 1190
     },
     "שרן מרים השכל": {
       "HebrewName": "שרן מרים השכל",
       "EnglishName": "Haskel Sharren",
       "Gender": "Female",
-      "SpokenWords": 7162
+      "SpokenWords": 254
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 6454
+      "SpokenWords": 56
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 1913
+      "SpokenWords": 179
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
       "EnglishName": "Silman Idit",
       "Gender": "Female",
-      "SpokenWords": 2881
+      "SpokenWords": 4
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 7137
+      "SpokenWords": 948
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 537
+    },
+    "אורית סטרוק": {
+      "HebrewName": "אורית סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אלכס קושניר": {
+      "HebrewName": "אלכס קושניר",
+      "EnglishName": "Kushnir Alex",
+      "Gender": "Male",
+      "SpokenWords": 278
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 32
     }
   }
 }

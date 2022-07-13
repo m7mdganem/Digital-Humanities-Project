@@ -7,25 +7,67 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 2860
+      "SpokenWords": 973
     },
     "מירב בן ארי": {
       "HebrewName": "מירב בן ארי",
       "EnglishName": "Ben Ari Merav",
       "Gender": "Female",
-      "SpokenWords": 1545
+      "SpokenWords": 112
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 2589
+      "SpokenWords": 149
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 2056
+      "SpokenWords": 104
+    },
+    "קרן ברק": {
+      "HebrewName": "קרן ברק",
+      "EnglishName": "Barak Keren",
+      "Gender": "Female",
+      "SpokenWords": 278
+    },
+    "אחמד טיבי": {
+      "HebrewName": "אחמד טיבי",
+      "EnglishName": "Tibi Ahmad",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עידית סילמן": {
+      "HebrewName": "עידית סילמן",
+      "EnglishName": "Silman Idit",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אלכס קושניר": {
+      "HebrewName": "אלכס קושניר",
+      "EnglishName": "Kushnir Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "ג'ידא רינאוי זועבי": {
+      "HebrewName": "ג'ידא רינאוי זועבי",
+      "EnglishName": "Rinawie Zoabi Ghaida",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכל שיר סגמן": {
+      "HebrewName": "מיכל שיר סגמן",
+      "EnglishName": "Shir Segman Michal",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "עאידה תומא סלימאן": {
+      "HebrewName": "עאידה תומא סלימאן",
+      "EnglishName": "Touma-Sliman Aida",
+      "Gender": "Female",
+      "SpokenWords": 312
     }
   }
 }

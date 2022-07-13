@@ -38,6 +38,60 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 178
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עמר בר-לב": {
+      "HebrewName": "עמר בר-לב",
+      "EnglishName": "Barlev Omer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 266
+    },
+    "יעקב פרי": {
+      "HebrewName": "יעקב פרי",
+      "EnglishName": "Perry Yaakov",
+      "Gender": "Male",
+      "SpokenWords": 340
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 326
+    },
+    "מרדכי יוגב": {
+      "HebrewName": "מרדכי יוגב",
+      "EnglishName": "Yogev Mordhay",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

@@ -7,13 +7,31 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 6169
+      "SpokenWords": 720
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 5750
+      "SpokenWords": 923
+    },
+    "משה אבוטבול": {
+      "HebrewName": "משה אבוטבול",
+      "EnglishName": "Abutbul Moshe",
+      "Gender": "Male",
+      "SpokenWords": 712
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 17
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 138
     }
   }
 }

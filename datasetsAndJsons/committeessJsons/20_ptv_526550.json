@@ -7,25 +7,25 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 4594
+      "SpokenWords": 1138
     },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
       "EnglishName": "Eichler Israel",
       "Gender": "Male",
-      "SpokenWords": 2375
+      "SpokenWords": 55
     },
     "רוברט אילטוב": {
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 543
+      "SpokenWords": 2
     },
     "דוד אמסלם": {
       "HebrewName": "דוד אמסלם",
       "EnglishName": "Amsalem David",
       "Gender": "Male",
-      "SpokenWords": 4483
+      "SpokenWords": 420
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
@@ -43,13 +43,13 @@
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 4216
+      "SpokenWords": 452
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 2496
+      "SpokenWords": 189
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -61,7 +61,43 @@
       "HebrewName": "אברהם נגוסה",
       "EnglishName": "Neguise Avraham",
       "Gender": "Male",
-      "SpokenWords": 1553
+      "SpokenWords": 3
+    },
+    "אלי אלאלוף": {
+      "HebrewName": "אלי אלאלוף",
+      "EnglishName": "Elalouf Elie",
+      "Gender": "Male",
+      "SpokenWords": 92
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 48
+    },
+    "יוסי יונה": {
+      "HebrewName": "יוסי יונה",
+      "EnglishName": "Yonah Yoseph",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "דן סידה": {
+      "HebrewName": "דן סידה",
+      "EnglishName": "Saida Dan",
+      "Gender": "Male",
+      "SpokenWords": 52
+    },
+    "מיקי רוזנטל": {
+      "HebrewName": "מיקי רוזנטל",
+      "EnglishName": "Rosenthal Micky",
+      "Gender": "Male",
+      "SpokenWords": 76
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 53
     }
   }
 }

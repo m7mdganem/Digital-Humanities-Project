@@ -20,6 +20,24 @@
       "EnglishName": "Eichler Israel",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "דוד אמסלם": {
+      "HebrewName": "דוד אמסלם",
+      "EnglishName": "Amsalem David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואב בן-צור": {
+      "HebrewName": "יואב בן-צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

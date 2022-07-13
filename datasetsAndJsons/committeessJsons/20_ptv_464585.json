@@ -32,6 +32,42 @@
       "EnglishName": "Slomiansky Nissan",
       "Gender": "Male",
       "SpokenWords": 1066
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 308
+    },
+    "אברהם דיכטר": {
+      "HebrewName": "אברהם דיכטר",
+      "EnglishName": "Dicter Avi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 881
+    },
+    "יוסף עטאונה": {
+      "HebrewName": "יוסף עטאונה",
+      "EnglishName": "Atauna Youssef",
+      "Gender": "Male",
+      "SpokenWords": 205
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 324
+    },
+    "עודד פורר": {
+      "HebrewName": "עודד פורר",
+      "EnglishName": "Forer Oded",
+      "Gender": "Male",
+      "SpokenWords": 331
     }
   }
 }

@@ -7,49 +7,157 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 70810
+      "SpokenWords": 10146
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
       "EnglishName": "Silman Idit",
       "Gender": "Female",
-      "SpokenWords": 25027
+      "SpokenWords": 1408
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 36678
+      "SpokenWords": 1848
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 32212
+      "SpokenWords": 2779
     },
     "שרן מרים השכל": {
       "HebrewName": "שרן מרים השכל",
       "EnglishName": "Haskel Sharren",
       "Gender": "Female",
-      "SpokenWords": 18263
+      "SpokenWords": 153
     },
     "ווליד טאהא": {
       "HebrewName": "ווליד טאהא",
       "EnglishName": "Taha Waleed",
       "Gender": "Male",
-      "SpokenWords": 4438
+      "SpokenWords": 60
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 39459
+      "SpokenWords": 2355
     },
     "רם שפע": {
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
-      "SpokenWords": 39350
+      "SpokenWords": 649
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 5443
+    },
+    "ניר ברקת": {
+      "HebrewName": "ניר ברקת",
+      "EnglishName": "Barkat Nir",
+      "Gender": "Male",
+      "SpokenWords": 317
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 1101
+    },
+    "מאיר יצחק הלוי": {
+      "HebrewName": "מאיר יצחק הלוי",
+      "EnglishName": "Yitzhak Halevi Meir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אופיר כץ": {
+      "HebrewName": "אופיר כץ",
+      "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 4121
+    },
+    "יריב לוין": {
+      "HebrewName": "יריב לוין",
+      "EnglishName": "Levin Yariv",
+      "Gender": "Male",
+      "SpokenWords": 869
+    },
+    "נעמה לזימי": {
+      "HebrewName": "נעמה לזימי",
+      "EnglishName": "Lazimi Naama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 3226
+    },
+    "אבי מעוז": {
+      "HebrewName": "אבי מעוז",
+      "EnglishName": "Maoz Avi",
+      "Gender": "Male",
+      "SpokenWords": 4602
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 897
+    },
+    "מופיד מרעי": {
+      "HebrewName": "מופיד מרעי",
+      "EnglishName": "Mari Mufid",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 581
+    },
+    "יצחק פינדרוס": {
+      "HebrewName": "יצחק פינדרוס",
+      "EnglishName": "Pindrus Yitzhak Zeev",
+      "Gender": "Male",
+      "SpokenWords": 8308
+    },
+    "מאיר פרוש": {
+      "HebrewName": "מאיר פרוש",
+      "EnglishName": "Porush Meir",
+      "Gender": "Male",
+      "SpokenWords": 3711
+    },
+    "אלכס קושניר": {
+      "HebrewName": "אלכס קושניר",
+      "EnglishName": "Kushnir Alex",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 90
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 3093
+    },
+    "יעל רון בן משה": {
+      "HebrewName": "יעל רון בן משה",
+      "EnglishName": "Ron Ben-Moshe Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

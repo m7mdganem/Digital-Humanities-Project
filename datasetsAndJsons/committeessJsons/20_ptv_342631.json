@@ -32,6 +32,18 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 239
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 59
+    },
+    "יפעת שאשא ביטון": {
+      "HebrewName": "יפעת שאשא ביטון",
+      "EnglishName": "Shasha-Biton Yifat",
+      "Gender": "Female",
+      "SpokenWords": 272
     }
   }
 }

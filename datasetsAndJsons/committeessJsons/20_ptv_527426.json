@@ -7,19 +7,19 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 1045
+      "SpokenWords": 615
     },
     "אמיר אוחנה": {
       "HebrewName": "אמיר אוחנה",
       "EnglishName": "Ohana Amir",
       "Gender": "Male",
-      "SpokenWords": 615
+      "SpokenWords": 23
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 1014
+      "SpokenWords": 77
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",
@@ -31,7 +31,7 @@
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 1102
+      "SpokenWords": 86
     }
   }
 }

@@ -62,6 +62,24 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 97
+    },
+    "מיקי לוי": {
+      "HebrewName": "מיקי לוי",
+      "EnglishName": "Levy Mickey",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "איציק שמולי": {
+      "HebrewName": "איציק שמולי",
+      "EnglishName": "Shmuli Itzik",
+      "Gender": "Male",
+      "SpokenWords": 36
     }
   }
 }

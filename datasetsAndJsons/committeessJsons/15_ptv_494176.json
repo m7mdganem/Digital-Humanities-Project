@@ -38,6 +38,12 @@
       "EnglishName": "Chazan Naomi",
       "Gender": "Female",
       "SpokenWords": 8
+    },
+    "דוד טל": {
+      "HebrewName": "דוד טל",
+      "EnglishName": "Tal David",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

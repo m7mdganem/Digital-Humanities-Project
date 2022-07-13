@@ -7,31 +7,133 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 20651
+      "SpokenWords": 2609
     },
     "מירב בן ארי": {
       "HebrewName": "מירב בן ארי",
       "EnglishName": "Ben Ari Merav",
       "Gender": "Female",
-      "SpokenWords": 9138
+      "SpokenWords": 674
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 18806
+      "SpokenWords": 868
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
       "EnglishName": "Silman Idit",
       "Gender": "Female",
-      "SpokenWords": 5101
+      "SpokenWords": 508
     },
     "רם שפע": {
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "משה ארבל": {
+      "HebrewName": "משה ארבל",
+      "EnglishName": "Arbel Moshe",
+      "Gender": "Male",
+      "SpokenWords": 10
+    },
+    "ענבר בזק": {
+      "HebrewName": "ענבר בזק",
+      "EnglishName": "Bezek Inbar",
+      "Gender": "Female",
+      "SpokenWords": 391
+    },
+    "דוד ביטן": {
+      "HebrewName": "דוד ביטן",
+      "EnglishName": "Bitan David",
+      "Gender": "Male",
+      "SpokenWords": 182
+    },
+    "קרן ברק": {
+      "HebrewName": "קרן ברק",
+      "EnglishName": "Barak Keren",
+      "Gender": "Female",
+      "SpokenWords": 651
+    },
+    "צבי האוזר": {
+      "HebrewName": "צבי האוזר",
+      "EnglishName": "Hauser Zvi",
+      "Gender": "Male",
+      "SpokenWords": 915
+    },
+    "מיכל וולדיגר": {
+      "HebrewName": "מיכל וולדיגר",
+      "EnglishName": "Waldiger Michal",
+      "Gender": "Female",
+      "SpokenWords": 49
+    },
+    "ג'ידא רינאוי זועבי": {
+      "HebrewName": "ג'ידא רינאוי זועבי",
+      "EnglishName": "Rinawie Zoabi Ghaida",
+      "Gender": "Female",
+      "SpokenWords": 328
+    },
+    "רון כץ": {
+      "HebrewName": "רון כץ",
+      "EnglishName": "Katz Ron",
+      "Gender": "Male",
+      "SpokenWords": 503
+    },
+    "רות וסרמן לנדה": {
+      "HebrewName": "רות וסרמן לנדה",
+      "EnglishName": "Wasserman Lande Ruth",
+      "Gender": "Female",
+      "SpokenWords": 719
+    },
+    "גבי לסקי": {
+      "HebrewName": "גבי לסקי",
+      "EnglishName": "Lasky Gaby",
+      "Gender": "Female",
+      "SpokenWords": 710
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 673
+    },
+    "שירלי פינטו": {
+      "HebrewName": "שירלי פינטו",
+      "EnglishName": "Pinto Shirly",
+      "Gender": "Female",
+      "SpokenWords": 134
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 34
+    },
+    "אפרת רייטן מרום": {
+      "HebrewName": "אפרת רייטן מרום",
+      "EnglishName": "Rayten Efrat",
+      "Gender": "Female",
+      "SpokenWords": 482
+    },
+    "קטי קטרין שטרית": {
+      "HebrewName": "קטי קטרין שטרית",
+      "EnglishName": "Shitrit Kathrin",
+      "Gender": "Female",
+      "SpokenWords": 1823
+    },
+    "יוסי שיין": {
+      "HebrewName": "יוסי שיין",
+      "EnglishName": "Shain Yossi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נירה שפק": {
+      "HebrewName": "נירה שפק",
+      "EnglishName": "Shpak Nira",
+      "Gender": "Female",
+      "SpokenWords": 597
     }
   }
 }

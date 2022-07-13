@@ -7,19 +7,19 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 21125
+      "SpokenWords": 2344
     },
     "מירב בן ארי": {
       "HebrewName": "מירב בן ארי",
       "EnglishName": "Ben Ari Merav",
       "Gender": "Female",
-      "SpokenWords": 10174
+      "SpokenWords": 3
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 265
+      "SpokenWords": 4
     },
     "שרן מרים השכל": {
       "HebrewName": "שרן מרים השכל",
@@ -31,13 +31,13 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 3309
+      "SpokenWords": 1
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 8256
+      "SpokenWords": 17
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
@@ -49,13 +49,79 @@
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 12512
+      "SpokenWords": 800
     },
     "רם שפע": {
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "קרן ברק": {
+      "HebrewName": "קרן ברק",
+      "EnglishName": "Barak Keren",
+      "Gender": "Female",
+      "SpokenWords": 1491
+    },
+    "מאזן גנאים": {
+      "HebrewName": "מאזן גנאים",
+      "EnglishName": "Ghnaim Mazen",
+      "Gender": "Male",
+      "SpokenWords": 2
+    },
+    "רות וסרמן לנדה": {
+      "HebrewName": "רות וסרמן לנדה",
+      "EnglishName": "Wasserman Lande Ruth",
+      "Gender": "Female",
+      "SpokenWords": 8
+    },
+    "אלון טל": {
+      "HebrewName": "אלון טל",
+      "EnglishName": "Tal Alon",
+      "Gender": "Male",
+      "SpokenWords": 23
+    },
+    "מאיר יצחק הלוי": {
+      "HebrewName": "מאיר יצחק הלוי",
+      "EnglishName": "Yitzhak Halevi Meir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דסטה גדי יברקן": {
+      "HebrewName": "דסטה גדי יברקן",
+      "EnglishName": "Yevarken Desta",
+      "Gender": "Male",
+      "SpokenWords": 267
+    },
+    "אופיר כץ": {
+      "HebrewName": "אופיר כץ",
+      "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 928
+    },
+    "פטין מולא": {
+      "HebrewName": "פטין מולא",
+      "EnglishName": "Mulla Fateen",
+      "Gender": "Male",
+      "SpokenWords": 573
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 929
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 1330
+    },
+    "מיכל שיר סגמן": {
+      "HebrewName": "מיכל שיר סגמן",
+      "EnglishName": "Shir Segman Michal",
+      "Gender": "Female",
+      "SpokenWords": 155
     }
   }
 }

@@ -7,13 +7,97 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 8828
+      "SpokenWords": 749
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 12183
+      "SpokenWords": 640
+    },
+    "משה אבוטבול": {
+      "HebrewName": "משה אבוטבול",
+      "EnglishName": "Abutbul Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אמיר אוחנה": {
+      "HebrewName": "אמיר אוחנה",
+      "EnglishName": "Ohana Amir",
+      "Gender": "Male",
+      "SpokenWords": 306
+    },
+    "משה ארבל": {
+      "HebrewName": "משה ארבל",
+      "EnglishName": "Arbel Moshe",
+      "Gender": "Male",
+      "SpokenWords": 558
+    },
+    "איתמר בן גביר": {
+      "HebrewName": "איתמר בן גביר",
+      "EnglishName": "Ben-Gvir Itamar",
+      "Gender": "Male",
+      "SpokenWords": 1054
+    },
+    "יואב בן צור": {
+      "HebrewName": "יואב בן צור",
+      "EnglishName": "Ben Tzur Yoav",
+      "Gender": "Male",
+      "SpokenWords": 123
+    },
+    "יוסף טייב": {
+      "HebrewName": "יוסף טייב",
+      "EnglishName": "Taieb Yosef",
+      "Gender": "Male",
+      "SpokenWords": 220
+    },
+    "עופר כסיף": {
+      "HebrewName": "עופר כסיף",
+      "EnglishName": "Cassif Ofer",
+      "Gender": "Male",
+      "SpokenWords": 617
+    },
+    "איימן עודה": {
+      "HebrewName": "איימן עודה",
+      "EnglishName": "Odeh Ayman",
+      "Gender": "Male",
+      "SpokenWords": 124
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 665
+    },
+    "מוסי רז": {
+      "HebrewName": "מוסי רז",
+      "EnglishName": "Raz Mossi",
+      "Gender": "Male",
+      "SpokenWords": 893
+    },
+    "קטי קטרין שטרית": {
+      "HebrewName": "קטי קטרין שטרית",
+      "EnglishName": "Shitrit Kathrin",
+      "Gender": "Female",
+      "SpokenWords": 761
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עאידה תומא סלימאן": {
+      "HebrewName": "עאידה תומא סלימאן",
+      "EnglishName": "Touma-Sliman Aida",
+      "Gender": "Female",
+      "SpokenWords": 288
     }
   }
 }

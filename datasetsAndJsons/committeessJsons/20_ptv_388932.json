@@ -56,6 +56,30 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 40
+    },
+    "אורלי לוי אבקסיס": {
+      "HebrewName": "אורלי לוי אבקסיס",
+      "EnglishName": "Levi-Abekasis Orly",
+      "Gender": "Female",
+      "SpokenWords": 35
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 76
+    },
+    "יפעת שאשא ביטון": {
+      "HebrewName": "יפעת שאשא ביטון",
+      "EnglishName": "Shasha-Biton Yifat",
+      "Gender": "Female",
+      "SpokenWords": 616
+    },
+    "עאידה תומא סלימאן": {
+      "HebrewName": "עאידה תומא סלימאן",
+      "EnglishName": "Touma-Sliman Aida",
+      "Gender": "Female",
+      "SpokenWords": 206
     }
   }
 }

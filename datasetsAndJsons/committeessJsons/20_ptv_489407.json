@@ -56,6 +56,42 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 650
+    },
+    "ג'מעה אזברגה": {
+      "HebrewName": "ג'מעה אזברגה",
+      "EnglishName": "Azbarga Joumah",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "זאב בנימין בגין": {
+      "HebrewName": "זאב בנימין בגין",
+      "EnglishName": "Begin Ze`ev Binyamin",
+      "Gender": "Male",
+      "SpokenWords": 666
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 43
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 186
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 337
     }
   }
 }

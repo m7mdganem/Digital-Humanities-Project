@@ -7,19 +7,19 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 10437
+      "SpokenWords": 1209
     },
     "מירב בן ארי": {
       "HebrewName": "מירב בן ארי",
       "EnglishName": "Ben Ari Merav",
       "Gender": "Female",
-      "SpokenWords": 763
+      "SpokenWords": 998
     },
     "איתן גינזבורג": {
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 5072
+      "SpokenWords": 655
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
@@ -31,13 +31,61 @@
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 1552
+      "SpokenWords": 413
     },
     "רם שפע": {
       "HebrewName": "רם שפע",
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
-      "SpokenWords": 9524
+      "SpokenWords": 717
+    },
+    "ולדימיר בליאק": {
+      "HebrewName": "ולדימיר בליאק",
+      "EnglishName": "Beliak Vladimir",
+      "Gender": "Male",
+      "SpokenWords": 229
+    },
+    "מאיר יצחק הלוי": {
+      "HebrewName": "מאיר יצחק הלוי",
+      "EnglishName": "Yitzhak Halevi Meir",
+      "Gender": "Male",
+      "SpokenWords": 553
+    },
+    "מיכל וולדיגר": {
+      "HebrewName": "מיכל וולדיגר",
+      "EnglishName": "Waldiger Michal",
+      "Gender": "Female",
+      "SpokenWords": 833
+    },
+    "יואב קיש": {
+      "HebrewName": "יואב קיש",
+      "EnglishName": "Kisch Yoav",
+      "Gender": "Male",
+      "SpokenWords": 14
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 406
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 719
+    },
+    "יוסף שיין": {
+      "HebrewName": "יוסף שיין",
+      "EnglishName": "Shain Yossi",
+      "Gender": "Male",
+      "SpokenWords": 1329
+    },
+    "נירה שפק": {
+      "HebrewName": "נירה שפק",
+      "EnglishName": "Shpak Nira",
+      "Gender": "Female",
+      "SpokenWords": 418
     }
   }
 }

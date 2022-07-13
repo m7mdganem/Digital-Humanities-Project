@@ -44,6 +44,48 @@
       "EnglishName": "Rozin Michal",
       "Gender": "Female",
       "SpokenWords": 26
+    },
+    "זאב בנימין בגין": {
+      "HebrewName": "זאב בנימין בגין",
+      "EnglishName": "Begin Ze`ev Binyamin",
+      "Gender": "Male",
+      "SpokenWords": 300
+    },
+    "מירב בן-ארי": {
+      "HebrewName": "מירב בן-ארי",
+      "EnglishName": "Ben Ari Merav",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יוסף ג'בארין": {
+      "HebrewName": "יוסף ג'בארין",
+      "EnglishName": "Jabareen Yousef",
+      "Gender": "Male",
+      "SpokenWords": 890
+    },
+    "דב חנין": {
+      "HebrewName": "דב חנין",
+      "EnglishName": "Khenin Dov",
+      "Gender": "Male",
+      "SpokenWords": 1029
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 699
+    },
+    "רועי פולקמן": {
+      "HebrewName": "רועי פולקמן",
+      "EnglishName": "Folkman Roy",
+      "Gender": "Male",
+      "SpokenWords": 845
+    },
+    "אלעזר שטרן": {
+      "HebrewName": "אלעזר שטרן",
+      "EnglishName": "Stern Elazar",
+      "Gender": "Male",
+      "SpokenWords": 796
     }
   }
 }

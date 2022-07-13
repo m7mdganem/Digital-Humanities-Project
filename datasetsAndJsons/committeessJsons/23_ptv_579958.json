@@ -32,6 +32,24 @@
       "EnglishName": "Kabla Einav",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "אלי אבידר": {
+      "HebrewName": "אלי אבידר",
+      "EnglishName": "Avidar Eli",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יואב סגלוביץ'": {
+      "HebrewName": "יואב סגלוביץ'",
+      "EnglishName": "Segalovitz Yoav",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

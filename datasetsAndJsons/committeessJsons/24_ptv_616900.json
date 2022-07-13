@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 4209
+      "SpokenWords": 487
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
@@ -25,7 +25,37 @@
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 3239
+      "SpokenWords": 318
+    },
+    "אבי מעוז": {
+      "HebrewName": "אבי מעוז",
+      "EnglishName": "Maoz Avi",
+      "Gender": "Male",
+      "SpokenWords": 206
+    },
+    "אופיר סופר": {
+      "HebrewName": "אופיר סופר",
+      "EnglishName": "Sofer Ofir",
+      "Gender": "Male",
+      "SpokenWords": 340
+    },
+    "אורית מלכה סטרוק": {
+      "HebrewName": "אורית מלכה סטרוק",
+      "EnglishName": "Strock Orit",
+      "Gender": "Female",
+      "SpokenWords": 793
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 178
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 238
     }
   }
 }

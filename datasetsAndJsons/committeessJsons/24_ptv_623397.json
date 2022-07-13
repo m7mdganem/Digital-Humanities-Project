@@ -7,18 +7,54 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 2682
+      "SpokenWords": 330
     },
     "ווליד טאהא": {
       "HebrewName": "ווליד טאהא",
       "EnglishName": "Taha Waleed",
       "Gender": "Male",
-      "SpokenWords": 2607
+      "SpokenWords": 244
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "רם בן ברק": {
+      "HebrewName": "רם בן ברק",
+      "EnglishName": "Ben Barak Ram",
+      "Gender": "Male",
+      "SpokenWords": 28
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "גבי לסקי": {
+      "HebrewName": "גבי לסקי",
+      "EnglishName": "Lasky Gaby",
+      "Gender": "Female",
+      "SpokenWords": 210
+    },
+    "אוסאמה סעדי": {
+      "HebrewName": "אוסאמה סעדי",
+      "EnglishName": "Saadi Osama",
+      "Gender": "Male",
+      "SpokenWords": 869
+    },
+    "מיכל רוזין": {
+      "HebrewName": "מיכל רוזין",
+      "EnglishName": "Rozin Michal",
+      "Gender": "Female",
+      "SpokenWords": 545
+    },
+    "נירה שפק": {
+      "HebrewName": "נירה שפק",
+      "EnglishName": "Shpak Nira",
+      "Gender": "Female",
       "SpokenWords": 0
     }
   }

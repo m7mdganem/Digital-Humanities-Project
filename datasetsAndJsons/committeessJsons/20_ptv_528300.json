@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 1986
+      "SpokenWords": 1173
     },
     "אמיר אוחנה": {
       "HebrewName": "אמיר אוחנה",
@@ -19,13 +19,13 @@
       "HebrewName": "רוברט אילטוב",
       "EnglishName": "Ilatov Robert",
       "Gender": "Male",
-      "SpokenWords": 265
+      "SpokenWords": 41
     },
     "דוד אמסלם": {
       "HebrewName": "דוד אמסלם",
       "EnglishName": "Amsalem David",
       "Gender": "Male",
-      "SpokenWords": 1207
+      "SpokenWords": 294
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
@@ -43,13 +43,13 @@
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 963
+      "SpokenWords": 345
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 514
+      "SpokenWords": 70
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -73,13 +73,43 @@
       "HebrewName": "רועי פולקמן",
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
-      "SpokenWords": 727
+      "SpokenWords": 172
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 1035
+      "SpokenWords": 118
+    },
+    "מרדכי יוגב": {
+      "HebrewName": "מרדכי יוגב",
+      "EnglishName": "Yogev Mordhay",
+      "Gender": "Male",
+      "SpokenWords": 190
+    },
+    "איתן כבל": {
+      "HebrewName": "איתן כבל",
+      "EnglishName": "Cabel Eitan",
+      "Gender": "Male",
+      "SpokenWords": 15
+    },
+    "אוסנת הילה מארק": {
+      "HebrewName": "אוסנת הילה מארק",
+      "EnglishName": "Mark Osnat Hila",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "לאה פדידה": {
+      "HebrewName": "לאה פדידה",
+      "EnglishName": "Fadida Leah",
+      "Gender": "Female",
+      "SpokenWords": 3
     }
   }
 }

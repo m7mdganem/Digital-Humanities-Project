@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 6339
+      "SpokenWords": 1394
     },
     "יואל חסון": {
       "HebrewName": "יואל חסון",
@@ -19,13 +19,25 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 1941
+      "SpokenWords": 21
     },
     "עודד פורר": {
       "HebrewName": "עודד פורר",
       "EnglishName": "Forer Oded",
       "Gender": "Male",
-      "SpokenWords": 6725
+      "SpokenWords": 520
+    },
+    "ענת ברקו": {
+      "HebrewName": "ענת ברקו",
+      "EnglishName": "Berko Anat",
+      "Gender": "Female",
+      "SpokenWords": 1034
+    },
+    "ג'מאל זחאלקה": {
+      "HebrewName": "ג'מאל זחאלקה",
+      "EnglishName": "Zahalka Jamal",
+      "Gender": "Male",
+      "SpokenWords": 382
     }
   }
 }

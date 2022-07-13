@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 182
+      "SpokenWords": 172
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
@@ -19,6 +19,12 @@
       "HebrewName": "שולי מועלם-רפאלי",
       "EnglishName": "Moalem-Refaeli Shuli",
       "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "זאב בנימין בגין": {
+      "HebrewName": "זאב בנימין בגין",
+      "EnglishName": "Begin Ze`ev Binyamin",
+      "Gender": "Male",
       "SpokenWords": 0
     }
   }

@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 4483
+      "SpokenWords": 935
     },
     "עמית הלוי": {
       "HebrewName": "עמית הלוי",
@@ -19,43 +19,43 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 2100
+      "SpokenWords": 355
     },
     "מטי יוגב": {
       "HebrewName": "מטי יוגב",
       "EnglishName": "Yogev Matti",
       "Gender": "Female",
-      "SpokenWords": 2503
+      "SpokenWords": 6
     },
     "אופיר כץ": {
       "HebrewName": "אופיר כץ",
       "EnglishName": "Katz Ofir",
       "Gender": "Male",
-      "SpokenWords": 277
+      "SpokenWords": 18
     },
     "מיכאל מלכיאלי": {
       "HebrewName": "מיכאל מלכיאלי",
       "EnglishName": "Malchieli Michael",
       "Gender": "Male",
-      "SpokenWords": 4275
+      "SpokenWords": 417
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
       "EnglishName": "Pindrus Yitzhak Zeev",
       "Gender": "Male",
-      "SpokenWords": 4796
+      "SpokenWords": 416
     },
     "תהלה פרידמן": {
       "HebrewName": "תהלה פרידמן",
       "EnglishName": "Friedman Tehila",
       "Gender": "Female",
-      "SpokenWords": 4739
+      "SpokenWords": 14
     },
     "אלעזר שטרן": {
       "HebrewName": "אלעזר שטרן",
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
-      "SpokenWords": 3248
+      "SpokenWords": 235
     },
     "שבח שטרן": {
       "HebrewName": "שבח שטרן",
@@ -68,6 +68,48 @@
       "EnglishName": "Shay Vazan Hila",
       "Gender": "Female",
       "SpokenWords": 0
+    },
+    "ולדימיר בליאק": {
+      "HebrewName": "ולדימיר בליאק",
+      "EnglishName": "Beliak Vladimir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 456
+    },
+    "מאי גולן": {
+      "HebrewName": "מאי גולן",
+      "EnglishName": "Golan May",
+      "Gender": "Female",
+      "SpokenWords": 7
+    },
+    "יוליה מלינובסקי": {
+      "HebrewName": "יוליה מלינובסקי",
+      "EnglishName": "Malinovsky Yulia",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "סונדוס סאלח": {
+      "HebrewName": "סונדוס סאלח",
+      "EnglishName": "Saleh Sondos",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "יעל רון בן משה": {
+      "HebrewName": "יעל רון בן משה",
+      "EnglishName": "Ron Ben-Moshe Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "אריאל קלנר": {
+      "HebrewName": "אריאל קלנר",
+      "EnglishName": "Kallner Ariel",
+      "Gender": "Male",
+      "SpokenWords": 55
     }
   }
 }

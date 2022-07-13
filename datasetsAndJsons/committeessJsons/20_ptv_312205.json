@@ -68,6 +68,78 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 444
+    },
+    "טלב אבו עראר": {
+      "HebrewName": "טלב אבו עראר",
+      "EnglishName": "Abu Arar Talab",
+      "Gender": "Male",
+      "SpokenWords": 20
+    },
+    "נאווה בוקר": {
+      "HebrewName": "נאווה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "שרון גל": {
+      "HebrewName": "שרון גל",
+      "EnglishName": "Gal Sharon",
+      "Gender": "Male",
+      "SpokenWords": 675
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 461
+    },
+    "חנין זועבי": {
+      "HebrewName": "חנין זועבי",
+      "EnglishName": "Zoabi Hanin",
+      "Gender": "Female",
+      "SpokenWords": 438
+    },
+    "ג'מאל זחאלקה": {
+      "HebrewName": "ג'מאל זחאלקה",
+      "EnglishName": "Zahalka Jamal",
+      "Gender": "Male",
+      "SpokenWords": 910
+    },
+    "עבד אל חכים חאג' יחיא": {
+      "HebrewName": "עבד אל חכים חאג' יחיא",
+      "EnglishName": "Haj Yahya Abd Al Hakeem",
+      "Gender": "Male",
+      "SpokenWords": 461
+    },
+    "חיים ילין": {
+      "HebrewName": "חיים ילין",
+      "EnglishName": "Jelin Haim",
+      "Gender": "Male",
+      "SpokenWords": 387
+    },
+    "דניאל עטר": {
+      "HebrewName": "דניאל עטר",
+      "EnglishName": "Atar Daniel",
+      "Gender": "Male",
+      "SpokenWords": 365
+    },
+    "נורית קורן": {
+      "HebrewName": "נורית קורן",
+      "EnglishName": "Koren Nurit",
+      "Gender": "Female",
+      "SpokenWords": 30
+    },
+    "איציק שמולי": {
+      "HebrewName": "איציק שמולי",
+      "EnglishName": "Shmuli Itzik",
+      "Gender": "Male",
+      "SpokenWords": 4
+    },
+    "עאידה תומא סלימאן": {
+      "HebrewName": "עאידה תומא סלימאן",
+      "EnglishName": "Touma-Sliman Aida",
+      "Gender": "Female",
+      "SpokenWords": 28
     }
   }
 }

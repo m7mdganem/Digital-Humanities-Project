@@ -32,6 +32,18 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 40
+    },
+    "דן סידה": {
+      "HebrewName": "דן סידה",
+      "EnglishName": "Saida Dan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יפעת שאשא-ביטון": {
+      "HebrewName": "יפעת שאשא-ביטון",
+      "EnglishName": "Shasha-Biton Yifat",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

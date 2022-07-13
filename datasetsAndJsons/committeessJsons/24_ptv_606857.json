@@ -7,13 +7,13 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 7030
+      "SpokenWords": 836
     },
     "מירב בן ארי": {
       "HebrewName": "מירב בן ארי",
       "EnglishName": "Ben Ari Merav",
       "Gender": "Female",
-      "SpokenWords": 1883
+      "SpokenWords": 91
     },
     "ווליד טאהא": {
       "HebrewName": "ווליד טאהא",
@@ -25,13 +25,13 @@
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 2350
+      "SpokenWords": 58
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 1657
+      "SpokenWords": 72
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
@@ -44,6 +44,42 @@
       "EnglishName": "Shefa Ram",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "יעקב אשר": {
+      "HebrewName": "יעקב אשר",
+      "EnglishName": "Asher Yakov",
+      "Gender": "Male",
+      "SpokenWords": 745
+    },
+    "נעמה לזימי": {
+      "HebrewName": "נעמה לזימי",
+      "EnglishName": "Lazimi Naama",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 180
+    },
+    "אבי מעוז": {
+      "HebrewName": "אבי מעוז",
+      "EnglishName": "Maoz Avi",
+      "Gender": "Male",
+      "SpokenWords": 424
+    },
+    "אורי מקלב": {
+      "HebrewName": "אורי מקלב",
+      "EnglishName": "Maklev Uri",
+      "Gender": "Male",
+      "SpokenWords": 767
+    },
+    "שמחה רוטמן": {
+      "HebrewName": "שמחה רוטמן",
+      "EnglishName": "Rothman Simcha",
+      "Gender": "Male",
+      "SpokenWords": 1303
     }
   }
 }

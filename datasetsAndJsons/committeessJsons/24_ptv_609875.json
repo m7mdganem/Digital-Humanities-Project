@@ -7,31 +7,55 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 8907
+      "SpokenWords": 1032
     },
     "אימאן ח'טיב יאסין": {
       "HebrewName": "אימאן ח'טיב יאסין",
       "EnglishName": "Khatib-Yasin Iman",
       "Gender": "Female",
-      "SpokenWords": 1160
+      "SpokenWords": 12
     },
     "בועז טופורובסקי": {
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 7392
+      "SpokenWords": 210
     },
     "נעמה לזימי": {
       "HebrewName": "נעמה לזימי",
       "EnglishName": "Lazimi Naama",
       "Gender": "Female",
-      "SpokenWords": 4099
+      "SpokenWords": 457
     },
     "אלכס קושניר": {
       "HebrewName": "אלכס קושניר",
       "EnglishName": "Kushnir Alex",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "ינון אזולאי": {
+      "HebrewName": "ינון אזולאי",
+      "EnglishName": "Azoulay Yinon",
+      "Gender": "Male",
+      "SpokenWords": 1016
+    },
+    "ולדימיר בליאק": {
+      "HebrewName": "ולדימיר בליאק",
+      "EnglishName": "Beliak Vladimir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אופיר כץ": {
+      "HebrewName": "אופיר כץ",
+      "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 382
+    },
+    "שלמה קרעי": {
+      "HebrewName": "שלמה קרעי",
+      "EnglishName": "Karhi Shlomo",
+      "Gender": "Male",
+      "SpokenWords": 1488
     }
   }
 }

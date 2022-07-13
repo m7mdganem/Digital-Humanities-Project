@@ -62,6 +62,18 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 318
+    },
+    "אייל בן ראובן": {
+      "HebrewName": "אייל בן ראובן",
+      "EnglishName": "Ben Reuven Eyal",
+      "Gender": "Male",
+      "SpokenWords": 85
+    },
+    "עפר שלח": {
+      "HebrewName": "עפר שלח",
+      "EnglishName": "Shelah Ofer",
+      "Gender": "Male",
+      "SpokenWords": 442
     }
   }
 }

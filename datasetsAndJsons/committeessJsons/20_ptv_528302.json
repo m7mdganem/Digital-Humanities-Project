@@ -7,13 +7,13 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 2231
+      "SpokenWords": 544
     },
     "דוד אמסלם": {
       "HebrewName": "דוד אמסלם",
       "EnglishName": "Amsalem David",
       "Gender": "Male",
-      "SpokenWords": 2477
+      "SpokenWords": 253
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
@@ -25,19 +25,25 @@
       "HebrewName": "יואל חסון",
       "EnglishName": "Hasson Yoel",
       "Gender": "Male",
-      "SpokenWords": 2271
+      "SpokenWords": 343
     },
     "רועי פולקמן": {
       "HebrewName": "רועי פולקמן",
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
-      "SpokenWords": 2132
+      "SpokenWords": 8
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 1787
+      "SpokenWords": 387
+    },
+    "אוסנת הילה מארק": {
+      "HebrewName": "אוסנת הילה מארק",
+      "EnglishName": "Mark Osnat Hila",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

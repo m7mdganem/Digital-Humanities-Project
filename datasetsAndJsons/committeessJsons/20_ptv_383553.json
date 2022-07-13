@@ -38,6 +38,36 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 10
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 327
+    },
+    "יגאל גואטה": {
+      "HebrewName": "יגאל גואטה",
+      "EnglishName": "Guetta Yigal",
+      "Gender": "Male",
+      "SpokenWords": 51
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "מיכאל מלכיאלי": {
+      "HebrewName": "מיכאל מלכיאלי",
+      "EnglishName": "Malchieli Michael",
+      "Gender": "Male",
+      "SpokenWords": 8
+    },
+    "יעקב פרי": {
+      "HebrewName": "יעקב פרי",
+      "EnglishName": "Perry Yaakov",
+      "Gender": "Male",
+      "SpokenWords": 44
     }
   }
 }

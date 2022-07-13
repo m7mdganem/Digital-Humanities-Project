@@ -80,6 +80,30 @@
       "EnglishName": "Sharoni Moshe",
       "Gender": "Male",
       "SpokenWords": 55
+    },
+    "זאב אלקין": {
+      "HebrewName": "זאב אלקין",
+      "EnglishName": "Elkin Zeev",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 22
+    },
+    "אמנון כהן": {
+      "HebrewName": "אמנון כהן",
+      "EnglishName": "Cohen Amnon",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יוסי ביילין": {
+      "HebrewName": "יוסי ביילין",
+      "EnglishName": "Beilin Yossi",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

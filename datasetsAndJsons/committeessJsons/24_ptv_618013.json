@@ -7,25 +7,31 @@
       "HebrewName": "ניר אורבך",
       "EnglishName": "Orbach Nir",
       "Gender": "Male",
-      "SpokenWords": 802
+      "SpokenWords": 258
     },
     "שרן מרים השכל": {
       "HebrewName": "שרן מרים השכל",
       "EnglishName": "Haskel Sharren",
       "Gender": "Female",
-      "SpokenWords": 439
+      "SpokenWords": 264
     },
     "יבגני סובה": {
       "HebrewName": "יבגני סובה",
       "EnglishName": "Sova Evgeny",
       "Gender": "Male",
-      "SpokenWords": 226
+      "SpokenWords": 31
     },
     "עידית סילמן": {
       "HebrewName": "עידית סילמן",
       "EnglishName": "Silman Idit",
       "Gender": "Female",
-      "SpokenWords": 65
+      "SpokenWords": 12
+    },
+    "רם שפע": {
+      "HebrewName": "רם שפע",
+      "EnglishName": "Shefa Ram",
+      "Gender": "Male",
+      "SpokenWords": 147
     }
   }
 }

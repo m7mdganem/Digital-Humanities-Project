@@ -26,6 +26,24 @@
       "EnglishName": "Neguise Avraham",
       "Gender": "Male",
       "SpokenWords": 89
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 30
+    },
+    "מרדכי יוגב": {
+      "HebrewName": "מרדכי יוגב",
+      "EnglishName": "Yogev Mordhay",
+      "Gender": "Male",
+      "SpokenWords": 912
+    },
+    "בצלאל סמוטריץ'": {
+      "HebrewName": "בצלאל סמוטריץ'",
+      "EnglishName": "Smotrich Bezalel",
+      "Gender": "Male",
+      "SpokenWords": 1035
     }
   }
 }

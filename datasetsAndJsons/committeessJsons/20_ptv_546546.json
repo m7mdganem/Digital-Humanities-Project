@@ -7,31 +7,49 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 19146
+      "SpokenWords": 5280
     },
     "אמיר אוחנה": {
       "HebrewName": "אמיר אוחנה",
       "EnglishName": "Ohana Amir",
       "Gender": "Male",
-      "SpokenWords": 19759
+      "SpokenWords": 752
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 7802
+      "SpokenWords": 304
     },
     "אוסנת הילה מארק": {
       "HebrewName": "אוסנת הילה מארק",
       "EnglishName": "Mark Osnat Hila",
       "Gender": "Female",
-      "SpokenWords": 19743
+      "SpokenWords": 819
     },
     "מיכאל מלכיאלי": {
       "HebrewName": "מיכאל מלכיאלי",
       "EnglishName": "Malchieli Michael",
       "Gender": "Male",
-      "SpokenWords": 14133
+      "SpokenWords": 273
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "איימן עודה": {
+      "HebrewName": "איימן עודה",
+      "EnglishName": "Odeh Ayman",
+      "Gender": "Male",
+      "SpokenWords": 179
+    },
+    "עיסאווי פריג'": {
+      "HebrewName": "עיסאווי פריג'",
+      "EnglishName": "Frej Esawi",
+      "Gender": "Male",
+      "SpokenWords": 793
     }
   }
 }

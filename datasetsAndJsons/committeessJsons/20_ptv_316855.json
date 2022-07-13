@@ -50,6 +50,12 @@
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
       "SpokenWords": 140
+    },
+    "מסעוד גנאים": {
+      "HebrewName": "מסעוד גנאים",
+      "EnglishName": "Ganaim Masud",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

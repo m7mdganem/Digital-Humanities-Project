@@ -50,6 +50,18 @@
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
       "SpokenWords": 32
+    },
+    "אייל בן ראובן": {
+      "HebrewName": "אייל בן ראובן",
+      "EnglishName": "Ben Reuven Eyal",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "נאוה בוקר": {
+      "HebrewName": "נאוה בוקר",
+      "EnglishName": "Boker Nava",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

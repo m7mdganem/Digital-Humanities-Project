@@ -7,19 +7,19 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 9511
+      "SpokenWords": 2325
     },
     "שולי מועלם רפאלי": {
       "HebrewName": "שולי מועלם רפאלי",
       "EnglishName": "Moalem-Refaeli Shuli",
       "Gender": "Female",
-      "SpokenWords": 9102
+      "SpokenWords": 568
     },
     "חיים ילין": {
       "HebrewName": "חיים ילין",
       "EnglishName": "Jelin Haim",
       "Gender": "Male",
-      "SpokenWords": 5082
+      "SpokenWords": 725
     },
     "אברהם נגוסה": {
       "HebrewName": "אברהם נגוסה",
@@ -31,7 +31,19 @@
       "HebrewName": "רויטל סויד",
       "EnglishName": "Swid Revital",
       "Gender": "Female",
-      "SpokenWords": 1446
+      "SpokenWords": 201
+    },
+    "יהודה גליק": {
+      "HebrewName": "יהודה גליק",
+      "EnglishName": "Glick Yehuda Joshua",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "תמר זנדברג": {
+      "HebrewName": "תמר זנדברג",
+      "EnglishName": "Zandberg Tamar",
+      "Gender": "Female",
+      "SpokenWords": 50
     }
   }
 }

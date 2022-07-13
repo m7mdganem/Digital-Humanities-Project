@@ -68,6 +68,12 @@
       "EnglishName": "Rozin Michal",
       "Gender": "Female",
       "SpokenWords": 4
+    },
+    "זוהיר בהלול": {
+      "HebrewName": "זוהיר בהלול",
+      "EnglishName": "Bahloul Zouheir",
+      "Gender": "Male",
+      "SpokenWords": 87
     }
   }
 }

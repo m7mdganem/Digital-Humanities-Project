@@ -32,6 +32,12 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 30
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 123
     }
   }
 }

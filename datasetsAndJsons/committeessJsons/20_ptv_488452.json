@@ -38,6 +38,18 @@
       "EnglishName": "Folkman Roy",
       "Gender": "Male",
       "SpokenWords": 3
+    },
+    "ג'מעה אזברגה": {
+      "HebrewName": "ג'מעה אזברגה",
+      "EnglishName": "Azbarga Joumah",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "חמד עמאר": {
+      "HebrewName": "חמד עמאר",
+      "EnglishName": "Amar Hamad",
+      "Gender": "Male",
+      "SpokenWords": 0
     }
   }
 }

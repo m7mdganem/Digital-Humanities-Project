@@ -7,7 +7,7 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 1239
+      "SpokenWords": 547
     },
     "דוד ביטן": {
       "HebrewName": "דוד ביטן",
@@ -19,7 +19,7 @@
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 389
+      "SpokenWords": 81
     },
     "שולי מועלם-רפאלי": {
       "HebrewName": "שולי מועלם-רפאלי",
@@ -37,13 +37,43 @@
       "HebrewName": "איילת נחמיאס ורבין",
       "EnglishName": "Nahmias-Verbin Ayelet",
       "Gender": "Female",
-      "SpokenWords": 354
+      "SpokenWords": 3
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 555
+      "SpokenWords": 100
+    },
+    "עמר בר לב": {
+      "HebrewName": "עמר בר לב",
+      "EnglishName": "Barlev Omer",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אכרם חסון": {
+      "HebrewName": "אכרם חסון",
+      "EnglishName": "Hasoon Akram",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "דן סידה": {
+      "HebrewName": "דן סידה",
+      "EnglishName": "Saida Dan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעל כהן פארן": {
+      "HebrewName": "יעל כהן פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 8
+    },
+    "נחמן שי": {
+      "HebrewName": "נחמן שי",
+      "EnglishName": "Shai Nachman",
+      "Gender": "Male",
+      "SpokenWords": 232
     }
   }
 }

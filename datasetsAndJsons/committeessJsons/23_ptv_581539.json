@@ -7,7 +7,7 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 3120
+      "SpokenWords": 1671
     },
     "עוזי דיין": {
       "HebrewName": "עוזי דיין",
@@ -25,13 +25,13 @@
       "HebrewName": "בועז טופורובסקי",
       "EnglishName": "Toporovsky Boaz",
       "Gender": "Male",
-      "SpokenWords": 3287
+      "SpokenWords": 435
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 1590
+      "SpokenWords": 113
     },
     "אופיר כץ": {
       "HebrewName": "אופיר כץ",
@@ -61,7 +61,7 @@
       "HebrewName": "טלי פלוסקוב",
       "EnglishName": "Ploskov Tali",
       "Gender": "Female",
-      "SpokenWords": 1075
+      "SpokenWords": 16
     },
     "תהלה פרידמן": {
       "HebrewName": "תהלה פרידמן",
@@ -73,11 +73,23 @@
       "HebrewName": "אלעזר שטרן",
       "EnglishName": "Stern Elazar",
       "Gender": "Male",
-      "SpokenWords": 723
+      "SpokenWords": 190
     },
     "הילה שי וזאן": {
       "HebrewName": "הילה שי וזאן",
       "EnglishName": "Shay Vazan Hila",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "ניצן הורוביץ": {
+      "HebrewName": "ניצן הורוביץ",
+      "EnglishName": "Horowitz Nitzan",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "מיכל וונש": {
+      "HebrewName": "מיכל וונש",
+      "EnglishName": "Wunsh Michal",
       "Gender": "Female",
       "SpokenWords": 0
     }

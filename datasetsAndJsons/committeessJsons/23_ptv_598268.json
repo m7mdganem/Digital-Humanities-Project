@@ -7,25 +7,25 @@
       "HebrewName": "איתן גינזבורג",
       "EnglishName": "Ginzburg Eitan",
       "Gender": "Male",
-      "SpokenWords": 488
+      "SpokenWords": 249
     },
     "עמית הלוי": {
       "HebrewName": "עמית הלוי",
       "EnglishName": "Halevi Amit",
       "Gender": "Male",
-      "SpokenWords": 221
+      "SpokenWords": 2
     },
     "אחמד טיבי": {
       "HebrewName": "אחמד טיבי",
       "EnglishName": "Tibi Ahmad",
       "Gender": "Male",
-      "SpokenWords": 389
+      "SpokenWords": 31
     },
     "מטי יוגב": {
       "HebrewName": "מטי יוגב",
       "EnglishName": "Yogev Matti",
       "Gender": "Female",
-      "SpokenWords": 296
+      "SpokenWords": 11
     },
     "יצחק פינדרוס": {
       "HebrewName": "יצחק פינדרוס",
@@ -38,6 +38,30 @@
       "EnglishName": "Stern Shevach",
       "Gender": "Male",
       "SpokenWords": 0
+    },
+    "משה ארבל": {
+      "HebrewName": "משה ארבל",
+      "EnglishName": "Arbel Moshe",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "עוזי דיין": {
+      "HebrewName": "עוזי דיין",
+      "EnglishName": "Dayan Uzi",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "אופיר כץ": {
+      "HebrewName": "אופיר כץ",
+      "EnglishName": "Katz Ofir",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעקב מרגי": {
+      "HebrewName": "יעקב מרגי",
+      "EnglishName": "Margi Yakov",
+      "Gender": "Male",
+      "SpokenWords": 57
     }
   }
 }

@@ -7,13 +7,13 @@
       "HebrewName": "מכלוף מיקי זוהר",
       "EnglishName": "Zohar Miki",
       "Gender": "Male",
-      "SpokenWords": 1933
+      "SpokenWords": 1428
     },
     "ישראל אייכלר": {
       "HebrewName": "ישראל אייכלר",
       "EnglishName": "Eichler Israel",
       "Gender": "Male",
-      "SpokenWords": 962
+      "SpokenWords": 158
     },
     "יואב בן צור": {
       "HebrewName": "יואב בן צור",
@@ -25,13 +25,43 @@
       "HebrewName": "יואב קיש",
       "EnglishName": "Kisch Yoav",
       "Gender": "Male",
-      "SpokenWords": 1094
+      "SpokenWords": 665
     },
     "פנינה תמנו": {
       "HebrewName": "פנינה תמנו",
       "EnglishName": "Tamanu Penina",
       "Gender": "Female",
-      "SpokenWords": 820
+      "SpokenWords": 274
+    },
+    "בני בגין": {
+      "HebrewName": "בני בגין",
+      "EnglishName": "Begin Ze`ev Binyamin",
+      "Gender": "Male",
+      "SpokenWords": 0
+    },
+    "יעל כהן-פארן": {
+      "HebrewName": "יעל כהן-פארן",
+      "EnglishName": "Cohen Paran Yael",
+      "Gender": "Female",
+      "SpokenWords": 0
+    },
+    "משה גפני": {
+      "HebrewName": "משה גפני",
+      "EnglishName": "Gafni Moshe",
+      "Gender": "Male",
+      "SpokenWords": 3
+    },
+    "רחל עזריה": {
+      "HebrewName": "רחל עזריה",
+      "EnglishName": "Azaria Rachel",
+      "Gender": "Female",
+      "SpokenWords": 265
+    },
+    "עליזה לביא": {
+      "HebrewName": "עליזה לביא",
+      "EnglishName": "Lavie Aliza",
+      "Gender": "Female",
+      "SpokenWords": 129
     }
   }
 }
