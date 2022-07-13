@@ -8,6 +8,18 @@
       "EnglishName": "Levin Yariv",
       "Gender": "Male",
       "SpokenWords": 1072
+    },
+    "אלכס מילר": {
+      "HebrewName": "אלכס מילר",
+      "EnglishName": "Miller Alex",
+      "Gender": "Male",
+      "SpokenWords": 537
+    },
+    "אנסטסיה מיכאלי": {
+      "HebrewName": "אנסטסיה מיכאלי",
+      "EnglishName": "Michaeli Anastassia",
+      "Gender": "Female",
+      "SpokenWords": 0
     }
   }
 }

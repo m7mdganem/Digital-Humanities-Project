@@ -3,6 +3,12 @@
   "CommitteeDate": "11/22/2004",
   "KnessetNumber": "16",
   "participantsDetails": {
+    "רוני בר און": {
+      "HebrewName": "רוני בר און",
+      "EnglishName": "Bar-On Ronnie",
+      "Gender": "Male",
+      "SpokenWords": 420
+    },
     "מאיר פרוש": {
       "HebrewName": "מאיר פרוש",
       "EnglishName": "Porush Meir",
